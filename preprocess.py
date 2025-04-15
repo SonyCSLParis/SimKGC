@@ -158,9 +158,9 @@ def _process_line_fb15k237(line: str) -> dict:
 
 def preprocess_fb15k237(path):
     if not fb15k_id2desc:
-        _load_fb15k237_desc('{}/FB15k_mid2description.txt'.format(os.path.dirname(path)))
+        _load_fb15k237_desc('{}/mid2description.txt'.format(os.path.dirname(path)))
     if not fb15k_id2ent:
-        _load_fb15k237_wikidata('{}/FB15k_mid2name.txt'.format(os.path.dirname(path)))
+        _load_fb15k237_wikidata('{}/mid2name.txt'.format(os.path.dirname(path)))
 
     lines = open(path, 'r', encoding='utf-8').readlines()
     pool = Pool(processes=args.workers)
