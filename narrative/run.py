@@ -3,6 +3,9 @@
 import os
 import subprocess
 import multiprocessing
+import argparse
+
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
 # DS VERSIONS
 VP = os.path.expanduser("~/data/SimKGC/NarrativeInductiveDataset")
@@ -10,16 +13,52 @@ VERSIONS = sorted(os.listdir(VP))
 
 LEARNING_RATES = [1e-5, 3e-5, 5e-5]
 EPOCHS = [1, 10, 50]
-BATCH_SIZE = [256, 512, 1024]
+BATCH_SIZE = [128, 256, 512, 1024]
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Run NarrativeInductive experiments for SimKGC")
+    # Parameters for grid search
+    parser.add_argument("--versions", type=str, default=None, help="Comma-separated list of versions to run")
+    parser.add_argument("--learning-rates", type=str, default=None, 
+                        help="Comma-separated list of learning rates to try (e.g., 0.001,0.0001)")
+    parser.add_argument("--epochs", type=str, default=None,
+                        help="Comma-separated list of embedding dimensions to try (e.g., 160,192)")
+    parser.add_argument("--batch-sizes", type=str, default=None,
+                        help="Comma-separated list of batch sizes to try (e.g., 192,256)")
+    
+    return parser.parse_args()
 
 OUTPUT_F = "./narrative/experiments"
 if not os.path.exists(OUTPUT_F):
     os.makedirs(OUTPUT_F)
 
 def main():
-    for lr in LEARNING_RATES:
-        for epoch in EPOCHS:
-            for bs in BATCH_SIZE:
+    args = parse_args()
+    if args.versions:
+        versions_to_run = args.versions.split(",")
+        # Validate versions
+        for v in versions_to_run:
+            if v not in VERSIONS:
+                logger.error(f"Version {v} not found in {VP}")
+                return
+    else:
+        versions_to_run = VERSIONS
+    if args.learning_rates:
+        learning_rates = [float(lr) for lr in args.learning_rates.split(",")]
+    else:
+        learning_rates = LEARNING_RATE
+    if args.epochs:
+        epochs = [int(e) for e in args.epochs.split(",")]
+    else:
+        epochs = EPOCHS
+    if args.batch_sizes:
+        batch_sizes = [int(bs) for bs in args.batch_sizes.split(",")]
+    else:
+        batch_sizes = BATCH_SIZE
+
+    for lr in learning_rates:
+        for epoch in epochs:
+            for bs in batch_sizes:
                 for v in VERSIONS:
                     name = f"{v}_lr{lr}_bs{bs}_ep{epoch}"
                     output_dir = os.path.join(OUTPUT_F, name)
@@ -53,3 +92,7 @@ def main():
                         --max-to-keep 5 "$@"
                         """
                         subprocess.run(command, shell=True, check=True)
+
+
+if __name__ == "__main__":
+    main()
