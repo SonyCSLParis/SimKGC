@@ -41,4 +41,4 @@ def main(data_dir, output_f, lr, batch_size, epochs):
     --workers {workers} \
     --max-to-keep 5 "$@"
     """
-    subprocess.run(command, shell=True, check=True)
+    subprocess.run(command, shell=True, check=False)

@@ -4,6 +4,7 @@ import os
 import subprocess
 import multiprocessing
 import argparse
+from loguru import logger
 
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
@@ -13,7 +14,7 @@ VERSIONS = sorted(os.listdir(VP))
 
 LEARNING_RATES = [1e-5, 3e-5, 5e-5]
 EPOCHS = [1, 10, 50]
-BATCH_SIZE = [128, 256, 512, 1024]
+BATCH_SIZE = [256, 512, 1024]
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Run NarrativeInductive experiments for SimKGC")
@@ -46,7 +47,7 @@ def main():
     if args.learning_rates:
         learning_rates = [float(lr) for lr in args.learning_rates.split(",")]
     else:
-        learning_rates = LEARNING_RATE
+        learning_rates = LEARNING_RATES
     if args.epochs:
         epochs = [int(e) for e in args.epochs.split(",")]
     else:
@@ -56,13 +57,14 @@ def main():
     else:
         batch_sizes = BATCH_SIZE
 
-    for lr in learning_rates:
-        for epoch in epochs:
-            for bs in batch_sizes:
-                for v in VERSIONS:
+    for epoch in epochs:
+        for v in VERSIONS:
+            for lr in learning_rates:
+                for bs in batch_sizes:
                     name = f"{v}_lr{lr}_bs{bs}_ep{epoch}"
                     output_dir = os.path.join(OUTPUT_F, name)
-                    if not os.path.exists(os.path.join(output_dir, "model_best.mdl")):
+                    # if not os.path.exists(os.path.join(output_dir, "model_best.mdl")):
+                    if not os.path.exists(output_dir):
                         os.makedirs(output_dir, exist_ok=True)
 
                         data_dir = os.path.join(VP, v)
@@ -91,7 +93,7 @@ def main():
                         --workers {workers} \
                         --max-to-keep 5 "$@"
                         """
-                        subprocess.run(command, shell=True, check=True)
+                        subprocess.run(command, shell=True, check=False)
 
 
 if __name__ == "__main__":

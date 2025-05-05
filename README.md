@@ -1,3 +1,17 @@
+# From Symbols to Numbers: Measuring the Impact of Narrative Complexity on Embeddings
+
+We use this method to investigate how narrative semantic and syntactic levels impact embedding performance. For SimKGC, we are more particularly interested in textual descriptions.
+
+Forked from the [original repository](https://github.com/intfloat/SimKGC)
+
+All the content related to the narrative analysis is in the `narrative` folder:
+* `train.py`: run one single model
+* `run.py`: run all experiments
+* `eval.py`: evaluate trained models
+* `analysis.py`: gathering results
+* `analysis.ipynb`: analysis results used in the paper
+* `experiments` and `results` folder: raw results of the experiments, and main `.csv` with results, respectively.
+
 ## SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models
 
 Official code repository for ACL 2022 paper 
