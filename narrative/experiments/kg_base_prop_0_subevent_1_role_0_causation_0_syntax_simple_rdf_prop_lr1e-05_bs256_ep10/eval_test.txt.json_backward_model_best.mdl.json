@@ -1,0 +1,3362 @@
+[
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Velvet Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania",
+        "relation": "inverse has place",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.6193,
+        "topk_score_info": "{\"Romanian Revolution\": 0.619, \"Operation R\\ufffd%B Cbezahl\": 0.552, \"Romanian Revolution of 1989\": 0.5}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Romanian Revolution\": 0.651}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Syrian Civil War",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 48,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution of 1989",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Romanian Revolution of 1989\": 0.634}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Donbass",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Mongolian People's Republic",
+        "relation": "inverse has place",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Battle of Baitag Bogd",
+        "pred_score": 0.6477,
+        "topk_score_info": "{\"Battle of Baitag Bogd\": 0.648, \"Mongolian Revolution of 1921\": 0.601, \"Mongolian Revolution of 1990\": 0.594}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Log Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Log Revolution\": 0.669, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.5954,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.595, \"Battle of Poljana\": 0.593, \"Operation Uzice\": 0.592}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "SR Croatia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Operation Prijedor",
+        "pred_score": 0.6189,
+        "topk_score_info": "{\"Operation Prijedor\": 0.619, \"Battle of Livno\": 0.613, \"Operation Southeast Croatia\": 0.611}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Siege of Kraljevo",
+        "pred_score": 0.579,
+        "topk_score_info": "{\"Siege of Kraljevo\": 0.579, \"Attack on Kru\\u0161evac\": 0.547, \"Battle of Ljubi\\u0107\": 0.537}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "SR Serbia",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.5765,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.576, \"Siege of Kraljevo\": 0.573, \"Operation Halyard\": 0.566}",
+        "rank": 94,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.5954,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.595, \"Battle of Poljana\": 0.593, \"Operation Uzice\": 0.592}",
+        "rank": 111,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.5795,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.579, \"Siege of Kraljevo\": 0.579, \"Attack on Kru\\u0161evac\": 0.547}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.7472,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.747, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "inverse sub event of",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Mostar operation",
+        "pred_score": 0.6373,
+        "topk_score_info": "{\"Mostar operation\": 0.637, \"Battle of Batina\": 0.61, \"Battle of Ko\\ufffd%8 Devje\": 0.594}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Partisan Long March",
+        "pred_score": 0.6115,
+        "topk_score_info": "{\"Partisan Long March\": 0.611, \"Operation Kugelblitz\": 0.592, \"Operation Trio\": 0.583}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "Mongols",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Baitag Bogd",
+        "pred_score": 0.6113,
+        "topk_score_info": "{\"Battle of Baitag Bogd\": 0.611, \"Mongolian Revolution of 1921\": 0.584, \"Mongolian Revolution of 1911\": 0.579}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Trsat",
+        "relation": "inverse has place",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Battle of Livno",
+        "pred_score": 0.6379,
+        "topk_score_info": "{\"Battle of Livno\": 0.638, \"Operation Prijedor\": 0.619, \"Siege of Rogatica (1941)\": 0.617}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Duchy of Croatia",
+        "relation": "inverse has place",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Battle of Saint Gotthard (1705)",
+        "pred_score": 0.5225,
+        "topk_score_info": "{\"Battle of Saint Gotthard (1705)\": 0.522, \"Biha\\u0107 operation\": 0.511, \"Srb uprising\": 0.51}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.7127,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.713, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Khadan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Qala-i-Jangi",
+        "pred_score": 0.6441,
+        "topk_score_info": "{\"Battle of Qala-i-Jangi\": 0.644, \"Operation Eagle Claw\": 0.62, \"Barkat Ahmad  Battle of Chinhat  1\": 0.604}",
+        "rank": 361,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.7236,
+        "topk_score_info": "{\"Siege of Trsat\": 0.724, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Serb-Catholic movement in Dubrovnik",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Franks",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "The Anarchy",
+        "pred_score": 0.5827,
+        "topk_score_info": "{\"The Anarchy\": 0.583, \"Franks\": 0.547, \"Peasants' Revolt\": 0.494}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Kadan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Ili Rebellion",
+        "pred_score": 0.5478,
+        "topk_score_info": "{\"Ili Rebellion\": 0.548, \"Battle of Baitag Bogd\": 0.492, \"Battle of Ugeumchi\": 0.485}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Croats",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Battle of Saint Gotthard (1705)",
+        "pred_score": 0.5474,
+        "topk_score_info": "{\"Battle of Saint Gotthard (1705)\": 0.547, \"Siege of Trsat\": 0.502, \"R\\u00e1k\\u00f3czi's War of Independence\": 0.495}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Croats",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Saint Gotthard (1705)",
+        "pred_score": 0.5474,
+        "topk_score_info": "{\"Battle of Saint Gotthard (1705)\": 0.547, \"R\\u00e1k\\u00f3czi's War of Independence\": 0.495, \"Srb uprising\": 0.487}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Bombing",
+        "relation": "inverse event type",
+        "tail": "Podujevo bus bombing",
+        "pred_tail": "Bombing",
+        "pred_score": 0.5854,
+        "topk_score_info": "{\"Bombing\": 0.585, \"Allied bombing of Yugoslavia in World War II\": 0.517, \"World War II\": 0.515}",
+        "rank": 184,
+        "correct": false
+    },
+    {
+        "head": "Béla IV of Hungary",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Tren�%8 D�%A Dn",
+        "pred_score": 0.5511,
+        "topk_score_info": "{\"Battle of Tren\\ufffd%8 D\\ufffd%A Dn\": 0.551, \"Siege of Trsat\": 0.548, \"Battle of Saint Gotthard (1705)\": 0.529}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Podujevo bus bombing",
+        "pred_tail": "Podujevo bus bombing",
+        "pred_score": 0.7198,
+        "topk_score_info": "{\"Podujevo bus bombing\": 0.72, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mongol invasion of Europe",
+        "relation": "inverse sub event of",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.5628,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.563, \"Pitchfork uprising\": 0.511, \"Siege of Trsat\": 0.465}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Eric of Friuli",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "The Anarchy",
+        "pred_score": 0.6024,
+        "topk_score_info": "{\"The Anarchy\": 0.602, \"Eric of Friuli\": 0.566, \"Peasants' Revolt\": 0.511}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Višeslav of Croatia",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.619,
+        "topk_score_info": "{\"Siege of Trsat\": 0.619, \"Battle of Saint Gotthard (1705)\": 0.559, \"Battle of Koronc\\u00f3\": 0.511}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Batu Khan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Mongol invasion of Europe",
+        "pred_score": 0.6698,
+        "topk_score_info": "{\"Mongol invasion of Europe\": 0.67, \"Battle of Grobnik Field\": 0.526, \"Peasant rebellion of Sorokino\": 0.467}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Killed in action",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Operation Steel Tiger",
+        "pred_score": 0.5841,
+        "topk_score_info": "{\"Operation Steel Tiger\": 0.584, \"Operation Beleaguer\": 0.541, \"Iraq War\": 0.523}",
+        "rank": 602,
+        "correct": false
+    },
+    {
+        "head": "Ante Marković",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Partisan Long March",
+        "pred_score": 0.6215,
+        "topk_score_info": "{\"Partisan Long March\": 0.622, \"Siege of Rogatica (1941)\": 0.588, \"Operation Southeast Croatia\": 0.586}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Blagoje Ad�%B Eić",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Uprising in Serbia (1941)",
+        "pred_score": 0.5704,
+        "topk_score_info": "{\"Uprising in Serbia (1941)\": 0.57, \"Log Revolution\": 0.56, \"Operation Draufg\\u00e4nger\": 0.557}",
+        "rank": 63,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten-Day War",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Milan Ku�%8 Dan",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.6227,
+        "topk_score_info": "{\"Ten-Day War\": 0.623, \"Battle of Ko\\ufffd%8 Devje\": 0.559, \"Siege of Turjak\": 0.558}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Veljko Kadijević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Uprising in Serbia (1941)",
+        "pred_score": 0.5697,
+        "topk_score_info": "{\"Uprising in Serbia (1941)\": 0.57, \"Log Revolution\": 0.567, \"Operation Mihailovic\": 0.566}",
+        "rank": 60,
+        "correct": false
+    },
+    {
+        "head": "Janez Janša",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.5669,
+        "topk_score_info": "{\"Ten-Day War\": 0.567, \"Battle of Ko\\ufffd%8 Devje\": 0.566, \"Siege of Turjak\": 0.552}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Slovenia",
+        "relation": "inverse has place",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.6476,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.648, \"Siege of Turjak\": 0.591, \"Ten-Day War\": 0.51}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Igor Bav�%8 Dar",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.61,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.61, \"Siege of Turjak\": 0.601, \"Ten-Day War\": 0.581}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Lojze Peterle",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.6157,
+        "topk_score_info": "{\"Ten-Day War\": 0.616, \"Battle of Ko\\ufffd%8 Devje\": 0.605, \"Siege of Turjak\": 0.582}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Konrad Kolšek",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.612,
+        "topk_score_info": "{\"Ten-Day War\": 0.612, \"Siege of Turjak\": 0.601, \"Battle of Ko\\ufffd%8 Devje\": 0.589}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Aleksandar Vasiljević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Operation Halyard",
+        "pred_score": 0.5828,
+        "topk_score_info": "{\"Operation Halyard\": 0.583, \"Mostar operation\": 0.566, \"Operation Mihailovic\": 0.565}",
+        "rank": 68,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Bosnia",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Croatia",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten Day War",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Global War on Terrorism",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 49,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Slovenia",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Slovenian War of Independence",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "RCA",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 437,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Fall of communism in Albania",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Mexican Armed Forces",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Escamela",
+        "pred_score": 0.6373,
+        "topk_score_info": "{\"Battle of Escamela\": 0.637, \"Siege of Cuautla\": 0.614, \"Battle of La Chinc\\ufffd%B Aa\": 0.61}",
+        "rank": 35,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.7128,
+        "topk_score_info": "{\"Chiapas conflict\": 0.713, \"Battle of Iz\\ufffd%B Acar\": 0.548, \"Altamira prison brawl\": 0.543}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Chiapas conflict\": 0.679, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Comandanta Ramona",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.5208,
+        "topk_score_info": "{\"Zapatista uprising\": 0.521, \"Mexican Dirty War\": 0.515, \"Operation Quintana Roo\": 0.479}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Arturo Guzmán Decena",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.5812,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.581, \"Mexican drug war\": 0.543, \"Zapatista uprising\": 0.532}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "National Guard ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Temalaca",
+        "pred_score": 0.5982,
+        "topk_score_info": "{\"Battle of Temalaca\": 0.598, \"Battle of Cuautla (1911)\": 0.595, \"Capture of Mexicali\": 0.587}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Ernesto Zedillo",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6928,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.693, \"Mexican drug war\": 0.616, \"Mexican Revolution\": 0.578}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Manuel Camacho Sol�%A Ds",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6428,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.643, \"Zapatista uprising\": 0.554, \"Mexican drug war\": 0.551}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Carlos Salinas de Gortari",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "1981 Spanish coup d'état attempt",
+        "pred_score": 0.6139,
+        "topk_score_info": "{\"1981 Spanish coup d'\\u00e9tat attempt\": 0.614, \"Operation Condor\": 0.567, \"Revoluci\\u00f3n Libertadora\": 0.564}",
+        "rank": 109,
+        "correct": false
+    },
+    {
+        "head": "Subcomandante Marcos",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5996,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.6, \"Zapatista uprising\": 0.569, \"Mexican drug war\": 0.565}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Federal Police ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6305,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.631, \"Capture of Mexicali\": 0.617, \"Battle of Temalaca\": 0.612}",
+        "rank": 33,
+        "correct": false
+    },
+    {
+        "head": "Vidal Francisco Soberón Sanz",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5925,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.593, \"Mexican drug war\": 0.584, \"Zapatista uprising\": 0.552}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 35,
+        "correct": false
+    },
+    {
+        "head": "Mexican Army",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Monte de las Cruces",
+        "pred_score": 0.5602,
+        "topk_score_info": "{\"Battle of Monte de las Cruces\": 0.56, \"Battle of El Maguey\": 0.557, \"Battle of Calder\\u00f3n Bridge\": 0.551}",
+        "rank": 791,
+        "correct": false
+    },
+    {
+        "head": "Tamaulipas",
+        "relation": "inverse has place",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Altamira prison brawl",
+        "pred_score": 0.6279,
+        "topk_score_info": "{\"Altamira prison brawl\": 0.628, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.588, \"Chiapas conflict\": 0.565}",
+        "rank": 440,
+        "correct": false
+    },
+    {
+        "head": "Salvador Cienfuegos",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6303,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.63, \"Zapatista uprising\": 0.589, \"Capture of Mexicali\": 0.564}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Acteal massacre",
+        "pred_tail": "Acteal massacre",
+        "pred_score": 0.7503,
+        "topk_score_info": "{\"Acteal massacre\": 0.75, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Antonio Cárdenas Guillén",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5748,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.575, \"Mexican drug war\": 0.536, \"Operation Quintana Roo\": 0.532}",
+        "rank": 602,
+        "correct": false
+    },
+    {
+        "head": "Quintana Roo",
+        "relation": "inverse has place",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.6059,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.606, \"Escalante massacre\": 0.533, \"Battle of Carrizal\": 0.533}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6308,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.631, \"Mexican drug war\": 0.596, \"Zapatista uprising\": 0.552}",
+        "rank": 237,
+        "correct": false
+    },
+    {
+        "head": "Guillermo Galván Galván",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6273,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.627, \"Zapatista uprising\": 0.567, \"Mexican drug war\": 0.543}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Operation Kraai",
+        "pred_score": 0.5374,
+        "topk_score_info": "{\"Operation Kraai\": 0.537, \"Operation Steel Tiger\": 0.533, \"Surafend affair\": 0.524}",
+        "rank": 2566,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "Jorge Eduardo Costilla Sánchez",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.589,
+        "topk_score_info": "{\"Mexican drug war\": 0.589, \"Infighting in the Gulf Cartel\": 0.579, \"Mexican Dirty War\": 0.578}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Zapatista uprising\": 0.658, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5489,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.549, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.544, \"Mexican drug war\": 0.523}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Operation Kraai",
+        "pred_score": 0.5374,
+        "topk_score_info": "{\"Operation Kraai\": 0.537, \"Operation Steel Tiger\": 0.533, \"Surafend affair\": 0.524}",
+        "rank": 1314,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 262,
+        "correct": false
+    },
+    {
+        "head": "Mariano Francisco Saynez Mendoza",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5492,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.549, \"Battle of Cuautla (1911)\": 0.547, \"Altamira prison brawl\": 0.541}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "inverse sub event of",
+        "tail": "Acteal massacre",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.6982,
+        "topk_score_info": "{\"Chiapas conflict\": 0.698, \"Battle of La Chinc\\ufffd%B Aa\": 0.635, \"Zapatista uprising\": 0.614}",
+        "rank": 65,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6308,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.631, \"Mexican drug war\": 0.596, \"Zapatista uprising\": 0.552}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.6391,
+        "topk_score_info": "{\"Zapatista uprising\": 0.639, \"Battle of Iz\\ufffd%B Acar\": 0.548, \"Altamira prison brawl\": 0.543}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.5743,
+        "topk_score_info": "{\"Mexican drug war\": 0.574, \"Mexican Dirty War\": 0.57, \"Infighting in the Gulf Cartel\": 0.547}",
+        "rank": 140,
+        "correct": false
+    },
+    {
+        "head": "Jorge Eduardo Costilla Sánchez",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.589,
+        "topk_score_info": "{\"Mexican drug war\": 0.589, \"Infighting in the Gulf Cartel\": 0.579, \"Mexican Dirty War\": 0.578}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of Iz�%B Acar",
+        "pred_score": 0.5478,
+        "topk_score_info": "{\"Battle of Iz\\ufffd%B Acar\": 0.548, \"Altamira prison brawl\": 0.543, \"Battle of Temalaca\": 0.539}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6464,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.646, \"Zapatista uprising\": 0.605, \"Mexican drug war\": 0.583}",
+        "rank": 439,
+        "correct": false
+    },
+    {
+        "head": "Mariano Francisco Saynez Mendoza",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5492,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.549, \"Battle of Cuautla (1911)\": 0.547, \"Altamira prison brawl\": 0.541}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "José Rafael Ojeda Durán",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5785,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.579, \"Zapatista uprising\": 0.559, \"Operation Quintana Roo\": 0.552}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Mass murder",
+        "relation": "inverse event type",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Mass murder",
+        "pred_score": 0.6124,
+        "topk_score_info": "{\"Mass murder\": 0.612, \"Indian Mutiny\": 0.553, \"Kidnapping\": 0.552}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.7287,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.729, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6308,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.631, \"Mexican drug war\": 0.596, \"Zapatista uprising\": 0.552}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.5743,
+        "topk_score_info": "{\"Mexican drug war\": 0.574, \"Mexican Dirty War\": 0.57, \"Infighting in the Gulf Cartel\": 0.547}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.6982,
+        "topk_score_info": "{\"Chiapas conflict\": 0.698, \"Battle of La Chinc\\ufffd%B Aa\": 0.635, \"Zapatista uprising\": 0.614}",
+        "rank": 1000,
+        "correct": false
+    },
+    {
+        "head": "Mexican army",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Naco",
+        "pred_score": 0.625,
+        "topk_score_info": "{\"Battle of Naco\": 0.625, \"Battle of Parral\": 0.596, \"Battle of Cuautla (1911)\": 0.581}",
+        "rank": 86,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.7265,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.727, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.5743,
+        "topk_score_info": "{\"Mexican drug war\": 0.574, \"Mexican Dirty War\": 0.57, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.552}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6464,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.646, \"Zapatista uprising\": 0.605, \"Mexican drug war\": 0.583}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5789,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.579, \"Mexican drug war\": 0.534, \"Zapatista uprising\": 0.52}",
+        "rank": 801,
+        "correct": false
+    },
+    {
+        "head": "Infighting in the Gulf Cartel",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6486,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.649, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.568, \"Infighting in Los Zetas\": 0.535}",
+        "rank": 263,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6104,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.61, \"Mexican drug war\": 0.596, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.575}",
+        "rank": 1030,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Zapatista Army of National Liberation",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 84,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.5791,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.579, \"Operation Quintana Roo\": 0.557, \"Battle of Naco\": 0.546}",
+        "rank": 214,
+        "correct": false
+    },
+    {
+        "head": "Antonio Cárdenas Guillén",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5748,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.575, \"Mexican drug war\": 0.536, \"Operation Quintana Roo\": 0.532}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5789,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.579, \"Mexican drug war\": 0.534, \"Zapatista uprising\": 0.52}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6308,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.631, \"Mexican drug war\": 0.596, \"Zapatista uprising\": 0.552}",
+        "rank": 31,
+        "correct": false
+    },
+    {
+        "head": "Honduras",
+        "relation": "inverse has place",
+        "tail": "Gulf Cartel",
+        "pred_tail": "1811 Independence Movement",
+        "pred_score": 0.535,
+        "topk_score_info": "{\"1811 Independence Movement\": 0.535, \"Guatemalan Revolution\": 0.526, \"1944 Guatemalan presidential election\": 0.52}",
+        "rank": 663,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6104,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.61, \"Mexican drug war\": 0.596, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.575}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Money laundering",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 139,
+        "correct": false
+    },
+    {
+        "head": "Knights Templar Cartel",
+        "relation": "inverse has actor",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Puruarán",
+        "pred_score": 0.5747,
+        "topk_score_info": "{\"Battle of Puruar\\u00e1n\": 0.575, \"Battle of Zit\\u00e1cuaro\": 0.571, \"Battle of Tenango del Valle\": 0.533}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5789,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.579, \"Mexican drug war\": 0.534, \"Zapatista uprising\": 0.52}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.604,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.604, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.538, \"Infighting in the Gulf Cartel\": 0.529}",
+        "rank": 429,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.591,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.591, \"Mexican drug war\": 0.574, \"Mexican Dirty War\": 0.57}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Jalisco",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Puruarán",
+        "pred_score": 0.5714,
+        "topk_score_info": "{\"Battle of Puruar\\u00e1n\": 0.571, \"Battle of Zit\\u00e1cuaro\": 0.569, \"Battle of Zitlala\": 0.558}",
+        "rank": 131,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Operation Kraai",
+        "pred_score": 0.5374,
+        "topk_score_info": "{\"Operation Kraai\": 0.537, \"Operation Steel Tiger\": 0.533, \"Surafend affair\": 0.524}",
+        "rank": 539,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6464,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.646, \"Zapatista uprising\": 0.605, \"Mexican drug war\": 0.583}",
+        "rank": 49,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6961,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.696, \"Mexican drug war\": 0.636, \"Infighting in Los Zetas\": 0.601}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6104,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.61, \"Mexican drug war\": 0.596, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.575}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Guillermo Galván Galván",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6273,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.627, \"Zapatista uprising\": 0.567, \"Mexican drug war\": 0.543}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.7053,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.705, \"Infighting in the Gulf Cartel\": 0.603, \"Mexican drug war\": 0.585}",
+        "rank": 98,
+        "correct": false
+    },
+    {
+        "head": "Jalisco%2 C Mexico",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Zitácuaro",
+        "pred_score": 0.5972,
+        "topk_score_info": "{\"Battle of Zit\\u00e1cuaro\": 0.597, \"Battle of Puruar\\u00e1n\": 0.593, \"Battle of Zitlala\": 0.583}",
+        "rank": 40,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6961,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.696, \"Mexican drug war\": 0.636, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.62}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Guadalajara",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Ciudad Juárez (1913)",
+        "pred_score": 0.5281,
+        "topk_score_info": "{\"Battle of Ciudad Ju\\u00e1rez (1913)\": 0.528, \"Battle of Cuautla (1911)\": 0.525, \"First Battle of Torre\\u00f3n\": 0.515}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Mexican Navy",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Siege of Cuautla",
+        "pred_score": 0.5949,
+        "topk_score_info": "{\"Siege of Cuautla\": 0.595, \"Battle of Escamela\": 0.594, \"First Battle of Topolobampo\": 0.584}",
+        "rank": 389,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Naco",
+        "pred_score": 0.5939,
+        "topk_score_info": "{\"Battle of Naco\": 0.594, \"Battle of Parral\": 0.586, \"Battle of Casas Grandes\": 0.569}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5489,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.549, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.544, \"Mexican drug war\": 0.523}",
+        "rank": 688,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Naco",
+        "pred_score": 0.5939,
+        "topk_score_info": "{\"Battle of Naco\": 0.594, \"Battle of Parral\": 0.586, \"Battle of Casas Grandes\": 0.569}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.7053,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.705, \"Infighting in the Gulf Cartel\": 0.603, \"Mexican drug war\": 0.585}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Acteal",
+        "relation": "inverse has place",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of La Chinc�%B Aa",
+        "pred_score": 0.6648,
+        "topk_score_info": "{\"Battle of La Chinc\\ufffd%B Aa\": 0.665, \"Battle of Iz\\ufffd%B Acar\": 0.612, \"Battle of Temalaca\": 0.584}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "Nuevo León",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.5122,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.512, \"Second Battle of Rellano\": 0.503, \"Battle of Ciudad Ju\\u00e1rez (1913)\": 0.503}",
+        "rank": 60,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "José Rafael Ojeda Durán",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5785,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.579, \"Zapatista uprising\": 0.559, \"Mexican drug war\": 0.54}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Battle of Naco",
+        "pred_score": 0.5939,
+        "topk_score_info": "{\"Battle of Naco\": 0.594, \"Battle of Parral\": 0.586, \"Battle of Casas Grandes\": 0.569}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5489,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.549, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.544, \"Mexican drug war\": 0.523}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.7053,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.705, \"Infighting in the Gulf Cartel\": 0.603, \"Mexican drug war\": 0.585}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5789,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.579, \"Mexican drug war\": 0.534, \"Zapatista uprising\": 0.52}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6104,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.61, \"Mexican drug war\": 0.596, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.575}",
+        "rank": 67,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Zapatista Army of National Liberation",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 220,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.6149,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.615, \"Battle of Tampico (1829)\": 0.571, \"Alh\\u00f3ndiga de Granaditas  Battle of the Alh\\u00f3ndiga de Granaditas  1\": 0.542}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5489,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.549, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.544, \"Mexican drug war\": 0.523}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Vidal Francisco Soberón Sanz",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.5925,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.593, \"Mexican drug war\": 0.584, \"Zapatista uprising\": 0.552}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.5791,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.579, \"Operation Quintana Roo\": 0.557, \"Battle of Naco\": 0.546}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.5791,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.579, \"Operation Quintana Roo\": 0.557, \"Battle of Naco\": 0.546}",
+        "rank": 929,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Murder",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "Gulf cartel",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6167,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.617, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.559, \"Battle of Ciudad Ju\\u00e1rez (1913)\": 0.539}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Nuevo Leon",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Ciudad Juárez (1913)",
+        "pred_score": 0.5651,
+        "topk_score_info": "{\"Battle of Ciudad Ju\\u00e1rez (1913)\": 0.565, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.564, \"Battle of Cuautla (1911)\": 0.563}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "Nuevo León",
+        "relation": "inverse has place",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.5828,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.583, \"Battle of Cuautla (1911)\": 0.512, \"Second Battle of Rellano\": 0.503}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kidnapping",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Salvador Cienfuegos",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.6303,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.63, \"Zapatista uprising\": 0.589, \"Capture of Mexicali\": 0.564}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Altamira prison brawl",
+        "pred_score": 0.7105,
+        "topk_score_info": "{\"Altamira prison brawl\": 0.711, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Inspector General of Police ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.7108,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.711, \"Battle of Bhalubang\": 0.704, \"2005 Nepal coup d'\\u00e9tat\": 0.689}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Girija Prasad Koirala",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7694,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.769, \"2005 Nepal coup d'\\u00e9tat\": 0.675, \"Battle of Bhalubang\": 0.612}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Birendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7596,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.76, \"2005 Nepal coup d'\\u00e9tat\": 0.662, \"Battle of Bhalubang\": 0.609}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.732,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.732, \"Battle of Bhalubang\": 0.711, \"Nepalese Civil War\": 0.636}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Baburam Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7578,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.758, \"2005 Nepal coup d'\\u00e9tat\": 0.684, \"Battle of Bhalubang\": 0.629}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mohan Baidya",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.6864,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.686, \"2005 Nepal coup d'\\u00e9tat\": 0.686, \"Nepalese Civil War\": 0.673}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Pradip Shumsher J.B.R.",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6951,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.695, \"Nepalese Civil War\": 0.674, \"Battle of Bhalubang\": 0.674}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Moti Lal Bohora",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.7023,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.702, \"Nepalese Civil War\": 0.692, \"Battle of Bhalubang\": 0.651}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6669,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.667, \"2005 Nepal coup d'\\u00e9tat\": 0.663, \"Battle of Bhalubang\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.752,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.752, \"Battle of Bhalubang\": 0.638, \"Second Battle of Khara\": 0.583}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6918,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.692, \"2005 Nepal coup d'\\u00e9tat\": 0.645, \"Battle of Bhalubang\": 0.61}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Lokendra Bahadur Chand",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7642,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.764, \"2005 Nepal coup d'\\u00e9tat\": 0.678, \"Battle of Bhalubang\": 0.616}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Om Bikram Rana",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.7249,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.725, \"Nepalese Civil War\": 0.694, \"Battle of Bhalubang\": 0.689}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Achyut Krishna Kharel",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6974,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.697, \"Nepalese Civil War\": 0.689, \"Battle of Bhalubang\": 0.674}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Biplav",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6417,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.642, \"Battle of Bhalubang\": 0.614, \"Second Battle of Khara\": 0.612}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "King of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.6467,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.647, \"Battle of Bhalubang\": 0.64, \"Nepalese Civil War\": 0.633}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Shyam Bhakta Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.6852,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.685, \"2005 Nepal coup d'\\u00e9tat\": 0.68, \"Second Battle of Khara\": 0.677}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Dharmapaal Barsingh Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7286,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.729, \"2005 Nepal coup d'\\u00e9tat\": 0.667, \"Battle of Bhalubang\": 0.635}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Rookmangud Katawal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6927,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.693, \"Battle of Bhalubang\": 0.691, \"Second Battle of Khara\": 0.688}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Dhruba Bahadur Pradhan",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7233,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.723, \"2005 Nepal coup d'\\u00e9tat\": 0.705, \"Battle of Bhalubang\": 0.671}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Chief of Army Staff ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6821,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.682, \"2005 Nepal coup d'\\u00e9tat\": 0.669, \"Battle of Bhalubang\": 0.666}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7505,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.751, \"2005 Nepal coup d'\\u00e9tat\": 0.686, \"Battle of Bhalubang\": 0.622}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7216,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.722, \"Battle of Bhalubang\": 0.602, \"Second Battle of Khara\": 0.572}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Krishna Prasad Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.749,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.749, \"2005 Nepal coup d'\\u00e9tat\": 0.656, \"Battle of Bhalubang\": 0.608}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Surya Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.7085,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.708, \"2005 Nepal coup d'\\u00e9tat\": 0.653, \"Battle of Bhalubang\": 0.591}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Prime Minister of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.7122,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.712, \"Nepalese Civil War\": 0.702, \"Battle of Bhalubang\": 0.68}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Ram Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6738,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.674, \"2005 Nepal coup d'\\u00e9tat\": 0.636, \"Battle of Bhalubang\": 0.587}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6856,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.686, \"Battle of Bhalubang\": 0.622, \"Second Battle of Khara\": 0.573}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Second Battle of Khara\": 0.678, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"2005 Nepal coup d'\\u00e9tat\": 0.63}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6453,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.645, \"Battle of Bhalubang\": 0.61, \"Second Battle of Khara\": 0.585}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.732,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.732, \"Battle of Bhalubang\": 0.711, \"2005 Nepal coup d'\\u00e9tat\": 0.646}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6633,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.663, \"Battle of Bhalubang\": 0.654, \"Second Battle of Khara\": 0.651}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6853,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.685, \"Battle of Bhalubang\": 0.638, \"Second Battle of Khara\": 0.583}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Dang District%2 C Nepal",
+        "relation": "inverse has place",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.7259,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.726, \"Battle of Bhalubang\": 0.668, \"Naxalbari uprising\": 0.572}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Janardan Sharma",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6868,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.687, \"2005 Nepal coup d'\\u00e9tat\": 0.628, \"Battle of Bhalubang\": 0.6}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.6527,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.653, \"Battle of Bhalubang\": 0.602, \"Second Battle of Khara\": 0.572}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Bhalubang",
+        "relation": "inverse has place",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.7367,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.737, \"Battle of Bhalubang\": 0.696, \"2005 Nepal coup d'\\u00e9tat\": 0.606}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Battle of Bhalubang\": 0.676, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "inverse sub event of",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.7182,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.718, \"Battle of Bhalubang\": 0.666, \"2005 Nepal coup d'\\u00e9tat\": 0.604}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Krishna Bahadur Mahara",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.6779,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.678, \"2005 Nepal coup d'\\u00e9tat\": 0.652, \"Battle of Bhalubang\": 0.646}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Rukum District",
+        "relation": "inverse has place",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.7062,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.706, \"Battle of Bhalubang\": 0.622, \"2005 Nepal coup d'\\u00e9tat\": 0.562}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Khara%2 C Nepal",
+        "relation": "inverse has place",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.7134,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.713, \"Battle of Bhalubang\": 0.684, \"2005 Nepal coup d'\\u00e9tat\": 0.577}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Kathmandu",
+        "relation": "inverse has place",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.702,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.702, \"Battle of Bhalubang\": 0.652, \"2005 Nepal coup d'\\u00e9tat\": 0.606}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Pink tide",
+        "relation": "inverse sub event of",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Operation Traira",
+        "pred_score": 0.5759,
+        "topk_score_info": "{\"Operation Traira\": 0.576, \"Mal\\u00ea revolt\": 0.538, \"Contestado War\": 0.51}",
+        "rank": 199,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Foro de São Paulo",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 279,
+        "correct": false
+    },
+    {
+        "head": "Serbia and Montenegro",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "1942 Montenegro offensive",
+        "pred_score": 0.5471,
+        "topk_score_info": "{\"1942 Montenegro offensive\": 0.547, \"Uprising in Montenegro (1941)\": 0.547, \"Operation Draufg\\u00e4nger\": 0.544}",
+        "rank": 35,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Siege of Belgrade (1806)",
+        "pred_score": 0.6283,
+        "topk_score_info": "{\"Siege of Belgrade (1806)\": 0.628, \"Gitarijada ( Belgrade)\": 0.56, \"Battle of Ivankovac\": 0.556}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.646}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second EDSA Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Second EDSA Revolution\": 0.642}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Rose Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "Rose Revolution",
+        "pred_tail": "Georgian– Armenian War",
+        "pred_score": 0.6443,
+        "topk_score_info": "{\"Georgian\\u2013 Armenian War\": 0.644, \"Rose Revolution\": 0.6, \"January Events ( Lithuania)\": 0.498}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "European integration",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 190,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"2004 Adjara crisis\": 0.655, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Aslan Abashidze",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.7119,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.712, \"Georgian\\u2013 Armenian War\": 0.609, \"Black January\": 0.543}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Adjara",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.6762,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.676, \"Georgian\\u2013 Armenian War\": 0.576, \"Black January\": 0.529}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.7182,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.718, \"Georgian\\u2013 Armenian War\": 0.644, \"January Events ( Lithuania)\": 0.498}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mikheil Saakashvili",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.6744,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.674, \"Rose Revolution\": 0.654, \"Georgian\\u2013 Armenian War\": 0.637}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Orange Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Orange Revolution\": 0.678, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Ukrainian presidential election",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Ukraine",
+        "relation": "inverse has place",
+        "tail": "2004 Ukrainian presidential election",
+        "pred_tail": "Kiev Bolshevik Uprising",
+        "pred_score": 0.6362,
+        "topk_score_info": "{\"Kiev Bolshevik Uprising\": 0.636, \"11 December 2013 Euromaidan assault\": 0.613, \"Orange Revolution\": 0.608}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Cedar Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Cedar Revolution\": 0.636}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Tulip Revolution",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.7506,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.751, \"Tulip Revolution\": 0.717, \"Andijan massacre\": 0.596}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Andijan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.5913,
+        "topk_score_info": "{\"Andijan massacre\": 0.591, \"2010 South Kyrgyzstan ethnic clashes\": 0.55, \"Battle of Qala-i-Jangi\": 0.525}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Uzbekistan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.7035,
+        "topk_score_info": "{\"Andijan massacre\": 0.703, \"2010 South Kyrgyzstan ethnic clashes\": 0.619, \"Tulip Revolution\": 0.596}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Andijan massacre",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Saffron Revolution\": 0.638}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Myanmar",
+        "relation": "inverse has place",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.7098,
+        "topk_score_info": "{\"Saffron Revolution\": 0.71, \"1967 Opium War\": 0.52, \"Operation Phalat\": 0.484}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Civil resistance",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 56,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2009 Icelandic financial crisis protests",
+        "pred_tail": "2009 Icelandic financial crisis protests",
+        "pred_score": 0.7376,
+        "topk_score_info": "{\"2009 Icelandic financial crisis protests\": 0.738, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.7506,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.751, \"Kyrgyz Revolution of 2010\": 0.699, \"Andijan massacre\": 0.596}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Jalal-Abad",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.7441,
+        "topk_score_info": "{\"Tulip Revolution\": 0.744, \"Kyrgyz Revolution of 2010\": 0.741, \"2010 South Kyrgyzstan ethnic clashes\": 0.726}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "inverse sub event of",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.7219,
+        "topk_score_info": "{\"Tulip Revolution\": 0.722, \"Kyrgyz Revolution of 2010\": 0.718, \"2010 South Kyrgyzstan ethnic clashes\": 0.643}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Osh",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.7199,
+        "topk_score_info": "{\"Tulip Revolution\": 0.72, \"2010 South Kyrgyzstan ethnic clashes\": 0.705, \"Kyrgyz Revolution of 2010\": 0.677}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Sogment",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Surafend affair",
+        "pred_score": 0.5483,
+        "topk_score_info": "{\"Surafend affair\": 0.548, \"Battle of Gona\\ufffd%A Fves\": 0.512, \"Battle of Douar Souadek\": 0.512}",
+        "rank": 1013,
+        "correct": false
+    },
+    {
+        "head": "So�%B Bx District",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Peasant rebellion of Sorokino",
+        "pred_score": 0.6306,
+        "topk_score_info": "{\"Peasant rebellion of Sorokino\": 0.631, \"Andijan massacre\": 0.611, \"Pitchfork uprising\": 0.565}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Spring",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "International reactions to the Arab Spring",
+        "relation": "inverse sub event of",
+        "tail": "Impact of the Arab Spring",
+        "pred_tail": "Surafend affair",
+        "pred_score": 0.7008,
+        "topk_score_info": "{\"Surafend affair\": 0.701, \"Battle of Taiz\": 0.579, \"Battle of Saada\": 0.577}",
+        "rank": 131,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Winter",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.7216,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.722, \"Surafend affair\": 0.573, \"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.549}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "North Africa",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Aftermath of World War I",
+        "pred_score": 0.5893,
+        "topk_score_info": "{\"Aftermath of World War I\": 0.589, \"Napoleonic Wars\": 0.541, \"Decolonisation of Africa\": 0.526}",
+        "rank": 126,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.656, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Bahrain",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.6207,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.621, \"Saudi Arabian-led intervention in Yemen\": 0.575, \"Oman\\u2013 Zanzibar war\": 0.54}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Libya",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Second Italo-Senussi War",
+        "pred_score": 0.6218,
+        "topk_score_info": "{\"Second Italo-Senussi War\": 0.622, \"C.D. Primeiro de Agosto in international football\": 0.549, \"Saudi Arabian-led intervention in Yemen\": 0.46}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Impact of the Arab Spring",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Salman of Saudi Arabia",
+        "relation": "inverse has actor",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "1969 Saudi Arabian coup d'état attempt",
+        "pred_score": 0.7053,
+        "topk_score_info": "{\"1969 Saudi Arabian coup d'\\u00e9tat attempt\": 0.705, \"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.699, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.668}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Tamim bin Hamad Al Thani",
+        "relation": "inverse has actor",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.6476,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.648, \"Iraq War\": 0.631, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.614}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Egypt",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Egyptian Revolution of 1919",
+        "pred_score": 0.6131,
+        "topk_score_info": "{\"Egyptian Revolution of 1919\": 0.613, \"June 2013 Egyptian protests\": 0.577, \"2013 Egyptian coup d'\\u00e9tat\": 0.564}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Middle East",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Iran– Saudi Arabia proxy conflict",
+        "pred_score": 0.6038,
+        "topk_score_info": "{\"Iran\\u2013 Saudi Arabia proxy conflict\": 0.604, \"Napoleonic Wars\": 0.567, \"Aftermath of World War I\": 0.533}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Syria",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Operation Active Fence",
+        "pred_score": 0.7069,
+        "topk_score_info": "{\"Operation Active Fence\": 0.707, \"Great Syrian Revolt\": 0.622, \"Syrian civil war\": 0.58}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Tunisia",
+        "relation": "inverse has place",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.6462,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.646, \"C.D. Primeiro de Agosto in international football\": 0.631, \"Battle of Bouzegza\": 0.569}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "San Miguel%2 C Manila",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Binakayan– Dalahican",
+        "pred_score": 0.6593,
+        "topk_score_info": "{\"Battle of Binakayan\\u2013 Dalahican\": 0.659, \"Battle of Sambat\": 0.648, \"Battle of Pasong Tamo\": 0.644}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Pullman Strike",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Mendiola Street",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Siege of Baler",
+        "pred_score": 0.6685,
+        "topk_score_info": "{\"Siege of Baler\": 0.668, \"Battle of Binakayan\\u2013 Dalahican\": 0.666, \"Battle of Calamba\": 0.635}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Milwaukee%2 C Wisconsin",
+        "relation": "inverse has place",
+        "tail": "Bay View massacre",
+        "pred_tail": "Auto-Lite strike",
+        "pred_score": 0.4736,
+        "topk_score_info": "{\"Auto-Lite strike\": 0.474, \"North Adams strike\": 0.456, \"Bay View massacre\": 0.455}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Malawi",
+        "relation": "inverse has place",
+        "tail": "2011 Malawian protests",
+        "pred_tail": "2011 Malawian protests",
+        "pred_score": 0.7463,
+        "topk_score_info": "{\"2011 Malawian protests\": 0.746, \"C.D. Primeiro de Agosto in international football\": 0.598, \"Zanzibar International Film Festival\": 0.583}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "North Adams%2 C Massachusetts",
+        "relation": "inverse has place",
+        "tail": "North Adams strike",
+        "pred_tail": "North Adams strike",
+        "pred_score": 0.5811,
+        "topk_score_info": "{\"North Adams strike\": 0.581, \"Fort Strong\": 0.562, \"1689 Boston revolt\": 0.532}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Bahrain",
+        "relation": "inverse has place",
+        "tail": "Bahrain Tamarod",
+        "pred_tail": "Bahrain Tamarod",
+        "pred_score": 0.5883,
+        "topk_score_info": "{\"Bahrain Tamarod\": 0.588, \"Saudi Arabian-led intervention in Yemen\": 0.575, \"Oman\\u2013 Zanzibar war\": 0.54}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Escalante%2 C Negros Occidental",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.6158,
+        "topk_score_info": "{\"Escalante massacre\": 0.616, \"Siege of Baler\": 0.591, \"Battle of Binakayan\\u2013 Dalahican\": 0.578}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Morewood massacre",
+        "pred_tail": "Morewood massacre",
+        "pred_score": 0.6873,
+        "topk_score_info": "{\"Morewood massacre\": 0.687, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Auto-Lite strike",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Auto-Lite strike\": 0.633}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Delano grape strike",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Malawian protests",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"2011 Malawian protests\": 0.643}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Everett massacre",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Everett massacre\": 0.671, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Jamestown%2 C Virginia",
+        "relation": "inverse has place",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.7124,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.712, \"Plundering Time\": 0.669, \"1689 Boston revolt\": 0.592}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Constantinople",
+        "relation": "inverse has place",
+        "tail": "Kum Kapu demonstration",
+        "pred_tail": "Kasos Massacre",
+        "pred_score": 0.601,
+        "topk_score_info": "{\"Kasos Massacre\": 0.601, \"Siege of Patras (1821)\": 0.598, \"Greek War of Independence\": 0.595}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Everett%2 C Washington",
+        "relation": "inverse has place",
+        "tail": "Everett massacre",
+        "pred_tail": "Everett massacre",
+        "pred_score": 0.657,
+        "topk_score_info": "{\"Everett massacre\": 0.657, \"Bay View massacre\": 0.485, \"Everett%2 C Washington\": 0.459}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "North Adams strike",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"North Adams strike\": 0.638}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Baltimore%2 C Maryland",
+        "relation": "inverse has place",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Protestant Revolution ( Maryland)",
+        "pred_score": 0.5926,
+        "topk_score_info": "{\"Protestant Revolution ( Maryland)\": 0.593, \"Baltimore police strike\": 0.515, \"Morewood massacre\": 0.511}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Westmoreland County%2 C Pennsylvania",
+        "relation": "inverse has place",
+        "tail": "Morewood massacre",
+        "pred_tail": "Morewood massacre",
+        "pred_score": 0.6363,
+        "topk_score_info": "{\"Morewood massacre\": 0.636, \"Protestant Revolution ( Maryland)\": 0.428, \"Westmoreland County%2 C Pennsylvania\": 0.419}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bay View massacre",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Bay View massacre\": 0.665, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Colony of Virginia",
+        "relation": "inverse has place",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.7004,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.7, \"Plundering Time\": 0.662, \"1689 Boston revolt\": 0.656}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bahrain Tamarod",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 184,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Baltimore police strike\": 0.669, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Negros Occidental",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Battle of Binakayan– Dalahican",
+        "pred_score": 0.6421,
+        "topk_score_info": "{\"Battle of Binakayan\\u2013 Dalahican\": 0.642, \"Siege of Baler\": 0.623, \"Battle of Sapong Hills\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kum Kapu demonstration",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Kum Kapu demonstration\": 0.633}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Philippines",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Battle of Binakayan– Dalahican",
+        "pred_score": 0.6522,
+        "topk_score_info": "{\"Battle of Binakayan\\u2013 Dalahican\": 0.652, \"Siege of Baler\": 0.646, \"Battle of Sapong Hills\": 0.636}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Mendiola massacre",
+        "pred_score": 0.6821,
+        "topk_score_info": "{\"Mendiola massacre\": 0.682, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Shooting",
+        "relation": "inverse event type",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Shooting",
+        "pred_score": 0.5511,
+        "topk_score_info": "{\"Shooting\": 0.551, \"Afghanistan conflict (1978\\u2013present)\": 0.544, \"Indian Mutiny\": 0.529}",
+        "rank": 371,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Escalante massacre",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.699,
+        "topk_score_info": "{\"Escalante massacre\": 0.699, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Philippines",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Binakayan– Dalahican",
+        "pred_score": 0.6522,
+        "topk_score_info": "{\"Battle of Binakayan\\u2013 Dalahican\": 0.652, \"Siege of Baler\": 0.646, \"Battle of Sapong Hills\": 0.636}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Shooting",
+        "relation": "inverse event type",
+        "tail": "Escalante massacre",
+        "pred_tail": "Shooting",
+        "pred_score": 0.5511,
+        "topk_score_info": "{\"Shooting\": 0.551, \"Afghanistan conflict (1978\\u2013present)\": 0.544, \"Indian Mutiny\": 0.529}",
+        "rank": 371,
+        "correct": false
+    },
+    {
+        "head": "United States",
+        "relation": "inverse has place",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Ojo de Agua Raid",
+        "pred_score": 0.5468,
+        "topk_score_info": "{\"Ojo de Agua Raid\": 0.547, \"Mexican Border War (1910\\u20131919)\": 0.54, \"Mexican drug war\": 0.54}",
+        "rank": 99,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "November 2012 Jordanian protests",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Lebanon",
+        "relation": "inverse has place",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.6187,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.619, \"Surafend affair\": 0.544, \"Operation Active Fence\": 0.503}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"2011 Lebanese protests\": 0.675, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.7216,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.722, \"Yemeni Revolution\": 0.605, \"Surafend affair\": 0.573}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Sheikh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.5663,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.566, \"Yemeni Revolution\": 0.549, \"Second Italo-Senussi War\": 0.516}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Uthman Mujalli",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Barkat Ahmad  Battle of Chinhat  1",
+        "pred_score": 0.6559,
+        "topk_score_info": "{\"Barkat Ahmad  Battle of Chinhat  1\": 0.656, \"Battle of Shamli\": 0.647, \"1898 Baloch uprising\": 0.624}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Taiz",
+        "pred_score": 0.7248,
+        "topk_score_info": "{\"Battle of Taiz\": 0.725, \"Saudi Arabian-led intervention in Yemen\": 0.722, \"Surafend affair\": 0.573}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Saada",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.7216,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.722, \"Battle of Saada\": 0.717, \"Surafend affair\": 0.573}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Sa'dah Governorate",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.7248,
+        "topk_score_info": "{\"Battle of Saada\": 0.725, \"Siege of Dammaj\": 0.707, \"Battle of Sanaa (2011)\": 0.697}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Taha Hajer",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.5908,
+        "topk_score_info": "{\"Battle of Saada\": 0.591, \"Yemeni Revolution\": 0.59, \"1959 Mosul uprising\": 0.589}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Taiz",
+        "relation": "inverse has place",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.7361,
+        "topk_score_info": "{\"Battle of Saada\": 0.736, \"Battle of Taiz\": 0.736, \"Battle of Sanaa (2011)\": 0.734}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Saada",
+        "relation": "inverse has place",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.7659,
+        "topk_score_info": "{\"Battle of Saada\": 0.766, \"Battle of Sanaa (2011)\": 0.759, \"Battle of Taiz\": 0.752}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Abdrabbuh Mansur Hadi",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Iraq War",
+        "pred_score": 0.641,
+        "topk_score_info": "{\"Iraq War\": 0.641, \"Yemeni Revolution\": 0.623, \"1959 Mosul uprising\": 0.609}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Saada",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Fares Manaa",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.7121,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.712, \"Battle of Sanaa (2011)\": 0.684, \"Siege of Dammaj\": 0.679}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.744,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.744, \"Saudi Arabian-led intervention in Yemen\": 0.722, \"Surafend affair\": 0.573}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Sanaa",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.7641,
+        "topk_score_info": "{\"Battle of Saada\": 0.764, \"Saudi Arabian-led intervention in Yemen\": 0.756, \"Battle of Sanaa (2011)\": 0.752}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Ali Abdullah Saleh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.7159,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.716, \"Yemeni Revolution\": 0.704, \"Saudi Arabian-led intervention in Yemen\": 0.702}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Abu Ali Abdullah al-Hakim al-Houthi",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.6687,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.669, \"Battle of Saada\": 0.666, \"Insurgency in Idlib\": 0.648}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Ali Mohsen al-Ahmar",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Ramadan Revolution",
+        "pred_score": 0.6721,
+        "topk_score_info": "{\"Ramadan Revolution\": 0.672, \"Yemeni Revolution\": 0.662, \"Iraq War\": 0.654}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Abdul Aziz Abdul Ghani",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Iraq War",
+        "pred_score": 0.5433,
+        "topk_score_info": "{\"Iraq War\": 0.543, \"Saudi Arabian-led intervention in Yemen\": 0.543, \"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.523}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Saada Governorate",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.7626,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.763, \"Battle of Saada\": 0.754, \"Battle of Taiz\": 0.741}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Dammaj",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.7595,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.759, \"Battle of Saada\": 0.754, \"Battle of Taiz\": 0.744}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Sana'a",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.7062,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.706, \"Battle of Sanaa (2011)\": 0.7, \"Battle of Saada\": 0.68}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Saleh Habra",
+        "relation": "inverse has actor",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.6859,
+        "topk_score_info": "{\"Battle of Saada\": 0.686, \"Yemeni Revolution\": 0.679, \"Siege of Dammaj\": 0.66}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Ahmed Saleh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.676,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.676, \"Arab Spring\": 0.656, \"Saudi Arabian-led intervention in Yemen\": 0.594}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.7216,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.722, \"Siege of Dammaj\": 0.684, \"Surafend affair\": 0.573}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"June 2013 Egyptian protests\": 0.655, \"Mexican drug war\": 0.654}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Egyptian crisis (2011–2014)",
+        "relation": "inverse sub event of",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Surafend affair",
+        "pred_score": 0.6547,
+        "topk_score_info": "{\"Surafend affair\": 0.655, \"June 2013 Egyptian protests\": 0.604, \"Battle of Saada\": 0.594}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2013 Egyptian coup d'état",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Euromaidan",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Kyiv%2 C Ukraine",
+        "relation": "inverse has place",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "Kiev Bolshevik Uprising",
+        "pred_score": 0.7442,
+        "topk_score_info": "{\"Kiev Bolshevik Uprising\": 0.744, \"Livny Uprising\": 0.632, \"11 December 2013 Euromaidan assault\": 0.628}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.7371,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.737, \"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Euromaidan",
+        "relation": "inverse sub event of",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.677,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.677, \"Livny Uprising\": 0.596, \"Pitchfork uprising\": 0.588}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Hilo",
+        "relation": "inverse has place",
+        "tail": "Hilo massacre",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.6929,
+        "topk_score_info": "{\"Hilo massacre\": 0.693, \"Hawaii Democratic Revolution of 1954\": 0.637, \"Third Battle of Topolobampo\": 0.554}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2014 Ukrainian revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Hawaii",
+        "relation": "inverse has place",
+        "tail": "Hilo massacre",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.631,
+        "topk_score_info": "{\"Hilo massacre\": 0.631, \"First Battle of Topolobampo\": 0.484, \"Third Battle of Topolobampo\": 0.469}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Hilo massacre",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Hilo massacre\": 0.643}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Police brutality",
+        "relation": "inverse event type",
+        "tail": "Hilo massacre",
+        "pred_tail": "Police brutality",
+        "pred_score": 0.6735,
+        "topk_score_info": "{\"Police brutality\": 0.673, \"Baltimore police strike\": 0.583, \"Kidnapping\": 0.554}",
+        "rank": 502,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Neolithic Revolution",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.6814,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.681, \"Mexican drug war\": 0.654, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.619}",
+        "rank": 14,
+        "correct": false
+    }
+]

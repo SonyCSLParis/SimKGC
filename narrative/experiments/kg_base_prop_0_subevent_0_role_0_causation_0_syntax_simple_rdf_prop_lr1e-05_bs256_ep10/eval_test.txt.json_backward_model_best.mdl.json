@@ -1,0 +1,1032 @@
+[
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "German reunification",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Velvet Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania",
+        "relation": "inverse has place",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.925,
+        "topk_score_info": "{\"Romanian Revolution\": 0.925, \"Proclamation of Islaz\": 0.922, \"Socialist Republic of Romania\": 0.917}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Romanian Revolution\": 0.815}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Mongolian People's Republic",
+        "relation": "inverse has place",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Mongolian Revolution of 1990",
+        "pred_score": 0.9305,
+        "topk_score_info": "{\"Mongolian Revolution of 1990\": 0.93, \"Mongolian Revolution of 1921\": 0.92, \"Mongolian People's Republic\": 0.91}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Mongolian Revolution of 1990\": 0.807}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Log Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 42,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "World War II in Yugoslav Macedonia",
+        "pred_score": 0.9031,
+        "topk_score_info": "{\"World War II in Yugoslav Macedonia\": 0.903, \"1991 protests in Belgrade\": 0.897, \"Serbian Revolution\": 0.897}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "SR Croatia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.8816,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.882, \"World War II in Yugoslav Macedonia\": 0.879, \"Breakup of Yugoslavia\": 0.878}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Serbian Revolution",
+        "pred_score": 0.9452,
+        "topk_score_info": "{\"Serbian Revolution\": 0.945, \"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.93, \"World War II in Yugoslavia\": 0.923}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.8508,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.851, \"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "inverse sub event of",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Serbia and Montenegro",
+        "pred_score": 0.9141,
+        "topk_score_info": "{\"Serbia and Montenegro\": 0.914, \"Kingdom of Yugoslavia\": 0.905, \"Yugoslavia\": 0.903}",
+        "rank": 117,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Breakup of Yugoslavia\": 0.796}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Kingdom of Yugoslavia",
+        "pred_score": 0.9566,
+        "topk_score_info": "{\"Kingdom of Yugoslavia\": 0.957, \"Yugoslavia\": 0.929, \"Stojan Krsti\\u0107\": 0.918}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Ante Marković",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.917,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.917, \"World War II in Yugoslav Macedonia\": 0.915, \"Log Revolution\": 0.913}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Blagoje Ad�%B Eić",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Serbian Revolution",
+        "pred_score": 0.9371,
+        "topk_score_info": "{\"Serbian Revolution\": 0.937, \"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.926, \"World War II in Yugoslav Macedonia\": 0.911}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten-Day War",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Milan Ku�%8 Dan",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9269,
+        "topk_score_info": "{\"Ten-Day War\": 0.927, \"World War II in Yugoslav Macedonia\": 0.911, \"Breakup of Yugoslavia\": 0.904}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Veljko Kadijević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Stojan Krstić",
+        "pred_score": 0.9131,
+        "topk_score_info": "{\"Stojan Krsti\\u0107\": 0.913, \"Serbian Revolution\": 0.911, \"Serbia and Montenegro\": 0.909}",
+        "rank": 63,
+        "correct": false
+    },
+    {
+        "head": "Janez Janša",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.936,
+        "topk_score_info": "{\"Ten-Day War\": 0.936, \"World War II in Yugoslavia\": 0.896, \"Kingdom of Yugoslavia\": 0.886}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Slovenia",
+        "relation": "inverse has place",
+        "tail": "Ten-Day War",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.8708,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.871, \"1991 protests in Belgrade\": 0.87, \"World War II in Yugoslav Macedonia\": 0.867}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Igor Bav�%8 Dar",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "World War II in Yugoslav Macedonia",
+        "pred_score": 0.9235,
+        "topk_score_info": "{\"World War II in Yugoslav Macedonia\": 0.923, \"Ten-Day War\": 0.919, \"Breakup of Yugoslavia\": 0.914}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Lojze Peterle",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9392,
+        "topk_score_info": "{\"Ten-Day War\": 0.939, \"World War II in Yugoslav Macedonia\": 0.9, \"World War II in Yugoslavia\": 0.897}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Konrad Kolšek",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9242,
+        "topk_score_info": "{\"Ten-Day War\": 0.924, \"World War II in Yugoslav Macedonia\": 0.901, \"Kingdom of Yugoslavia\": 0.899}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Aleksandar Vasiljević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Serbian Revolution",
+        "pred_score": 0.9353,
+        "topk_score_info": "{\"Serbian Revolution\": 0.935, \"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.934, \"World War II in Yugoslav Macedonia\": 0.922}",
+        "rank": 20,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Fall of communism in Albania",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Fall of communism in Albania\": 0.798}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Mexican Armed Forces",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Armed Forces",
+        "pred_score": 0.9687,
+        "topk_score_info": "{\"Mexican Armed Forces\": 0.969, \"Mexican Revolution\": 0.923, \"National Guard ( Mexico)\": 0.922}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9289,
+        "topk_score_info": "{\"Chiapas conflict\": 0.929, \"Federal Army\": 0.915, \"Mexican Revolution\": 0.904}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 49,
+        "correct": false
+    },
+    {
+        "head": "Comandanta Ramona",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Liberation Army of the South",
+        "pred_score": 0.8965,
+        "topk_score_info": "{\"Liberation Army of the South\": 0.897, \"Federal Army\": 0.873, \"Revolution of October 8%2 C 1812\": 0.865}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Arturo Guzmán Decena",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.921,
+        "topk_score_info": "{\"Federal Army\": 0.921, \"Mexican Revolution\": 0.916, \"Mexican Liberal Party\": 0.867}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "National Guard ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "National Guard ( Mexico)",
+        "pred_score": 0.9612,
+        "topk_score_info": "{\"National Guard ( Mexico)\": 0.961, \"Federal Army\": 0.94, \"Mexican Revolution\": 0.935}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Ernesto Zedillo",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.9207,
+        "topk_score_info": "{\"Federal Army\": 0.921, \"Mexican Revolution\": 0.906, \"Chiapas conflict\": 0.849}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Manuel Camacho Sol�%A Ds",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.9392,
+        "topk_score_info": "{\"Federal Army\": 0.939, \"Mexican Revolution\": 0.928, \"Mexican Liberal Party\": 0.88}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.9421,
+        "topk_score_info": "{\"Federal Army\": 0.942, \"Battle of Cuautla (1911)\": 0.908, \"Chiapas conflict\": 0.903}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Carlos Salinas de Gortari",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Glorious Revolution ( Spain)",
+        "pred_score": 0.875,
+        "topk_score_info": "{\"Glorious Revolution ( Spain)\": 0.875, \"Spanish American wars of independence\": 0.87, \"Nicaraguan Revolution\": 0.861}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Subcomandante Marcos",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.9194,
+        "topk_score_info": "{\"Federal Army\": 0.919, \"Mexican Revolution\": 0.909, \"Mexican Liberal Party\": 0.875}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Federal Police ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.9417,
+        "topk_score_info": "{\"Federal Army\": 0.942, \"Mexican Revolution\": 0.934, \"National Guard ( Mexico)\": 0.918}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Inspector General of Police ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Prime Minister of Nepal",
+        "pred_score": 0.9292,
+        "topk_score_info": "{\"Prime Minister of Nepal\": 0.929, \"Nepalese Civil War\": 0.923, \"Chief of Army Staff ( Nepal)\": 0.922}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Girija Prasad Koirala",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9341,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.934, \"Nepal\": 0.907, \"King of Nepal\": 0.907}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Birendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.926,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.926, \"King of Nepal\": 0.925, \"Nepal\": 0.925}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.943,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.943, \"Nepal\": 0.894, \"King of Nepal\": 0.894}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Baburam Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9498,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.95, \"King of Nepal\": 0.894, \"Nepal\": 0.883}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mohan Baidya",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9621,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.962, \"King of Nepal\": 0.921, \"Prime Minister of Nepal\": 0.914}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Pradip Shumsher J.B.R.",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9431,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.943, \"Indian Rebellion of 1857\": 0.888, \"King of Nepal\": 0.874}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Moti Lal Bohora",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.951,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.951, \"King of Nepal\": 0.914, \"Prime Minister of Nepal\": 0.901}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9362,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.936, \"Indian Rebellion of 1857\": 0.877, \"King of Nepal\": 0.868}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9502,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.95, \"King of Nepal\": 0.915, \"Nepal\": 0.898}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9212,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.921, \"King of Nepal\": 0.891, \"Indian Rebellion of 1857\": 0.883}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Lokendra Bahadur Chand",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.954,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.954, \"King of Nepal\": 0.904, \"Nepal\": 0.891}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Om Bikram Rana",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9597,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.96, \"King of Nepal\": 0.915, \"Prime Minister of Nepal\": 0.913}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Achyut Krishna Kharel",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.954,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.954, \"Indian Rebellion of 1857\": 0.908, \"King of Nepal\": 0.901}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Biplav",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9207,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.921, \"King of Nepal\": 0.898, \"Chief of Army Staff ( Nepal)\": 0.89}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "King of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9411,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.941, \"King of Nepal\": 0.916, \"Indian Rebellion of 1857\": 0.889}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Shyam Bhakta Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9465,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.946, \"King of Nepal\": 0.914, \"Prime Minister of Nepal\": 0.909}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Dharmapaal Barsingh Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.936,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.936, \"King of Nepal\": 0.911, \"Nepal\": 0.909}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Rookmangud Katawal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9504,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.95, \"Indian Rebellion of 1857\": 0.876, \"King of Nepal\": 0.875}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Dhruba Bahadur Pradhan",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9579,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.958, \"King of Nepal\": 0.911, \"Chief of Army Staff ( Nepal)\": 0.897}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Chief of Army Staff ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.943, \"Chief of Army Staff ( Nepal)\": 0.92, \"King of Nepal\": 0.909}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9525,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.952, \"King of Nepal\": 0.913, \"Nepal\": 0.906}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9252,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.925, \"King of Nepal\": 0.879, \"Indian Rebellion of 1857\": 0.878}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Krishna Prasad Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9493,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.949, \"King of Nepal\": 0.911, \"Nepal\": 0.899}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Surya Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9263,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.926, \"King of Nepal\": 0.875, \"Indian Rebellion of 1857\": 0.873}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Prime Minister of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Prime Minister of Nepal",
+        "pred_score": 0.9578,
+        "topk_score_info": "{\"Prime Minister of Nepal\": 0.958, \"Nepalese Civil War\": 0.955, \"King of Nepal\": 0.933}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Ram Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9348,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.935, \"King of Nepal\": 0.909, \"Chief of Army Staff ( Nepal)\": 0.901}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Pink tide",
+        "relation": "inverse sub event of",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Pink tide",
+        "pred_score": 0.9523,
+        "topk_score_info": "{\"Pink tide\": 0.952, \"J\\ufffd%B Alio de Mesquita Filho\": 0.864, \"April Revolt\": 0.852}",
+        "rank": 76,
+        "correct": false
+    },
+    {
+        "head": "Serbia and Montenegro",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Serbia and Montenegro",
+        "pred_score": 0.9364,
+        "topk_score_info": "{\"Serbia and Montenegro\": 0.936, \"Jovan Dimitrijevi\\u0107 Dobra\\ufffd%8 Da\": 0.919, \"Mom\\ufffd%8 Dilo \\u0110uji\\u0107\": 0.918}",
+        "rank": 84,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Belgrade",
+        "pred_score": 0.9246,
+        "topk_score_info": "{\"Belgrade\": 0.925, \"Serbian Revolution\": 0.923, \"Caja-Im\\u0161ir\": 0.923}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second EDSA Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 77,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Rose Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "Rose Revolution",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9115,
+        "topk_score_info": "{\"Rose Revolution\": 0.912, \"October Revolution\": 0.863, \"Mongolian Revolution of 1921\": 0.851}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Aslan Abashidze",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9269,
+        "topk_score_info": "{\"Rose Revolution\": 0.927, \"2004 Adjara crisis\": 0.921, \"Mongolian Revolution of 1921\": 0.843}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Adjara",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9265,
+        "topk_score_info": "{\"Rose Revolution\": 0.927, \"2004 Adjara crisis\": 0.917, \"Adjara\": 0.87}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9128,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.913, \"October Revolution\": 0.863, \"Mongolian Revolution of 1921\": 0.851}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mikheil Saakashvili",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9302,
+        "topk_score_info": "{\"Rose Revolution\": 0.93, \"2004 Adjara crisis\": 0.92, \"October Revolution\": 0.857}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Orange Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Cedar Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Cedar Revolution\": 0.815}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9273,
+        "topk_score_info": "{\"Tulip Revolution\": 0.927, \"Mongolian Revolution of 1921\": 0.883, \"October Revolution\": 0.876}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Tulip Revolution\": 0.832, \"Interwar period\": 0.821}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Andijan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Tulip Revolution\": 0.895, \"Mongolian Revolution of 1921\": 0.887, \"Consolidation of the Iranian Revolution\": 0.881}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Uzbekistan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Mongolian Revolution of 1921",
+        "pred_score": 0.8902,
+        "topk_score_info": "{\"Mongolian Revolution of 1921\": 0.89, \"Tulip Revolution\": 0.889, \"October Revolution\": 0.887}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Andijan massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Myanmar",
+        "relation": "inverse has place",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9047,
+        "topk_score_info": "{\"Saffron Revolution\": 0.905, \"Siamese revolution of 1932\": 0.847, \"Cambodian Civil War\": 0.83}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2009 Icelandic financial crisis protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.8954,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.895, \"Mongolian Revolution of 1921\": 0.883, \"October Revolution\": 0.876}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Spring",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Tunisia",
+        "relation": "inverse has place",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.9251,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.925, \"Algerian War\": 0.904, \"Yemeni Revolution\": 0.895}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "November 2012 Jordanian protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "Lebanon",
+        "relation": "inverse has place",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.8981,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.898, \"Cedar Revolution\": 0.877, \"July Revolution\": 0.866}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"2011 Lebanese protests\": 0.796}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "14 July Revolution",
+        "pred_score": 0.8808,
+        "topk_score_info": "{\"14 July Revolution\": 0.881, \"1959 Mosul uprising\": 0.878, \"Ramadan Revolution\": 0.871}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Egyptian crisis (2011–2014)",
+        "relation": "inverse sub event of",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Egyptian Revolutionary Command Council",
+        "pred_score": 0.9019,
+        "topk_score_info": "{\"Egyptian Revolutionary Command Council\": 0.902, \"Egyptian Revolution of 1919\": 0.898, \"June 2013 Egyptian protests\": 0.893}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Euromaidan",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Colonial India\": 0.791}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Neolithic Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8402,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.84, \"Interwar period\": 0.821, \"Neolithic Revolution\": 0.82}",
+        "rank": 3,
+        "correct": false
+    }
+]

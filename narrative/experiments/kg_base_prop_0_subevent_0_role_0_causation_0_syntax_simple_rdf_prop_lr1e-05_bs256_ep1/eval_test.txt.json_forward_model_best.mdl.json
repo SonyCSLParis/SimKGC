@@ -1,0 +1,1032 @@
+[
+    {
+        "head": "German reunification",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "German reunification",
+        "pred_score": 0.9847,
+        "topk_score_info": "{\"German reunification\": 0.985, \"Monday demonstrations in East Germany\": 0.898, \"Peaceful Revolution\": 0.896}",
+        "rank": 846,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9876,
+        "topk_score_info": "{\"Velvet Revolution\": 0.988, \"Prague Spring\": 0.931, \"Stuha\": 0.906}",
+        "rank": 823,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has place",
+        "tail": "Socialist Republic of Romania",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9793,
+        "topk_score_info": "{\"Romanian Revolution\": 0.979, \"Fall of communism in Albania\": 0.881, \"Wallachian Revolution of 1848\": 0.88}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9763,
+        "topk_score_info": "{\"Romanian Revolution\": 0.976, \"Fall of communism in Albania\": 0.876, \"Wallachian Revolution of 1848\": 0.874}",
+        "rank": 544,
+        "correct": false
+    },
+    {
+        "head": "Mongolian Revolution of 1990",
+        "relation": "has place",
+        "tail": "Mongolian People's Republic",
+        "pred_tail": "Mongolian Revolution of 1990",
+        "pred_score": 0.9857,
+        "topk_score_info": "{\"Mongolian Revolution of 1990\": 0.986, \"Darizavyn Losol\": 0.92, \"Dansranbilegiin Dogsom\": 0.917}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Mongolian Revolution of 1990",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Mongolian Revolution of 1990",
+        "pred_score": 0.9872,
+        "topk_score_info": "{\"Mongolian Revolution of 1990\": 0.987, \"Darizavyn Losol\": 0.918, \"Dansranbilegiin Dogsom\": 0.918}",
+        "rank": 942,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9902,
+        "topk_score_info": "{\"Log Revolution\": 0.99, \"Serbian Revolution\": 0.931, \"Dragoslav Ra\\ufffd%8 Di\\u0107\": 0.924}",
+        "rank": 1046,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has place",
+        "tail": "SFR Yugoslavia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9896,
+        "topk_score_info": "{\"Log Revolution\": 0.99, \"Serbian Revolution\": 0.934, \"Dragoslav Ra\\ufffd%8 Di\\u0107\": 0.924}",
+        "rank": 1444,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has place",
+        "tail": "SR Croatia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9896,
+        "topk_score_info": "{\"Log Revolution\": 0.99, \"Serbian Revolution\": 0.934, \"Dragoslav Ra\\ufffd%8 Di\\u0107\": 0.924}",
+        "rank": 1481,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has place",
+        "tail": "Belgrade",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9844,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.984, \"Fall of communism in Albania\": 0.872, \"Romanian Revolution\": 0.864}",
+        "rank": 226,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9674,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.967, \"Fall of communism in Albania\": 0.87, \"Romanian Revolution\": 0.859}",
+        "rank": 312,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "sub event of",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9775,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.977, \"Fall of communism in Albania\": 0.871, \"Romanian Revolution\": 0.859}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.982,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.982, \"Revolutions of 1989\": 0.89, \"Serbia and Montenegro\": 0.875}",
+        "rank": 430,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has place",
+        "tail": "Yugoslavia",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.983,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.983, \"Revolutions of 1989\": 0.887, \"Serbia and Montenegro\": 0.871}",
+        "rank": 259,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Ante Marković",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Blagoje Ad�%B Eić",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 56,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9864,
+        "topk_score_info": "{\"Ten-Day War\": 0.986, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.878, \"Slavko Kvaternik\": 0.876}",
+        "rank": 1073,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Milan Ku�%8 Dan",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Veljko Kadijević",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 58,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Janez Janša",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has place",
+        "tail": "Slovenia",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9846,
+        "topk_score_info": "{\"Ten-Day War\": 0.985, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.879, \"Franc Rozman\": 0.878}",
+        "rank": 1355,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Igor Bav�%8 Dar",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Lojze Peterle",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 45,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Konrad Kolšek",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Aleksandar Vasiljević",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9816,
+        "topk_score_info": "{\"Ten-Day War\": 0.982, \"Franc Rozman\": 0.881, \"Mili\\u0107 Drin\\ufffd%8 Di\\u0107\": 0.88}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "Fall of communism in Albania",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Fall of communism in Albania",
+        "pred_score": 0.9725,
+        "topk_score_info": "{\"Fall of communism in Albania\": 0.972, \"Romanian Revolution\": 0.864, \"Revolutions of 1989\": 0.854}",
+        "rank": 450,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Mexican Armed Forces",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 53,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has place",
+        "tail": "Chiapas",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9829,
+        "topk_score_info": "{\"Chiapas conflict\": 0.983, \"Chiapas\": 0.882, \"Battle of Cuautla (1911)\": 0.881}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9811,
+        "topk_score_info": "{\"Chiapas conflict\": 0.981, \"Chiapas\": 0.88, \"Battle of Cuautla (1911)\": 0.876}",
+        "rank": 578,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Comandanta Ramona",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Arturo Guzmán Decena",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 96,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "National Guard ( Mexico)",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 157,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Ernesto Zedillo",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 65,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Manuel Camacho Sol�%A Ds",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9829,
+        "topk_score_info": "{\"Chiapas conflict\": 0.983, \"Battle of Cuautla (1911)\": 0.881, \"Subcomandante Marcos\": 0.875}",
+        "rank": 65,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Carlos Salinas de Gortari",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 67,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Subcomandante Marcos",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Federal Police ( Mexico)",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Chiapas conflict\": 0.98, \"Battle of Cuautla (1911)\": 0.88, \"Chiapas\": 0.88}",
+        "rank": 395,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Inspector General of Police ( Nepal)",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 59,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Girija Prasad Koirala",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 76,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Birendra of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 263,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has place",
+        "tail": "Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9829,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.983, \"Mohan Baidya\": 0.876, \"Rookmangud Katawal\": 0.853}",
+        "rank": 106,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Baburam Bhattarai",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Baburam Bhattarai\": 0.838}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Mohan Baidya",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Mohan Baidya\": 0.872, \"Chinese Civil War\": 0.84}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pradip Shumsher J.B.R.",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Moti Lal Bohora",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 96,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pyar Jung Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Pyar Jung Thapa\": 0.846, \"Chinese Civil War\": 0.84}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Gyanendra of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pushpa Kamal Dahal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 263,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Lokendra Bahadur Chand",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Om Bikram Rana",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Achyut Krishna Kharel",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Biplav",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 81,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "King of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 47,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Shyam Bhakta Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Dharmapaal Barsingh Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 156,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Rookmangud Katawal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Rookmangud Katawal\": 0.849, \"Chinese Civil War\": 0.84}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9819,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.982, \"Mohan Baidya\": 0.877, \"Rookmangud Katawal\": 0.848}",
+        "rank": 663,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Dhruba Bahadur Pradhan",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Chief of Army Staff ( Nepal)",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 176,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Nanda Kishor Pun",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Sher Bahadur Deuba",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Krishna Prasad Bhattarai",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Krishna Prasad Bhattarai\": 0.847, \"Chinese Civil War\": 0.84}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Surya Bahadur Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Prime Minister of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 55,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Ram Bahadur Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9781,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.978, \"Chinese Civil War\": 0.84, \"Laotian Civil War\": 0.837}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9844,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.984, \"Cuban Revolution\": 0.886, \"Nicaraguan Revolution\": 0.881}",
+        "rank": 587,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "sub event of",
+        "tail": "Pink tide",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9827,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.983, \"Cuban Revolution\": 0.888, \"Nicaraguan Revolution\": 0.878}",
+        "rank": 312,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "has begin time stamp",
+        "tail": "Serbia and Montenegro",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9775,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.977, \"Arso Jovanovi\\u0107\": 0.87, \"Du\\u0161an Simovi\\u0107\": 0.869}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "has begin time stamp",
+        "tail": "Belgrade",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9775,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.977, \"Arso Jovanovi\\u0107\": 0.87, \"Du\\u0161an Simovi\\u0107\": 0.869}",
+        "rank": 180,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9789,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.979, \"Arso Jovanovi\\u0107\": 0.861, \"Blagoje Ad\\ufffd%B Ei\\u0107\": 0.86}",
+        "rank": 1318,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9877,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.988, \"People Power Revolution\": 0.908, \"8888 Uprising\": 0.842}",
+        "rank": 451,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9879,
+        "topk_score_info": "{\"Rose Revolution\": 0.988, \"Adjara\": 0.88, \"Aslan Abashidze\": 0.861}",
+        "rank": 795,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "has place",
+        "tail": "Georgia (country)",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9825,
+        "topk_score_info": "{\"Rose Revolution\": 0.982, \"Adjara\": 0.88, \"Aslan Abashidze\": 0.856}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9823,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.982, \"Aslan Abashidze\": 0.888, \"Adjara\": 0.856}",
+        "rank": 784,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has actor",
+        "tail": "Aslan Abashidze",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9868,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.987, \"Aslan Abashidze\": 0.892, \"Tulip Revolution\": 0.864}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has place",
+        "tail": "Adjara",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9868,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.987, \"Aslan Abashidze\": 0.889, \"Tulip Revolution\": 0.863}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has place",
+        "tail": "Georgia (country)",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9868,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.987, \"Aslan Abashidze\": 0.889, \"Tulip Revolution\": 0.863}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has actor",
+        "tail": "Mikheil Saakashvili",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9868,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.987, \"Tulip Revolution\": 0.864, \"Adjara\": 0.861}",
+        "rank": 176,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9917,
+        "topk_score_info": "{\"Orange Revolution\": 0.992, \"Right-bank Ukraine\": 0.918, \"Euromaidan\": 0.917}",
+        "rank": 911,
+        "correct": false
+    },
+    {
+        "head": "Cedar Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Cedar Revolution",
+        "pred_score": 0.9868,
+        "topk_score_info": "{\"Cedar Revolution\": 0.987, \"Arab Revolt\": 0.922, \"Great Syrian Revolt\": 0.921}",
+        "rank": 806,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has place",
+        "tail": "Kyrgyzstan",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9834,
+        "topk_score_info": "{\"Tulip Revolution\": 0.983, \"Kyrgyz Revolution of 2010\": 0.893, \"Andijan massacre\": 0.884}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9848,
+        "topk_score_info": "{\"Tulip Revolution\": 0.985, \"Kyrgyz Revolution of 2010\": 0.891, \"Andijan massacre\": 0.882}",
+        "rank": 521,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has place",
+        "tail": "Andijan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9844,
+        "topk_score_info": "{\"Andijan massacre\": 0.984, \"Tulip Revolution\": 0.862, \"1991 protests in Belgrade\": 0.838}",
+        "rank": 161,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has place",
+        "tail": "Uzbekistan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9844,
+        "topk_score_info": "{\"Andijan massacre\": 0.984, \"Tulip Revolution\": 0.862, \"1991 protests in Belgrade\": 0.838}",
+        "rank": 956,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9848,
+        "topk_score_info": "{\"Andijan massacre\": 0.985, \"Tulip Revolution\": 0.863, \"1991 protests in Belgrade\": 0.838}",
+        "rank": 323,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9787,
+        "topk_score_info": "{\"Saffron Revolution\": 0.979, \"8888 Uprising\": 0.933, \"June 4th revolution in Ghana\": 0.885}",
+        "rank": 351,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has place",
+        "tail": "Myanmar",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9851,
+        "topk_score_info": "{\"Saffron Revolution\": 0.985, \"8888 Uprising\": 0.935, \"June 4th revolution in Ghana\": 0.881}",
+        "rank": 784,
+        "correct": false
+    },
+    {
+        "head": "2009 Icelandic financial crisis protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2009 Icelandic financial crisis protests",
+        "pred_score": 0.9842,
+        "topk_score_info": "{\"2009 Icelandic financial crisis protests\": 0.984, \"2011 Lebanese protests\": 0.829, \"Saffron Revolution\": 0.828}",
+        "rank": 160,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "has place",
+        "tail": "Kyrgyzstan",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9827,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.983, \"Tulip Revolution\": 0.897, \"Mongolian Revolution of 1990\": 0.873}",
+        "rank": 56,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9853,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.985, \"Tulip Revolution\": 0.894, \"Mongolian Revolution of 1990\": 0.874}",
+        "rank": 405,
+        "correct": false
+    },
+    {
+        "head": "Arab Spring",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.9806,
+        "topk_score_info": "{\"Arab Spring\": 0.981, \"Great Syrian Revolt\": 0.91, \"Muhammad al-Ashmar\": 0.898}",
+        "rank": 596,
+        "correct": false
+    },
+    {
+        "head": "Tunisian Revolution",
+        "relation": "has place",
+        "tail": "Tunisia",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.9726,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.973, \"Yemeni Revolution\": 0.917, \"2011 Lebanese protests\": 0.901}",
+        "rank": 161,
+        "correct": false
+    },
+    {
+        "head": "Tunisian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.9715,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.972, \"Yemeni Revolution\": 0.905, \"2011 Lebanese protests\": 0.893}",
+        "rank": 381,
+        "correct": false
+    },
+    {
+        "head": "November 2012 Jordanian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "November 2012 Jordanian protests",
+        "pred_score": 0.8827,
+        "topk_score_info": "{\"November 2012 Jordanian protests\": 0.883, \"Egyptian crisis (2011\\u20132014)\": 0.741, \"Andijan massacre\": 0.682}",
+        "rank": 261,
+        "correct": false
+    },
+    {
+        "head": "2011 Lebanese protests",
+        "relation": "has place",
+        "tail": "Lebanon",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.9835,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.984, \"Yemeni Revolution\": 0.925, \"Tunisian Revolution\": 0.902}",
+        "rank": 491,
+        "correct": false
+    },
+    {
+        "head": "2011 Lebanese protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.9786,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.979, \"Yemeni Revolution\": 0.917, \"Tunisian Revolution\": 0.898}",
+        "rank": 186,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9826,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.983, \"2011 Lebanese protests\": 0.917, \"Tunisian Revolution\": 0.905}",
+        "rank": 54,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9768,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.977, \"2011 Lebanese protests\": 0.916, \"Tunisian Revolution\": 0.911}",
+        "rank": 348,
+        "correct": false
+    },
+    {
+        "head": "June 2013 Egyptian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.9839,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.984, \"Tunisian Revolution\": 0.891, \"14 July Revolution\": 0.884}",
+        "rank": 472,
+        "correct": false
+    },
+    {
+        "head": "June 2013 Egyptian protests",
+        "relation": "sub event of",
+        "tail": "Egyptian crisis (2011–2014)",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.9876,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.988, \"Tunisian Revolution\": 0.897, \"2011 Lebanese protests\": 0.891}",
+        "rank": 461,
+        "correct": false
+    },
+    {
+        "head": "Euromaidan",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Euromaidan",
+        "pred_score": 0.9869,
+        "topk_score_info": "{\"Euromaidan\": 0.987, \"Orange Revolution\": 0.927, \"Right-bank Ukraine\": 0.881}",
+        "rank": 690,
+        "correct": false
+    },
+    {
+        "head": "Neolithic Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Neolithic Revolution",
+        "pred_score": 0.9847,
+        "topk_score_info": "{\"Neolithic Revolution\": 0.985, \"Industrious Revolution\": 0.876, \"Industrial Revolution\": 0.862}",
+        "rank": 42,
+        "correct": false
+    }
+]

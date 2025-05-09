@@ -1,0 +1,3362 @@
+[
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Velvet Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania",
+        "relation": "inverse has place",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Proclamation of Islaz",
+        "pred_score": 0.855,
+        "topk_score_info": "{\"Proclamation of Islaz\": 0.855, \"Romanian Revolution\": 0.847, \"Wallachian Revolution of 1848\": 0.84}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Syrian Civil War",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 662,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution of 1989",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 175,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Donbass",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 554,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Mongolian People's Republic",
+        "relation": "inverse has place",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Soviet intervention in Mongolia",
+        "pred_score": 0.8426,
+        "topk_score_info": "{\"Soviet intervention in Mongolia\": 0.843, \"Mongolian Revolution of 1990\": 0.842, \"Battle of Baitag Bogd\": 0.828}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Log Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Chetnik sabotage of Axis communication lines",
+        "pred_score": 0.8413,
+        "topk_score_info": "{\"Chetnik sabotage of Axis communication lines\": 0.841, \"Attack on Kru\\u0161evac\": 0.829, \"Capture of Olovo (1941)\": 0.828}",
+        "rank": 50,
+        "correct": false
+    },
+    {
+        "head": "SR Croatia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Battle of Kupres (1942)",
+        "pred_score": 0.8517,
+        "topk_score_info": "{\"Battle of Kupres (1942)\": 0.852, \"Battle of Zvornik\": 0.849, \"Biha\\u0107 operation\": 0.849}",
+        "rank": 41,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 146,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Uprising in Serbia (1941)",
+        "pred_score": 0.8525,
+        "topk_score_info": "{\"Uprising in Serbia (1941)\": 0.853, \"Battles of Bato\\ufffd%8 Dina and Jagodina\": 0.85, \"Battle of Ljubi\\u0107\": 0.844}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "SR Serbia",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.8406,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.841, \"Battles of Bato\\ufffd%8 Dina and Jagodina\": 0.839, \"Uprising in Serbia (1941)\": 0.838}",
+        "rank": 101,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Chetnik sabotage of Axis communication lines",
+        "pred_score": 0.8413,
+        "topk_score_info": "{\"Chetnik sabotage of Axis communication lines\": 0.841, \"Attack on Kru\\u0161evac\": 0.829, \"Capture of Olovo (1941)\": 0.828}",
+        "rank": 109,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Uprising in Serbia (1941)",
+        "pred_score": 0.8525,
+        "topk_score_info": "{\"Uprising in Serbia (1941)\": 0.853, \"Battles of Bato\\ufffd%8 Dina and Jagodina\": 0.85, \"Battle of Ljubi\\u0107\": 0.844}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"1991 protests in Belgrade\": 0.778, \"Battle of Gabon\": 0.772}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "inverse sub event of",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.881,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.881, \"Chetnik sabotage of Axis communication lines\": 0.847, \"Capture of Olovo (1941)\": 0.835}",
+        "rank": 49,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 49,
+        "correct": false
+    },
+    {
+        "head": "Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Partisan Long March",
+        "pred_score": 0.8444,
+        "topk_score_info": "{\"Partisan Long March\": 0.844, \"World War II in Yugoslavia\": 0.831, \"June 1941 uprising in eastern Herzegovina\": 0.822}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Mongols",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Baitag Bogd",
+        "pred_score": 0.8163,
+        "topk_score_info": "{\"Battle of Baitag Bogd\": 0.816, \"Mongolian Revolution of 1990\": 0.812, \"Soviet intervention in Mongolia\": 0.81}",
+        "rank": 263,
+        "correct": false
+    },
+    {
+        "head": "Trsat",
+        "relation": "inverse has place",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Siege of Rogatica (1941)",
+        "pred_score": 0.8499,
+        "topk_score_info": "{\"Siege of Rogatica (1941)\": 0.85, \"Battle of Livno\": 0.848, \"Biha\\u0107 operation\": 0.839}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Duchy of Croatia",
+        "relation": "inverse has place",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Partisan Long March",
+        "pred_score": 0.8247,
+        "topk_score_info": "{\"Partisan Long March\": 0.825, \"Biha\\u0107 operation\": 0.822, \"Siege of Rogatica (1941)\": 0.821}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.7946,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.795, \"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Khadan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Qala-i-Jangi",
+        "pred_score": 0.8421,
+        "topk_score_info": "{\"Battle of Qala-i-Jangi\": 0.842, \"Battle of Shamli\": 0.825, \"1898 Baloch uprising\": 0.822}",
+        "rank": 135,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Serb-Catholic movement in Dubrovnik",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 54,
+        "correct": false
+    },
+    {
+        "head": "Franks",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Franks",
+        "pred_score": 0.7526,
+        "topk_score_info": "{\"Franks\": 0.753, \"The Anarchy\": 0.743, \"Battle of Wattignies\": 0.728}",
+        "rank": 176,
+        "correct": false
+    },
+    {
+        "head": "Kadan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Baitag Bogd",
+        "pred_score": 0.7804,
+        "topk_score_info": "{\"Battle of Baitag Bogd\": 0.78, \"Mongolian Revolution of 1921\": 0.764, \"Mongolian Revolution of 1990\": 0.763}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Croats",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.8523,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.852, \"Partisan Long March\": 0.852, \"Siege of Rogatica (1941)\": 0.851}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "Croats",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.8523,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.852, \"Partisan Long March\": 0.852, \"Siege of Rogatica (1941)\": 0.851}",
+        "rank": 162,
+        "correct": false
+    },
+    {
+        "head": "Bombing",
+        "relation": "inverse event type",
+        "tail": "Podujevo bus bombing",
+        "pred_tail": "June Revolution",
+        "pred_score": 0.7732,
+        "topk_score_info": "{\"June Revolution\": 0.773, \"Mal\\u00ea Revolt\": 0.765, \"First World War\": 0.748}",
+        "rank": 342,
+        "correct": false
+    },
+    {
+        "head": "Béla IV of Hungary",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Saint Gotthard (1705)",
+        "pred_score": 0.8311,
+        "topk_score_info": "{\"Battle of Saint Gotthard (1705)\": 0.831, \"R\\u00e1k\\u00f3czi's War of Independence\": 0.821, \"Battle of Koronc\\u00f3\": 0.82}",
+        "rank": 102,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Podujevo bus bombing",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Mongol invasion of Europe",
+        "relation": "inverse sub event of",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Mongol invasion of Europe",
+        "pred_score": 0.8935,
+        "topk_score_info": "{\"Mongol invasion of Europe\": 0.894, \"Aftermath of World War II\": 0.761, \"Russian Empire\": 0.744}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Eric of Friuli",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "The Anarchy",
+        "pred_score": 0.7021,
+        "topk_score_info": "{\"The Anarchy\": 0.702, \"Spring 1945 offensive in Italy\": 0.682, \"Eric of Friuli\": 0.676}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Višeslav of Croatia",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.7963,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.796, \"Siege of Trsat\": 0.792, \"Battle of Livno\": 0.791}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Batu Khan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Mongol invasion of Europe",
+        "pred_score": 0.8195,
+        "topk_score_info": "{\"Mongol invasion of Europe\": 0.819, \"Peasant rebellion of Sorokino\": 0.817, \"Soviet intervention in Mongolia\": 0.816}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Killed in action",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Operation Steel Tiger",
+        "pred_score": 0.7983,
+        "topk_score_info": "{\"Operation Steel Tiger\": 0.798, \"Battle of Carrizal\": 0.781, \"Indochina Wars\": 0.75}",
+        "rank": 1112,
+        "correct": false
+    },
+    {
+        "head": "Ante Marković",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.8675,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.868, \"Siege of Rogatica (1941)\": 0.867, \"Partisan Long March\": 0.865}",
+        "rank": 54,
+        "correct": false
+    },
+    {
+        "head": "Blagoje Ad�%B Eić",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Serbian Revolution",
+        "pred_score": 0.832,
+        "topk_score_info": "{\"Serbian Revolution\": 0.832, \"Uprising in Serbia (1941)\": 0.83, \"Operation Mihailovic\": 0.829}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 20,
+        "correct": false
+    },
+    {
+        "head": "Milan Ku�%8 Dan",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.8669,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.867, \"Siege of Turjak\": 0.853, \"Ten-Day War\": 0.846}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Veljko Kadijević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Operation Mihailovic",
+        "pred_score": 0.829,
+        "topk_score_info": "{\"Operation Mihailovic\": 0.829, \"Territory of the Military Commander in Serbia\": 0.821, \"Attack on Kru\\u0161evac\": 0.819}",
+        "rank": 225,
+        "correct": false
+    },
+    {
+        "head": "Janez Janša",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.8501,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.85, \"Siege of Turjak\": 0.839, \"Ten-Day War\": 0.838}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Slovenia",
+        "relation": "inverse has place",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.8613,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.861, \"Siege of Turjak\": 0.85, \"Battle of Batina\": 0.84}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Igor Bav�%8 Dar",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.8756,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.876, \"Ten-Day War\": 0.867, \"Siege of Turjak\": 0.861}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Lojze Peterle",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.866,
+        "topk_score_info": "{\"Ten-Day War\": 0.866, \"Battle of Ko\\ufffd%8 Devje\": 0.859, \"Siege of Turjak\": 0.836}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Konrad Kolšek",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.8337,
+        "topk_score_info": "{\"Ten-Day War\": 0.834, \"Partisan Long March\": 0.831, \"Slovenian War of Independence\": 0.829}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Aleksandar Vasiljević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Uprising in Serbia (1941)",
+        "pred_score": 0.8495,
+        "topk_score_info": "{\"Uprising in Serbia (1941)\": 0.85, \"Operation Mihailovic\": 0.842, \"Chetnik sabotage of Axis communication lines\": 0.842}",
+        "rank": 106,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Bosnia",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 384,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Croatia",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 300,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten Day War",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 420,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Global War on Terrorism",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 475,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Slovenia",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 244,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Slovenian War of Independence",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 427,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "RCA",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 2597,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Fall of communism in Albania",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Mexican Armed Forces",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8549,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.855, \"Candelaria border incursion of 1919\": 0.837, \"Mexican drug war\": 0.835}",
+        "rank": 61,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.8356,
+        "topk_score_info": "{\"Chiapas conflict\": 0.836, \"Battle of Cuautla (1911)\": 0.797, \"Battle of Puerto de Pi\\u00f1ones\": 0.796}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Comandanta Ramona",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Liberation Army of the South",
+        "pred_score": 0.7927,
+        "topk_score_info": "{\"Liberation Army of the South\": 0.793, \"Battle of Los Horcones\": 0.768, \"Battle of Pasong Tamo\": 0.763}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Arturo Guzmán Decena",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8272,
+        "topk_score_info": "{\"Mexican drug war\": 0.827, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.823, \"Candelaria border incursion of 1919\": 0.809}",
+        "rank": 63,
+        "correct": false
+    },
+    {
+        "head": "National Guard ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8634,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.863, \"Mexican drug war\": 0.859, \"Ten Tragic Days\": 0.853}",
+        "rank": 63,
+        "correct": false
+    },
+    {
+        "head": "Ernesto Zedillo",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8258,
+        "topk_score_info": "{\"Mexican drug war\": 0.826, \"First Battle of Torre\\u00f3n\": 0.813, \"Siege of Acapulco (1813)\": 0.813}",
+        "rank": 68,
+        "correct": false
+    },
+    {
+        "head": "Manuel Camacho Sol�%A Ds",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8197,
+        "topk_score_info": "{\"Mexican drug war\": 0.82, \"Siege of Acapulco (1813)\": 0.812, \"Mexican Dirty War\": 0.81}",
+        "rank": 68,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Carlos Salinas de Gortari",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Brunete",
+        "pred_score": 0.7981,
+        "topk_score_info": "{\"Battle of Brunete\": 0.798, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.793, \"Glorious Revolution ( Spain)\": 0.786}",
+        "rank": 188,
+        "correct": false
+    },
+    {
+        "head": "Subcomandante Marcos",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.812,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.812, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.802, \"Mexican drug war\": 0.798}",
+        "rank": 41,
+        "correct": false
+    },
+    {
+        "head": "Federal Police ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8651,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.865, \"Second Battle of Rellano\": 0.862, \"Battle of Ciudad Ju\\u00e1rez (1911)\": 0.861}",
+        "rank": 61,
+        "correct": false
+    },
+    {
+        "head": "Vidal Francisco Soberón Sanz",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.829,
+        "topk_score_info": "{\"Mexican drug war\": 0.829, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.821, \"Second Battle of Topolobampo\": 0.814}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 33,
+        "correct": false
+    },
+    {
+        "head": "Mexican Army",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8559,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.856, \"Mexican drug war\": 0.852, \"Candelaria border incursion of 1919\": 0.843}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "Tamaulipas",
+        "relation": "inverse has place",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.7978,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.798, \"Battle of Puerto de Pi\\u00f1ones\": 0.789, \"Battle of El Veladero\": 0.787}",
+        "rank": 101,
+        "correct": false
+    },
+    {
+        "head": "Salvador Cienfuegos",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.818,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.818, \"Candelaria border incursion of 1919\": 0.814, \"Zapatista Army of National Liberation\": 0.812}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Antonio Cárdenas Guillén",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.7815,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.781, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.759, \"Tacnazo insurrection\": 0.749}",
+        "rank": 263,
+        "correct": false
+    },
+    {
+        "head": "Quintana Roo",
+        "relation": "inverse has place",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Pasong Tamo",
+        "pred_score": 0.7986,
+        "topk_score_info": "{\"Battle of Pasong Tamo\": 0.799, \"Battle of Los Horcones\": 0.795, \"Battle of C\\ufffd%B Acuta\": 0.753}",
+        "rank": 232,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8284,
+        "topk_score_info": "{\"Mexican drug war\": 0.828, \"Siege of Acapulco (1813)\": 0.816, \"Second Battle of Rellano\": 0.814}",
+        "rank": 105,
+        "correct": false
+    },
+    {
+        "head": "Guillermo Galván Galván",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8366,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.837, \"Mexican drug war\": 0.836, \"Candelaria border incursion of 1919\": 0.814}",
+        "rank": 52,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "War on drugs",
+        "pred_score": 0.8539,
+        "topk_score_info": "{\"War on drugs\": 0.854, \"Battle of Carrizal\": 0.749, \"War on terror\": 0.74}",
+        "rank": 744,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 40,
+        "correct": false
+    },
+    {
+        "head": "Jorge Eduardo Costilla Sánchez",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8433,
+        "topk_score_info": "{\"Mexican drug war\": 0.843, \"Candelaria border incursion of 1919\": 0.822, \"Mexican Dirty War\": 0.822}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 172,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8145,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.815, \"Battle of C\\ufffd%B Acuta\": 0.781, \"Battle of Pasong Tamo\": 0.781}",
+        "rank": 243,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "War on drugs",
+        "pred_score": 0.8539,
+        "topk_score_info": "{\"War on drugs\": 0.854, \"Battle of Carrizal\": 0.749, \"War on terror\": 0.74}",
+        "rank": 1623,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 232,
+        "correct": false
+    },
+    {
+        "head": "Mariano Francisco Saynez Mendoza",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Second Battle of Rellano",
+        "pred_score": 0.8424,
+        "topk_score_info": "{\"Second Battle of Rellano\": 0.842, \"Fourth Battle of Topolobampo\": 0.842, \"Mexican Dirty War\": 0.84}",
+        "rank": 70,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "inverse sub event of",
+        "tail": "Acteal massacre",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.8542,
+        "topk_score_info": "{\"Zapatista uprising\": 0.854, \"Chiapas conflict\": 0.853, \"Zapatista Army of National Liberation\": 0.823}",
+        "rank": 294,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8284,
+        "topk_score_info": "{\"Mexican drug war\": 0.828, \"Siege of Acapulco (1813)\": 0.816, \"Second Battle of Rellano\": 0.814}",
+        "rank": 65,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.813,
+        "topk_score_info": "{\"Zapatista uprising\": 0.813, \"Battle of Cuautla (1911)\": 0.797, \"Battle of Puerto de Pi\\u00f1ones\": 0.796}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8118,
+        "topk_score_info": "{\"Mexican drug war\": 0.812, \"Zapatista Army of National Liberation\": 0.799, \"Candelaria border incursion of 1919\": 0.793}",
+        "rank": 83,
+        "correct": false
+    },
+    {
+        "head": "Jorge Eduardo Costilla Sánchez",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8433,
+        "topk_score_info": "{\"Mexican drug war\": 0.843, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.831, \"Candelaria border incursion of 1919\": 0.822}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.7973,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.797, \"Battle of Puerto de Pi\\u00f1ones\": 0.796, \"Siege of Cuautla\": 0.794}",
+        "rank": 283,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8435,
+        "topk_score_info": "{\"Mexican drug war\": 0.843, \"Mexican Dirty War\": 0.839, \"Third Battle of Topolobampo\": 0.829}",
+        "rank": 109,
+        "correct": false
+    },
+    {
+        "head": "Mariano Francisco Saynez Mendoza",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Second Battle of Rellano",
+        "pred_score": 0.8424,
+        "topk_score_info": "{\"Second Battle of Rellano\": 0.842, \"Fourth Battle of Topolobampo\": 0.842, \"Mexican Dirty War\": 0.84}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "José Rafael Ojeda Durán",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8336,
+        "topk_score_info": "{\"Mexican drug war\": 0.834, \"Second Battle of Rellano\": 0.824, \"Siege of Acapulco (1813)\": 0.824}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "Mass murder",
+        "relation": "inverse event type",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Mass murder",
+        "pred_score": 0.8225,
+        "topk_score_info": "{\"Mass murder\": 0.823, \"Kidnapping\": 0.821, \"Police brutality\": 0.788}",
+        "rank": 715,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8284,
+        "topk_score_info": "{\"Mexican drug war\": 0.828, \"Siege of Acapulco (1813)\": 0.816, \"Second Battle of Rellano\": 0.814}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8118,
+        "topk_score_info": "{\"Mexican drug war\": 0.812, \"Zapatista Army of National Liberation\": 0.799, \"Candelaria border incursion of 1919\": 0.793}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.8542,
+        "topk_score_info": "{\"Zapatista uprising\": 0.854, \"Chiapas conflict\": 0.853, \"Zapatista Army of National Liberation\": 0.823}",
+        "rank": 83,
+        "correct": false
+    },
+    {
+        "head": "Mexican army",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Second Battle of Rellano",
+        "pred_score": 0.8433,
+        "topk_score_info": "{\"Second Battle of Rellano\": 0.843, \"Battle of Naco\": 0.843, \"Battle of Zacatecas (1914)\": 0.843}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8118,
+        "topk_score_info": "{\"Mexican drug war\": 0.812, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.81, \"Zapatista Army of National Liberation\": 0.799}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8435,
+        "topk_score_info": "{\"Mexican drug war\": 0.843, \"Mexican Dirty War\": 0.839, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.829}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "First Battle of Torreón",
+        "pred_score": 0.7776,
+        "topk_score_info": "{\"First Battle of Torre\\u00f3n\": 0.778, \"Battle of Los Horcones\": 0.774, \"Battle of Pasong Tamo\": 0.774}",
+        "rank": 237,
+        "correct": false
+    },
+    {
+        "head": "Infighting in the Gulf Cartel",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.8343,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.834, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.761, \"Mexican drug war\": 0.75}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.7847,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.785, \"Battle of Ciudad Ju\\u00e1rez (1919)\": 0.757, \"Battle of Pasong Tamo\": 0.757}",
+        "rank": 309,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Zapatista Army of National Liberation",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 68,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8478,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.848, \"Mexican drug war\": 0.835, \"Candelaria border incursion of 1919\": 0.831}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "Antonio Cárdenas Guillén",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.7815,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.781, \"1981 Spanish coup d'\\u00e9tat attempt\": 0.759, \"Tacnazo insurrection\": 0.749}",
+        "rank": 180,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "First Battle of Torreón",
+        "pred_score": 0.7776,
+        "topk_score_info": "{\"First Battle of Torre\\u00f3n\": 0.778, \"Battle of Los Horcones\": 0.774, \"Battle of Pasong Tamo\": 0.774}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8284,
+        "topk_score_info": "{\"Mexican drug war\": 0.828, \"Siege of Acapulco (1813)\": 0.816, \"Second Battle of Rellano\": 0.814}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "Honduras",
+        "relation": "inverse has place",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Nicaraguan Revolution",
+        "pred_score": 0.7654,
+        "topk_score_info": "{\"Nicaraguan Revolution\": 0.765, \"1811 Independence Movement\": 0.754, \"1944 Guatemalan presidential election\": 0.737}",
+        "rank": 211,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.7847,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.785, \"Battle of Ciudad Ju\\u00e1rez (1919)\": 0.757, \"Battle of Pasong Tamo\": 0.757}",
+        "rank": 199,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Money laundering",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 319,
+        "correct": false
+    },
+    {
+        "head": "Knights Templar Cartel",
+        "relation": "inverse has actor",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8461,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.846, \"Candelaria border incursion of 1919\": 0.843, \"Zapatista Army of National Liberation\": 0.838}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "First Battle of Torreón",
+        "pred_score": 0.7776,
+        "topk_score_info": "{\"First Battle of Torre\\u00f3n\": 0.778, \"Battle of Los Horcones\": 0.774, \"Battle of Pasong Tamo\": 0.774}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.8293,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.829, \"Candelaria border incursion of 1919\": 0.802, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.799}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8118,
+        "topk_score_info": "{\"Mexican drug war\": 0.812, \"Zapatista Army of National Liberation\": 0.799, \"Candelaria border incursion of 1919\": 0.793}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Jalisco",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8119,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.812, \"Fourth Battle of Topolobampo\": 0.812, \"Second Battle of Rellano\": 0.809}",
+        "rank": 196,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "War on drugs",
+        "pred_score": 0.8539,
+        "topk_score_info": "{\"War on drugs\": 0.854, \"Battle of Carrizal\": 0.749, \"War on terror\": 0.74}",
+        "rank": 942,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8435,
+        "topk_score_info": "{\"Mexican drug war\": 0.843, \"Mexican Dirty War\": 0.839, \"Third Battle of Topolobampo\": 0.829}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8475,
+        "topk_score_info": "{\"Mexican drug war\": 0.847, \"Infighting in the Gulf Cartel\": 0.841, \"Candelaria border incursion of 1919\": 0.833}",
+        "rank": 48,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.7847,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.785, \"Battle of Ciudad Ju\\u00e1rez (1919)\": 0.757, \"Battle of Pasong Tamo\": 0.757}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Guillermo Galván Galván",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8366,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.837, \"Mexican drug war\": 0.836, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.82}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8411,
+        "topk_score_info": "{\"Mexican drug war\": 0.841, \"Candelaria border incursion of 1919\": 0.831, \"Zapatista Army of National Liberation\": 0.82}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "Jalisco%2 C Mexico",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.8506,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.851, \"Candelaria border incursion of 1919\": 0.845, \"Second Battle of Rellano\": 0.842}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8475,
+        "topk_score_info": "{\"Mexican drug war\": 0.847, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.847, \"Infighting in the Gulf Cartel\": 0.841}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Guadalajara",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Second Battle of Rellano",
+        "pred_score": 0.7914,
+        "topk_score_info": "{\"Second Battle of Rellano\": 0.791, \"Battle of El Veladero\": 0.783, \"Candelaria border incursion of 1919\": 0.778}",
+        "rank": 86,
+        "correct": false
+    },
+    {
+        "head": "Mexican Navy",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8561,
+        "topk_score_info": "{\"Mexican drug war\": 0.856, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.855, \"Federal Army\": 0.843}",
+        "rank": 98,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8156,
+        "topk_score_info": "{\"Mexican drug war\": 0.816, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.81, \"Siege of Acapulco (1813)\": 0.81}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8145,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.815, \"Battle of C\\ufffd%B Acuta\": 0.781, \"Battle of Pasong Tamo\": 0.781}",
+        "rank": 367,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8156,
+        "topk_score_info": "{\"Mexican drug war\": 0.816, \"Siege of Acapulco (1813)\": 0.81, \"Ojo de Agua Raid\": 0.808}",
+        "rank": 74,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8411,
+        "topk_score_info": "{\"Mexican drug war\": 0.841, \"Candelaria border incursion of 1919\": 0.831, \"Zapatista Army of National Liberation\": 0.82}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "Acteal",
+        "relation": "inverse has place",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of La Chinc�%B Aa",
+        "pred_score": 0.8492,
+        "topk_score_info": "{\"Battle of La Chinc\\ufffd%B Aa\": 0.849, \"Battle of Cuautla (1911)\": 0.843, \"Battle of Iz\\ufffd%B Acar\": 0.839}",
+        "rank": 229,
+        "correct": false
+    },
+    {
+        "head": "Nuevo León",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.8043,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.804, \"Second Battle of Rellano\": 0.802, \"Battle of Puerto de Pi\\u00f1ones\": 0.802}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 341,
+        "correct": false
+    },
+    {
+        "head": "José Rafael Ojeda Durán",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8336,
+        "topk_score_info": "{\"Mexican drug war\": 0.834, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.832, \"Second Battle of Rellano\": 0.824}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8156,
+        "topk_score_info": "{\"Mexican drug war\": 0.816, \"Siege of Acapulco (1813)\": 0.81, \"Ojo de Agua Raid\": 0.808}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8145,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.815, \"Battle of C\\ufffd%B Acuta\": 0.781, \"Battle of Pasong Tamo\": 0.781}",
+        "rank": 214,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8411,
+        "topk_score_info": "{\"Mexican drug war\": 0.841, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.836, \"Candelaria border incursion of 1919\": 0.831}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "First Battle of Torreón",
+        "pred_score": 0.7776,
+        "topk_score_info": "{\"First Battle of Torre\\u00f3n\": 0.778, \"Battle of Los Horcones\": 0.774, \"Battle of Pasong Tamo\": 0.774}",
+        "rank": 135,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.7847,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.785, \"Battle of Ciudad Ju\\u00e1rez (1919)\": 0.757, \"Battle of Pasong Tamo\": 0.757}",
+        "rank": 222,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Zapatista Army of National Liberation",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.835,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.835, \"Second Battle of Rellano\": 0.828, \"Candelaria border incursion of 1919\": 0.823}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8145,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.815, \"Battle of C\\ufffd%B Acuta\": 0.781, \"Battle of Pasong Tamo\": 0.781}",
+        "rank": 107,
+        "correct": false
+    },
+    {
+        "head": "Vidal Francisco Soberón Sanz",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.829,
+        "topk_score_info": "{\"Mexican drug war\": 0.829, \"Second Battle of Topolobampo\": 0.814, \"Third Battle of Topolobampo\": 0.814}",
+        "rank": 40,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8478,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.848, \"Mexican drug war\": 0.835, \"Candelaria border incursion of 1919\": 0.831}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8478,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.848, \"Mexican drug war\": 0.835, \"Candelaria border incursion of 1919\": 0.831}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Murder",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 326,
+        "correct": false
+    },
+    {
+        "head": "Gulf cartel",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Football War",
+        "pred_score": 0.7954,
+        "topk_score_info": "{\"Football War\": 0.795, \"Battle of Ciudad Ju\\u00e1rez (1919)\": 0.794, \"Second Battle of Topolobampo\": 0.777}",
+        "rank": 658,
+        "correct": false
+    },
+    {
+        "head": "Nuevo Leon",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.7906,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.791, \"Second Battle of Rellano\": 0.788, \"Battle of Cuautla (1911)\": 0.786}",
+        "rank": 82,
+        "correct": false
+    },
+    {
+        "head": "Nuevo León",
+        "relation": "inverse has place",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.8043,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.804, \"Second Battle of Rellano\": 0.802, \"Battle of Puerto de Pi\\u00f1ones\": 0.802}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kidnapping",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 118,
+        "correct": false
+    },
+    {
+        "head": "Salvador Cienfuegos",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Candelaria border incursion of 1919",
+        "pred_score": 0.8135,
+        "topk_score_info": "{\"Candelaria border incursion of 1919\": 0.814, \"Zapatista Army of National Liberation\": 0.812, \"Mexican drug war\": 0.807}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Inspector General of Police ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9025,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.902, \"Nepalese Civil War\": 0.902, \"2005 Nepal coup d'\\u00e9tat\": 0.897}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Girija Prasad Koirala",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8623,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.862, \"Battle of Bhalubang\": 0.862, \"2005 Nepal coup d'\\u00e9tat\": 0.858}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Birendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8738,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.874, \"Nepalese Civil War\": 0.872, \"2005 Nepal coup d'\\u00e9tat\": 0.869}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.814,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.814, \"Battle of Bhalubang\": 0.805, \"Nepalese Civil War\": 0.8}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Baburam Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8881,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.888, \"Battle of Bhalubang\": 0.882, \"2005 Nepal coup d'\\u00e9tat\": 0.864}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mohan Baidya",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9039,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.904, \"Battle of Bhalubang\": 0.902, \"2005 Nepal coup d'\\u00e9tat\": 0.886}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Pradip Shumsher J.B.R.",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9046,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.905, \"Nepalese Civil War\": 0.898, \"2005 Nepal coup d'\\u00e9tat\": 0.879}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Moti Lal Bohora",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9027,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.903, \"Nepalese Civil War\": 0.899, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8558,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.856, \"Battle of Bhalubang\": 0.844, \"2005 Nepal coup d'\\u00e9tat\": 0.829}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.906, \"Battle of Bhalubang\": 0.904, \"Second Battle of Khara\": 0.847}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8485,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.848, \"Nepalese Civil War\": 0.845, \"2005 Nepal coup d'\\u00e9tat\": 0.832}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Lokendra Bahadur Chand",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8955,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.896, \"Battle of Bhalubang\": 0.893, \"2005 Nepal coup d'\\u00e9tat\": 0.878}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Om Bikram Rana",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9193,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.919, \"Nepalese Civil War\": 0.917, \"2005 Nepal coup d'\\u00e9tat\": 0.907}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Achyut Krishna Kharel",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9015,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.901, \"Nepalese Civil War\": 0.901, \"2005 Nepal coup d'\\u00e9tat\": 0.887}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Biplav",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8529,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.853, \"Nepalese Civil War\": 0.85, \"2005 Nepal coup d'\\u00e9tat\": 0.842}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "King of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9007,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.901, \"Nepalese Civil War\": 0.901, \"Second Battle of Khara\": 0.887}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Shyam Bhakta Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9016,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.902, \"Nepalese Civil War\": 0.897, \"2005 Nepal coup d'\\u00e9tat\": 0.885}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Dharmapaal Barsingh Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8818,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.882, \"Battle of Bhalubang\": 0.882, \"2005 Nepal coup d'\\u00e9tat\": 0.874}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Rookmangud Katawal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8949,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.895, \"Battle of Bhalubang\": 0.887, \"Second Battle of Khara\": 0.865}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Dhruba Bahadur Pradhan",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8985,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.898, \"Battle of Bhalubang\": 0.898, \"2005 Nepal coup d'\\u00e9tat\": 0.885}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Chief of Army Staff ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8806,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.881, \"Battle of Bhalubang\": 0.88, \"2005 Nepal coup d'\\u00e9tat\": 0.87}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8925,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.893, \"Battle of Bhalubang\": 0.883, \"2005 Nepal coup d'\\u00e9tat\": 0.877}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.842,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.842, \"Battle of Bhalubang\": 0.84, \"Second Battle of Khara\": 0.825}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Krishna Prasad Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8872,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.887, \"Battle of Bhalubang\": 0.882, \"2005 Nepal coup d'\\u00e9tat\": 0.871}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Surya Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8521,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.852, \"Battle of Bhalubang\": 0.849, \"Second Battle of Khara\": 0.838}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Prime Minister of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.912,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.912, \"2005 Nepal coup d'\\u00e9tat\": 0.91, \"Battle of Bhalubang\": 0.908}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Ram Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8558,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.856, \"Battle of Bhalubang\": 0.854, \"2005 Nepal coup d'\\u00e9tat\": 0.852}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8832,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.883, \"2005 Nepal coup d'\\u00e9tat\": 0.877, \"Second Battle of Khara\": 0.835}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.791,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.791, \"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8485,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.848, \"2005 Nepal coup d'\\u00e9tat\": 0.832, \"Second Battle of Khara\": 0.827}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.814,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.814, \"Battle of Bhalubang\": 0.805, \"2005 Nepal coup d'\\u00e9tat\": 0.769}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8442,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.844, \"2005 Nepal coup d'\\u00e9tat\": 0.829, \"Second Battle of Khara\": 0.829}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.904,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.904, \"2005 Nepal coup d'\\u00e9tat\": 0.887, \"Second Battle of Khara\": 0.847}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Dang District%2 C Nepal",
+        "relation": "inverse has place",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.8711,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.871, \"Nepalese Civil War\": 0.87, \"Battle of Bhalubang\": 0.87}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Janardan Sharma",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8399,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.84, \"Nepalese Civil War\": 0.831, \"2005 Nepal coup d'\\u00e9tat\": 0.825}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.84,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.84, \"2005 Nepal coup d'\\u00e9tat\": 0.827, \"Second Battle of Khara\": 0.825}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Bhalubang",
+        "relation": "inverse has place",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8952,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.895, \"Battle of Bhalubang\": 0.895, \"Second Battle of Khara\": 0.869}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "inverse sub event of",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8991,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.899, \"2005 Nepal coup d'\\u00e9tat\": 0.881, \"Battle of Bhalubang\": 0.877}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Krishna Bahadur Mahara",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8914,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.891, \"Battle of Bhalubang\": 0.878, \"2005 Nepal coup d'\\u00e9tat\": 0.866}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Rukum District",
+        "relation": "inverse has place",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.8767,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.877, \"Nepalese Civil War\": 0.857, \"Battle of Bhalubang\": 0.856}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Khara%2 C Nepal",
+        "relation": "inverse has place",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8911,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.891, \"Nepalese Civil War\": 0.89, \"2005 Nepal coup d'\\u00e9tat\": 0.855}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Kathmandu",
+        "relation": "inverse has place",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.8906,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.891, \"Nepalese Civil War\": 0.877, \"Battle of Bhalubang\": 0.872}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Pink tide",
+        "relation": "inverse sub event of",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Pink tide",
+        "pred_score": 0.827,
+        "topk_score_info": "{\"Pink tide\": 0.827, \"April Revolt\": 0.805, \"5 October 1910 revolution\": 0.796}",
+        "rank": 302,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Foro de São Paulo",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 1912,
+        "correct": false
+    },
+    {
+        "head": "Serbia and Montenegro",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Serbia and Montenegro",
+        "pred_score": 0.8677,
+        "topk_score_info": "{\"Serbia and Montenegro\": 0.868, \"SFR Yugoslavia\": 0.831, \"Axis occupation of Yugoslavia\": 0.831}",
+        "rank": 130,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Territory of the Military Commander in Serbia",
+        "pred_score": 0.8382,
+        "topk_score_info": "{\"Territory of the Military Commander in Serbia\": 0.838, \"Mula Jusuf\": 0.83, \"Belgrade offensive\": 0.828}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second EDSA Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Rose Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "Rose Revolution",
+        "pred_tail": "Georgian– Armenian War",
+        "pred_score": 0.8755,
+        "topk_score_info": "{\"Georgian\\u2013 Armenian War\": 0.875, \"Rose Revolution\": 0.865, \"Crimean War\": 0.789}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "European integration",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 975,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Aslan Abashidze",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.8973,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.897, \"Georgian\\u2013 Armenian War\": 0.89, \"Rose Revolution\": 0.885}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Adjara",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Georgian– Armenian War",
+        "pred_score": 0.8686,
+        "topk_score_info": "{\"Georgian\\u2013 Armenian War\": 0.869, \"2004 Adjara crisis\": 0.863, \"Rose Revolution\": 0.849}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.8888,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.889, \"Georgian\\u2013 Armenian War\": 0.875, \"Crimean War\": 0.789}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mikheil Saakashvili",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.8828,
+        "topk_score_info": "{\"Rose Revolution\": 0.883, \"2004 Adjara crisis\": 0.879, \"Georgian\\u2013 Armenian War\": 0.876}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Orange Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Ukrainian presidential election",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Ukraine",
+        "relation": "inverse has place",
+        "tail": "2004 Ukrainian presidential election",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.8683,
+        "topk_score_info": "{\"Orange Revolution\": 0.868, \"Kiev Bolshevik Uprising\": 0.849, \"2004 Ukrainian presidential election\": 0.844}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Cedar Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.846,
+        "topk_score_info": "{\"Tulip Revolution\": 0.846, \"2010 South Kyrgyzstan ethnic clashes\": 0.811, \"Andijan massacre\": 0.783}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Andijan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Iran crisis of 1946",
+        "pred_score": 0.7983,
+        "topk_score_info": "{\"Iran crisis of 1946\": 0.798, \"Tulip Revolution\": 0.798, \"1979 Kurdish rebellion in Iran\": 0.793}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Uzbekistan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Peasant rebellion of Sorokino",
+        "pred_score": 0.7774,
+        "topk_score_info": "{\"Peasant rebellion of Sorokino\": 0.777, \"Tulip Revolution\": 0.777, \"Pitchfork uprising\": 0.773}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Andijan massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 52,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Myanmar",
+        "relation": "inverse has place",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.8614,
+        "topk_score_info": "{\"Saffron Revolution\": 0.861, \"Shan United Revolutionary Army\": 0.8, \"Indochina Wars\": 0.787}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Civil resistance",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2009 Icelandic financial crisis protests",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.8208,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.821, \"2010 South Kyrgyzstan ethnic clashes\": 0.811, \"Andijan massacre\": 0.783}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 183,
+        "correct": false
+    },
+    {
+        "head": "Jalal-Abad",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.8738,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.874, \"Tulip Revolution\": 0.855, \"2010 South Kyrgyzstan ethnic clashes\": 0.816}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "inverse sub event of",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9091,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.909, \"2010 South Kyrgyzstan ethnic clashes\": 0.863, \"Tulip Revolution\": 0.861}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Osh",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.8238,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.824, \"Tulip Revolution\": 0.821, \"Peasant rebellion of Sorokino\": 0.783}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Sogment",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Battle of Rueil",
+        "pred_score": 0.8164,
+        "topk_score_info": "{\"Battle of Rueil\": 0.816, \"Battle of Meudon\": 0.808, \"Battle of Douar Souadek\": 0.799}",
+        "rank": 1505,
+        "correct": false
+    },
+    {
+        "head": "So�%B Bx District",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.8008,
+        "topk_score_info": "{\"Tulip Revolution\": 0.801, \"Peasant rebellion of Sorokino\": 0.791, \"Andijan massacre\": 0.785}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Spring",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "International reactions to the Arab Spring",
+        "relation": "inverse sub event of",
+        "tail": "Impact of the Arab Spring",
+        "pred_tail": "Impact of the Arab Spring",
+        "pred_score": 0.8904,
+        "topk_score_info": "{\"Impact of the Arab Spring\": 0.89, \"Arab Spring\": 0.886, \"International reactions to the Arab Spring\": 0.871}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Winter",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.8442,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.844, \"Surafend affair\": 0.799, \"Mahdist War\": 0.792}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "North Africa",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "East African campaign ( World War II)",
+        "pred_score": 0.8314,
+        "topk_score_info": "{\"East African campaign ( World War II)\": 0.831, \"Decolonisation of Africa\": 0.823, \"Senussi campaign\": 0.822}",
+        "rank": 232,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Bahrain",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8176,
+        "topk_score_info": "{\"Battle of Saada\": 0.818, \"Saudi Arabian-led intervention in Yemen\": 0.802, \"Battle of Taiz\": 0.802}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Libya",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Second Italo-Senussi War",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Second Italo-Senussi War\": 0.79, \"North African campaign\": 0.773, \"Yemeni Revolution\": 0.766}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Impact of the Arab Spring",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 60,
+        "correct": false
+    },
+    {
+        "head": "Salman of Saudi Arabia",
+        "relation": "inverse has actor",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Royal Saudi Air Force",
+        "pred_score": 0.8928,
+        "topk_score_info": "{\"Royal Saudi Air Force\": 0.893, \"1969 Saudi Arabian coup d'\\u00e9tat attempt\": 0.85, \"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.84}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Tamim bin Hamad Al Thani",
+        "relation": "inverse has actor",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8268,
+        "topk_score_info": "{\"Battle of Saada\": 0.827, \"Saudi Arabian-led intervention in Yemen\": 0.813, \"Mahdist War\": 0.802}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Egypt",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Egyptian Revolution of 1919",
+        "pred_score": 0.8683,
+        "topk_score_info": "{\"Egyptian Revolution of 1919\": 0.868, \"June 2013 Egyptian protests\": 0.862, \"Yemeni Revolution\": 0.848}",
+        "rank": 83,
+        "correct": false
+    },
+    {
+        "head": "Middle East",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Egyptian Revolution of 1919",
+        "pred_score": 0.8766,
+        "topk_score_info": "{\"Egyptian Revolution of 1919\": 0.877, \"Egyptian Revolutionary Command Council\": 0.862, \"Yemeni Revolution\": 0.861}",
+        "rank": 59,
+        "correct": false
+    },
+    {
+        "head": "Syria",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Great Syrian Revolt",
+        "pred_score": 0.842,
+        "topk_score_info": "{\"Great Syrian Revolt\": 0.842, \"Operation Active Fence\": 0.831, \"Syrian civil war\": 0.792}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Tunisia",
+        "relation": "inverse has place",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.8723,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.872, \"Battle of Bouzegza\": 0.869, \"Algerian War\": 0.85}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "San Miguel%2 C Manila",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Barrio Yating",
+        "pred_score": 0.8622,
+        "topk_score_info": "{\"Battle of Barrio Yating\": 0.862, \"Battle of Sambat\": 0.862, \"Escalante massacre\": 0.854}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Pullman Strike",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Mendiola Street",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Siege of Baler",
+        "pred_score": 0.8602,
+        "topk_score_info": "{\"Siege of Baler\": 0.86, \"Escalante massacre\": 0.855, \"Battle of Barrio Yating\": 0.854}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Milwaukee%2 C Wisconsin",
+        "relation": "inverse has place",
+        "tail": "Bay View massacre",
+        "pred_tail": "First Battle of Vác (1849)",
+        "pred_score": 0.7322,
+        "topk_score_info": "{\"First Battle of V\\u00e1c (1849)\": 0.732, \"Battle of Schwechat\": 0.729, \"March Action\": 0.727}",
+        "rank": 67,
+        "correct": false
+    },
+    {
+        "head": "Malawi",
+        "relation": "inverse has place",
+        "tail": "2011 Malawian protests",
+        "pred_tail": "2011 Malawian protests",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"2011 Malawian protests\": 0.848, \"Simba rebellion\": 0.806, \"Kwilu rebellion\": 0.805}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "North Adams%2 C Massachusetts",
+        "relation": "inverse has place",
+        "tail": "North Adams strike",
+        "pred_tail": "1689 Boston revolt",
+        "pred_score": 0.7745,
+        "topk_score_info": "{\"1689 Boston revolt\": 0.774, \"North Adams strike\": 0.762, \"First Battle of Newbury\": 0.752}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Bahrain",
+        "relation": "inverse has place",
+        "tail": "Bahrain Tamarod",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8176,
+        "topk_score_info": "{\"Battle of Saada\": 0.818, \"Saudi Arabian-led intervention in Yemen\": 0.802, \"Battle of Taiz\": 0.802}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Escalante%2 C Negros Occidental",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Philippine Revolution",
+        "pred_score": 0.8523,
+        "topk_score_info": "{\"Philippine Revolution\": 0.852, \"Battle of Sapong Hills\": 0.822, \"Escalante massacre\": 0.818}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Morewood massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 53,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Auto-Lite strike",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Delano grape strike",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 62,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Malawian protests",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Everett massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Jamestown%2 C Virginia",
+        "relation": "inverse has place",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.8279,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.828, \"Protestant Revolution ( Maryland)\": 0.783, \"1689 Boston revolt\": 0.77}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Constantinople",
+        "relation": "inverse has place",
+        "tail": "Kum Kapu demonstration",
+        "pred_tail": "Greek Civil War",
+        "pred_score": 0.8547,
+        "topk_score_info": "{\"Greek Civil War\": 0.855, \"Greek War of Independence\": 0.849, \"First Hellenic Republic\": 0.847}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "Everett%2 C Washington",
+        "relation": "inverse has place",
+        "tail": "Everett massacre",
+        "pred_tail": "Everett massacre",
+        "pred_score": 0.7358,
+        "topk_score_info": "{\"Everett massacre\": 0.736, \"Bay View massacre\": 0.72, \"Hawaii Democratic Revolution of 1954\": 0.717}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "North Adams strike",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 20,
+        "correct": false
+    },
+    {
+        "head": "Baltimore%2 C Maryland",
+        "relation": "inverse has place",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Battle of Stratton",
+        "pred_score": 0.7417,
+        "topk_score_info": "{\"Battle of Stratton\": 0.742, \"Battle of Adwalton Moor\": 0.741, \"Battle of Boldon Hill\": 0.722}",
+        "rank": 53,
+        "correct": false
+    },
+    {
+        "head": "Westmoreland County%2 C Pennsylvania",
+        "relation": "inverse has place",
+        "tail": "Morewood massacre",
+        "pred_tail": "Morewood massacre",
+        "pred_score": 0.7868,
+        "topk_score_info": "{\"Morewood massacre\": 0.787, \"Battle of Seacroft Moor\": 0.68, \"Protestant Revolution ( Maryland)\": 0.679}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bay View massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Colony of Virginia",
+        "relation": "inverse has place",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "1689 Boston revolt",
+        "pred_score": 0.8616,
+        "topk_score_info": "{\"1689 Boston revolt\": 0.862, \"Bacon's Rebellion\": 0.841, \"Protestant Revolution ( Maryland)\": 0.823}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bahrain Tamarod",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 616,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Negros Occidental",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Philippine Revolution",
+        "pred_score": 0.8702,
+        "topk_score_info": "{\"Philippine Revolution\": 0.87, \"Battle of Sapong Hills\": 0.844, \"Siege of Baler\": 0.838}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kum Kapu demonstration",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Philippines",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Siege of Baler",
+        "pred_score": 0.8575,
+        "topk_score_info": "{\"Siege of Baler\": 0.858, \"Battle of Barrio Yating\": 0.844, \"Battle of Sapong Hills\": 0.837}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Shooting",
+        "relation": "inverse event type",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Coastal defence and fortification",
+        "pred_score": 0.7844,
+        "topk_score_info": "{\"Coastal defence and fortification\": 0.784, \"Mal\\u00ea Revolt\": 0.779, \"Shooting\": 0.773}",
+        "rank": 1154,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Escalante massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Philippines",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Siege of Baler",
+        "pred_score": 0.8575,
+        "topk_score_info": "{\"Siege of Baler\": 0.858, \"Battle of Barrio Yating\": 0.844, \"Battle of Sapong Hills\": 0.837}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Shooting",
+        "relation": "inverse event type",
+        "tail": "Escalante massacre",
+        "pred_tail": "Coastal defence and fortification",
+        "pred_score": 0.7844,
+        "topk_score_info": "{\"Coastal defence and fortification\": 0.784, \"Mal\\u00ea Revolt\": 0.779, \"Shooting\": 0.773}",
+        "rank": 716,
+        "correct": false
+    },
+    {
+        "head": "United States",
+        "relation": "inverse has place",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Battle of Carrizal",
+        "pred_score": 0.7459,
+        "topk_score_info": "{\"Battle of Carrizal\": 0.746, \"Raid on Norias Ranch\": 0.745, \"Battle of Cancha Rayada (1814)\": 0.723}",
+        "rank": 480,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "November 2012 Jordanian protests",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 166,
+        "correct": false
+    },
+    {
+        "head": "Lebanon",
+        "relation": "inverse has place",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.8269,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.827, \"Battle of Aqaba\": 0.792, \"Surafend affair\": 0.791}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.8442,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.844, \"Surafend affair\": 0.799, \"Mahdist War\": 0.792}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Sheikh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8536,
+        "topk_score_info": "{\"Battle of Saada\": 0.854, \"Battle of Taiz\": 0.835, \"Battle of Sanaa (2011)\": 0.832}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Uthman Mujalli",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "1898 Baloch uprising",
+        "pred_score": 0.8743,
+        "topk_score_info": "{\"1898 Baloch uprising\": 0.874, \"Battle of Shamli\": 0.872, \"Battle of Chinhat\": 0.858}",
+        "rank": 33,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 73,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Taiz",
+        "pred_score": 0.8568,
+        "topk_score_info": "{\"Battle of Taiz\": 0.857, \"Saudi Arabian-led intervention in Yemen\": 0.844, \"Surafend affair\": 0.799}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8597,
+        "topk_score_info": "{\"Battle of Saada\": 0.86, \"Saudi Arabian-led intervention in Yemen\": 0.844, \"Surafend affair\": 0.799}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Sa'dah Governorate",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8559,
+        "topk_score_info": "{\"Battle of Saada\": 0.856, \"Surafend affair\": 0.828, \"Battle of Taiz\": 0.827}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Taha Hajer",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Surafend affair",
+        "pred_score": 0.8125,
+        "topk_score_info": "{\"Surafend affair\": 0.813, \"Siege of Homs\": 0.8, \"Battle of Aqaba\": 0.8}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Taiz",
+        "relation": "inverse has place",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8821,
+        "topk_score_info": "{\"Battle of Saada\": 0.882, \"Battle of Taiz\": 0.862, \"Battle of Sanaa (2011)\": 0.855}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Saada",
+        "relation": "inverse has place",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.9012,
+        "topk_score_info": "{\"Battle of Saada\": 0.901, \"Battle of Sanaa (2011)\": 0.881, \"Battle of Taiz\": 0.877}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Abdrabbuh Mansur Hadi",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8738,
+        "topk_score_info": "{\"Battle of Saada\": 0.874, \"Battle of Taiz\": 0.853, \"Battle of Sanaa (2011)\": 0.832}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Fares Manaa",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.878,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.878, \"Siege of Dammaj\": 0.87, \"Battle of Saada\": 0.849}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.8442,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.844, \"Battle of Sanaa (2011)\": 0.841, \"Surafend affair\": 0.799}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Sanaa",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8798,
+        "topk_score_info": "{\"Battle of Saada\": 0.88, \"Battle of Taiz\": 0.852, \"Saudi Arabian-led intervention in Yemen\": 0.846}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Ali Abdullah Saleh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.8986,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.899, \"Battle of Saada\": 0.895, \"Battle of Taiz\": 0.884}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Abu Ali Abdullah al-Hakim al-Houthi",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.862,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.862, \"Insurgency in Idlib\": 0.861, \"Battle of Saada\": 0.839}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Ali Mohsen al-Ahmar",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8661,
+        "topk_score_info": "{\"Battle of Saada\": 0.866, \"Arab Spring\": 0.858, \"Battle of Sanaa (2011)\": 0.851}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Abdul Aziz Abdul Ghani",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "1898 Baloch uprising",
+        "pred_score": 0.8447,
+        "topk_score_info": "{\"1898 Baloch uprising\": 0.845, \"Indo-Pakistani Naval War of 1971\": 0.821, \"Battle of Shamli\": 0.821}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Saada Governorate",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8936,
+        "topk_score_info": "{\"Battle of Saada\": 0.894, \"Battle of Sanaa (2011)\": 0.881, \"Battle of Taiz\": 0.869}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Dammaj",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.9014,
+        "topk_score_info": "{\"Battle of Saada\": 0.901, \"Battle of Sanaa (2011)\": 0.878, \"Battle of Taiz\": 0.877}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Sana'a",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Aqaba",
+        "pred_score": 0.8011,
+        "topk_score_info": "{\"Battle of Aqaba\": 0.801, \"Battle of Saada\": 0.792, \"Siege of Homs\": 0.775}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Saleh Habra",
+        "relation": "inverse has actor",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8606,
+        "topk_score_info": "{\"Battle of Saada\": 0.861, \"Battle of Taiz\": 0.825, \"Battle of Sanaa (2011)\": 0.825}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Ahmed Saleh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.855,
+        "topk_score_info": "{\"Battle of Saada\": 0.855, \"Yemeni Revolution\": 0.854, \"Arab Spring\": 0.833}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.8442,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.844, \"Surafend affair\": 0.799, \"Mahdist War\": 0.792}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Egyptian crisis (2011–2014)",
+        "relation": "inverse sub event of",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.8695,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.869, \"Egyptian Revolution of 1919\": 0.862, \"2013 Egyptian coup d'\\u00e9tat\": 0.856}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2013 Egyptian coup d'état",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Euromaidan",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 189,
+        "correct": false
+    },
+    {
+        "head": "Kyiv%2 C Ukraine",
+        "relation": "inverse has place",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "Kiev Bolshevik Uprising",
+        "pred_score": 0.8696,
+        "topk_score_info": "{\"Kiev Bolshevik Uprising\": 0.87, \"11 December 2013 Euromaidan assault\": 0.859, \"2004 Ukrainian presidential election\": 0.843}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.8187,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.819, \"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Euromaidan",
+        "relation": "inverse sub event of",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "Euromaidan",
+        "pred_score": 0.8641,
+        "topk_score_info": "{\"Euromaidan\": 0.864, \"2004 Ukrainian presidential election\": 0.854, \"Orange Revolution\": 0.851}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Hilo",
+        "relation": "inverse has place",
+        "tail": "Hilo massacre",
+        "pred_tail": "Battle of Pasong Tamo",
+        "pred_score": 0.7647,
+        "topk_score_info": "{\"Battle of Pasong Tamo\": 0.765, \"Kolaka incident\": 0.749, \"Hukbalahap Rebellion\": 0.735}",
+        "rank": 132,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2014 Ukrainian revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 121,
+        "correct": false
+    },
+    {
+        "head": "Hawaii",
+        "relation": "inverse has place",
+        "tail": "Hilo massacre",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.7721,
+        "topk_score_info": "{\"Hilo massacre\": 0.772, \"Hawaii\": 0.705, \"Siege of Portsmouth\": 0.657}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Hilo massacre",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Police brutality",
+        "relation": "inverse event type",
+        "tail": "Hilo massacre",
+        "pred_tail": "Police brutality",
+        "pred_score": 0.884,
+        "topk_score_info": "{\"Police brutality\": 0.884, \"Civil resistance\": 0.837, \"Kidnapping\": 0.805}",
+        "rank": 114,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Neolithic Revolution",
+        "pred_tail": "Battle of Kassala",
+        "pred_score": 0.7897,
+        "topk_score_info": "{\"Battle of Kassala\": 0.79, \"Battle of Gabon\": 0.772, \"Revolutions of 1917\\u20131923\": 0.77}",
+        "rank": 14,
+        "correct": false
+    }
+]

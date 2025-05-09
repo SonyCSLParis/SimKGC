@@ -1,0 +1,3362 @@
+[
+    {
+        "head": "Velvet Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9599,
+        "topk_score_info": "{\"Velvet Revolution\": 0.96, \"Czechoslovak Socialist Republic\": 0.945, \"Dissolution of Czechoslovakia\": 0.941}",
+        "rank": 1173,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has place",
+        "tail": "Socialist Republic of Romania",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9095,
+        "topk_score_info": "{\"Romanian Revolution\": 0.909, \"Socialist Republic of Romania\": 0.901, \"Moldavia\": 0.888}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9061,
+        "topk_score_info": "{\"Romanian Revolution\": 0.906, \"Socialist Republic of Romania\": 0.896, \"Moldavia\": 0.883}",
+        "rank": 852,
+        "correct": false
+    },
+    {
+        "head": "Syrian Civil War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Syrian Civil War",
+        "pred_score": 0.9327,
+        "topk_score_info": "{\"Syrian Civil War\": 0.933, \"November 2012 Jordanian protests\": 0.824, \"Siege of Homs\": 0.802}",
+        "rank": 229,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution of 1989",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Romanian Revolution of 1989",
+        "pred_score": 0.9272,
+        "topk_score_info": "{\"Romanian Revolution of 1989\": 0.927, \"Romanian Revolution\": 0.823, \"Socialist Republic of Romania\": 0.82}",
+        "rank": 545,
+        "correct": false
+    },
+    {
+        "head": "War in Donbass",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "War in Donbass",
+        "pred_score": 0.9482,
+        "topk_score_info": "{\"War in Donbass\": 0.948, \"Great Patriotic War\": 0.86, \"Ekaterine Dadiani%2 C Princess of Mingrelia\": 0.816}",
+        "rank": 336,
+        "correct": false
+    },
+    {
+        "head": "Saudi Arabian-led intervention in Yemen",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.8827,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.883, \"Siege of Dammaj\": 0.864, \"Battle of Sanaa (2011)\": 0.863}",
+        "rank": 390,
+        "correct": false
+    },
+    {
+        "head": "Mongolian Revolution of 1990",
+        "relation": "has place",
+        "tail": "Mongolian People's Republic",
+        "pred_tail": "Mongolian Revolution of 1990",
+        "pred_score": 0.9721,
+        "topk_score_info": "{\"Mongolian Revolution of 1990\": 0.972, \"Mongolian People's Republic\": 0.953, \"Battle of Baitag Bogd\": 0.94}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Mongolian Revolution of 1990",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Mongolian Revolution of 1990",
+        "pred_score": 0.9706,
+        "topk_score_info": "{\"Mongolian Revolution of 1990\": 0.971, \"Mongolian People's Republic\": 0.952, \"Darizavyn Losol\": 0.941}",
+        "rank": 701,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9638,
+        "topk_score_info": "{\"Log Revolution\": 0.964, \"Uprising in Montenegro (1941)\": 0.945, \"World War II in Yugoslavia\": 0.941}",
+        "rank": 900,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has place",
+        "tail": "SFR Yugoslavia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9645,
+        "topk_score_info": "{\"Log Revolution\": 0.965, \"Uprising in Montenegro (1941)\": 0.945, \"World War II in Yugoslavia\": 0.945}",
+        "rank": 407,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has place",
+        "tail": "SR Croatia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9645,
+        "topk_score_info": "{\"Log Revolution\": 0.965, \"Uprising in Montenegro (1941)\": 0.945, \"World War II in Yugoslavia\": 0.945}",
+        "rank": 504,
+        "correct": false
+    },
+    {
+        "head": "Gitarijada ( Belgrade)",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Gitarijada ( Belgrade)",
+        "pred_score": 0.9717,
+        "topk_score_info": "{\"Gitarijada ( Belgrade)\": 0.972, \"May 1941 Sanski Most revolt\": 0.946, \"Belgrade offensive\": 0.94}",
+        "rank": 947,
+        "correct": false
+    },
+    {
+        "head": "Gitarijada ( Belgrade)",
+        "relation": "has place",
+        "tail": "Belgrade",
+        "pred_tail": "Gitarijada ( Belgrade)",
+        "pred_score": 0.972,
+        "topk_score_info": "{\"Gitarijada ( Belgrade)\": 0.972, \"May 1941 Sanski Most revolt\": 0.949, \"Siege of Belgrade (1806)\": 0.947}",
+        "rank": 60,
+        "correct": false
+    },
+    {
+        "head": "Gitarijada ( Belgrade)",
+        "relation": "has place",
+        "tail": "SR Serbia",
+        "pred_tail": "Gitarijada ( Belgrade)",
+        "pred_score": 0.972,
+        "topk_score_info": "{\"Gitarijada ( Belgrade)\": 0.972, \"May 1941 Sanski Most revolt\": 0.949, \"Siege of Belgrade (1806)\": 0.947}",
+        "rank": 743,
+        "correct": false
+    },
+    {
+        "head": "Gitarijada ( Belgrade)",
+        "relation": "has place",
+        "tail": "SFR Yugoslavia",
+        "pred_tail": "Gitarijada ( Belgrade)",
+        "pred_score": 0.972,
+        "topk_score_info": "{\"Gitarijada ( Belgrade)\": 0.972, \"May 1941 Sanski Most revolt\": 0.949, \"Siege of Belgrade (1806)\": 0.947}",
+        "rank": 436,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has place",
+        "tail": "Belgrade",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9235,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.924, \"Gitarijada ( Belgrade)\": 0.911, \"Belgrade offensive\": 0.902}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9058,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.906, \"Gitarijada ( Belgrade)\": 0.899, \"Belgrade offensive\": 0.89}",
+        "rank": 884,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "sub event of",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9157,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.916, \"Gitarijada ( Belgrade)\": 0.9, \"Belgrade offensive\": 0.897}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9521,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.952, \"Socialist Federal Republic of Yugoslavia\": 0.919, \"Serbia and Montenegro\": 0.917}",
+        "rank": 886,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has place",
+        "tail": "Yugoslavia",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9419,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.942, \"Socialist Federal Republic of Yugoslavia\": 0.917, \"Serbia and Montenegro\": 0.913}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "has actor",
+        "tail": "Mongols",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9307,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.931, \"Siege of Trsat\": 0.887, \"Dejan Suboti\\u0107\": 0.885}",
+        "rank": 1047,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has place",
+        "tail": "Trsat",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9352,
+        "topk_score_info": "{\"Siege of Trsat\": 0.935, \"Vi\\u0161eslav of Croatia\": 0.907, \"Trsat\": 0.905}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has place",
+        "tail": "Duchy of Croatia",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9352,
+        "topk_score_info": "{\"Siege of Trsat\": 0.935, \"Vi\\u0161eslav of Croatia\": 0.907, \"Duchy of Croatia\": 0.907}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9453,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.945, \"Battle of Zelengora\": 0.896, \"Mongol invasion of Europe\": 0.888}",
+        "rank": 848,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "has actor",
+        "tail": "Khadan",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9307,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.931, \"Siege of Trsat\": 0.887, \"Dejan Suboti\\u0107\": 0.885}",
+        "rank": 5285,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9283,
+        "topk_score_info": "{\"Siege of Trsat\": 0.928, \"Gospi\\u0107\": 0.907, \"Duchy of Croatia\": 0.907}",
+        "rank": 1248,
+        "correct": false
+    },
+    {
+        "head": "Serb-Catholic movement in Dubrovnik",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Serb-Catholic movement in Dubrovnik",
+        "pred_score": 0.9797,
+        "topk_score_info": "{\"Serb-Catholic movement in Dubrovnik\": 0.98, \"World War II in Yugoslavia\": 0.944, \"Uprising in Montenegro (1941)\": 0.943}",
+        "rank": 900,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has actor",
+        "tail": "Franks",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9357,
+        "topk_score_info": "{\"Siege of Trsat\": 0.936, \"Duchy of Croatia\": 0.91, \"Syrmia\": 0.907}",
+        "rank": 1224,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "has actor",
+        "tail": "Kadan",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9307,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.931, \"Siege of Trsat\": 0.887, \"Dejan Suboti\\u0107\": 0.885}",
+        "rank": 318,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has actor",
+        "tail": "Croats",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9357,
+        "topk_score_info": "{\"Siege of Trsat\": 0.936, \"Duchy of Croatia\": 0.91, \"Syrmia\": 0.907}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "has actor",
+        "tail": "Croats",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9307,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.931, \"Siege of Trsat\": 0.887, \"Dejan Suboti\\u0107\": 0.885}",
+        "rank": 58,
+        "correct": false
+    },
+    {
+        "head": "Podujevo bus bombing",
+        "relation": "event type",
+        "tail": "Bombing",
+        "pred_tail": "Podujevo bus bombing",
+        "pred_score": 0.9425,
+        "topk_score_info": "{\"Podujevo bus bombing\": 0.943, \"Zvornik\": 0.884, \"May 1941 Sanski Most revolt\": 0.88}",
+        "rank": 5971,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "has actor",
+        "tail": "Béla IV of Hungary",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9307,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.931, \"Siege of Trsat\": 0.887, \"Dejan Suboti\\u0107\": 0.885}",
+        "rank": 257,
+        "correct": false
+    },
+    {
+        "head": "Podujevo bus bombing",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Podujevo bus bombing",
+        "pred_score": 0.9537,
+        "topk_score_info": "{\"Podujevo bus bombing\": 0.954, \"Zvornik\": 0.89, \"May 1941 Sanski Most revolt\": 0.887}",
+        "rank": 663,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "sub event of",
+        "tail": "Mongol invasion of Europe",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9451,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.945, \"Battle of Zelengora\": 0.895, \"Mongol invasion of Europe\": 0.889}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has actor",
+        "tail": "Eric of Friuli",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9357,
+        "topk_score_info": "{\"Siege of Trsat\": 0.936, \"Duchy of Croatia\": 0.91, \"Syrmia\": 0.907}",
+        "rank": 994,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has actor",
+        "tail": "Višeslav of Croatia",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9357,
+        "topk_score_info": "{\"Siege of Trsat\": 0.936, \"Duchy of Croatia\": 0.91, \"Vi\\u0161eslav of Croatia\": 0.909}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Battle of Grobnik Field",
+        "relation": "has actor",
+        "tail": "Batu Khan",
+        "pred_tail": "Battle of Grobnik Field",
+        "pred_score": 0.9307,
+        "topk_score_info": "{\"Battle of Grobnik Field\": 0.931, \"Siege of Trsat\": 0.887, \"Dejan Suboti\\u0107\": 0.885}",
+        "rank": 41,
+        "correct": false
+    },
+    {
+        "head": "Siege of Trsat",
+        "relation": "has actor",
+        "tail": "Killed in action",
+        "pred_tail": "Siege of Trsat",
+        "pred_score": 0.9357,
+        "topk_score_info": "{\"Siege of Trsat\": 0.936, \"Duchy of Croatia\": 0.91, \"Syrmia\": 0.907}",
+        "rank": 1406,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Ante Marković",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 183,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Blagoje Ad�%B Eić",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 268,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9687,
+        "topk_score_info": "{\"Ten-Day War\": 0.969, \"Kingdom of Yugoslavia\": 0.913, \"Karl Novak\": 0.913}",
+        "rank": 1001,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Milan Ku�%8 Dan",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Veljko Kadijević",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 267,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Janez Janša",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has place",
+        "tail": "Slovenia",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9704,
+        "topk_score_info": "{\"Ten-Day War\": 0.97, \"Battle of Lijev\\ufffd%8 De Field\": 0.917, \"Karl Novak\": 0.916}",
+        "rank": 445,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Igor Bav�%8 Dar",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 179,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Lojze Peterle",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Konrad Kolšek",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Aleksandar Vasiljević",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9684,
+        "topk_score_info": "{\"Ten-Day War\": 0.968, \"Karl Novak\": 0.92, \"Kingdom of Yugoslavia\": 0.917}",
+        "rank": 325,
+        "correct": false
+    },
+    {
+        "head": "War in Bosnia",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "War in Bosnia",
+        "pred_score": 0.9018,
+        "topk_score_info": "{\"War in Bosnia\": 0.902, \"War in Croatia\": 0.877, \"Bosnia\": 0.856}",
+        "rank": 467,
+        "correct": false
+    },
+    {
+        "head": "War in Croatia",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "War in Croatia",
+        "pred_score": 0.9155,
+        "topk_score_info": "{\"War in Croatia\": 0.916, \"War in Slovenia\": 0.874, \"Slovenian War of Independence\": 0.869}",
+        "rank": 720,
+        "correct": false
+    },
+    {
+        "head": "Ten Day War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Ten Day War",
+        "pred_score": 0.917,
+        "topk_score_info": "{\"Ten Day War\": 0.917, \"Korean Conflict\": 0.799, \"Li Mi ( ROC general)\": 0.77}",
+        "rank": 275,
+        "correct": false
+    },
+    {
+        "head": "Global War on Terrorism",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Global War on Terrorism",
+        "pred_score": 0.906,
+        "topk_score_info": "{\"Global War on Terrorism\": 0.906, \"Ten Day War\": 0.793, \"Operation Enduring Freedom - Afghanistan\": 0.779}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "War in Slovenia",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "War in Slovenia",
+        "pred_score": 0.9153,
+        "topk_score_info": "{\"War in Slovenia\": 0.915, \"War in Croatia\": 0.897, \"Slovenian War of Independence\": 0.881}",
+        "rank": 742,
+        "correct": false
+    },
+    {
+        "head": "Slovenian War of Independence",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Slovenian War of Independence",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Slovenian War of Independence\": 0.944, \"Axis occupation of Yugoslavia\": 0.876, \"Second Serbian uprising\": 0.871}",
+        "rank": 742,
+        "correct": false
+    },
+    {
+        "head": "RCA",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "RCA",
+        "pred_score": 0.8298,
+        "topk_score_info": "{\"RCA\": 0.83, \"Bombing\": 0.729, \"Operation Danube\": 0.702}",
+        "rank": 187,
+        "correct": false
+    },
+    {
+        "head": "Fall of communism in Albania",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Fall of communism in Albania",
+        "pred_score": 0.9146,
+        "topk_score_info": "{\"Fall of communism in Albania\": 0.915, \"Mehmet Shehu\": 0.869, \"Hysni Kapo\": 0.862}",
+        "rank": 1573,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Mexican Armed Forces",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 102,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has place",
+        "tail": "Chiapas",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9487,
+        "topk_score_info": "{\"Chiapas conflict\": 0.949, \"Chiapas\": 0.925, \"Zapatista uprising\": 0.921}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9343,
+        "topk_score_info": "{\"Chiapas conflict\": 0.934, \"Zapatista uprising\": 0.906, \"Chiapas\": 0.905}",
+        "rank": 1072,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Comandanta Ramona",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 209,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Arturo Guzmán Decena",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 224,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "National Guard ( Mexico)",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 301,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Ernesto Zedillo",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 188,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Manuel Camacho Sol�%A Ds",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 146,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9487,
+        "topk_score_info": "{\"Chiapas conflict\": 0.949, \"Zapatista uprising\": 0.921, \"Subcomandante Marcos\": 0.895}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Carlos Salinas de Gortari",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 125,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Subcomandante Marcos",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Federal Police ( Mexico)",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Chiapas conflict\": 0.944, \"Chiapas\": 0.919, \"Zapatista uprising\": 0.916}",
+        "rank": 295,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Vidal Francisco Soberón Sanz",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 62,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9468,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.947, \"Miguel Trevi\\u00f1o Morales\": 0.914, \"Knights Templar Cartel\": 0.908}",
+        "rank": 105,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Mexican Army",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has place",
+        "tail": "Tamaulipas",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9475,
+        "topk_score_info": "{\"Gulf Cartel\": 0.948, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.927, \"Knights Templar Cartel\": 0.912}",
+        "rank": 138,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Salvador Cienfuegos",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 36,
+        "correct": false
+    },
+    {
+        "head": "Acteal massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Acteal massacre",
+        "pred_score": 0.9408,
+        "topk_score_info": "{\"Acteal massacre\": 0.941, \"Jos\\u00e9 Gabriel de Armijo\": 0.826, \"Mateo Pumacahua\": 0.824}",
+        "rank": 1444,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Antonio Cárdenas Guillén",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has place",
+        "tail": "Quintana Roo",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9482,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.948, \"Altamira prison brawl\": 0.91, \"Torre\\u00f3n\": 0.91}",
+        "rank": 480,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Felipe Calderón",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Guillermo Galván Galván",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 40,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "sub event of",
+        "tail": "War on drugs",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9615,
+        "topk_score_info": "{\"Gulf Cartel\": 0.962, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.935, \"Miguel Trevi\\u00f1o Morales\": 0.92}",
+        "rank": 974,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.958,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.958, \"Knights Templar Cartel\": 0.925, \"Miguel Trevi\\u00f1o Morales\": 0.91}",
+        "rank": 115,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Jorge Eduardo Costilla Sánchez",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Zapatista uprising",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Zapatista uprising\": 0.934, \"Zapatista Army of National Liberation\": 0.895, \"Subcomandante Marcos\": 0.888}",
+        "rank": 904,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9215,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.922, \"Miguel Trevi\\u00f1o Morales\": 0.882, \"Knights Templar Cartel\": 0.87}",
+        "rank": 1170,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Andrés Manuel López Obrador",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 273,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "sub event of",
+        "tail": "War on drugs",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.9612,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.961, \"Knights Templar Cartel\": 0.928, \"Subcomandante Marcos\": 0.913}",
+        "rank": 1218,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Gulf Cartel\": 0.933, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.914, \"Miguel Trevi\\u00f1o Morales\": 0.899}",
+        "rank": 1123,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Mariano Francisco Saynez Mendoza",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Acteal massacre",
+        "relation": "sub event of",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Acteal massacre",
+        "pred_score": 0.9578,
+        "topk_score_info": "{\"Acteal massacre\": 0.958, \"Mateo Pumacahua\": 0.822, \"Battle of Sipe-Sipe\": 0.816}",
+        "rank": 236,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Felipe Calderón",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9478,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.948, \"Operation Quintana Roo\": 0.936, \"Altamira prison brawl\": 0.924}",
+        "rank": 142,
+        "correct": false
+    },
+    {
+        "head": "Zapatista uprising",
+        "relation": "has place",
+        "tail": "Chiapas",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.955,
+        "topk_score_info": "{\"Zapatista uprising\": 0.955, \"Zapatista Army of National Liberation\": 0.912, \"Subcomandante Marcos\": 0.911}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Miguel Treviño Morales",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Miguel Trevi\\u00f1o Morales\": 0.915}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Jorge Eduardo Costilla Sánchez",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Acteal massacre",
+        "relation": "has place",
+        "tail": "Chiapas",
+        "pred_tail": "Acteal massacre",
+        "pred_score": 0.9405,
+        "topk_score_info": "{\"Acteal massacre\": 0.94, \"Mateo Pumacahua\": 0.819, \"Isidro Barradas\": 0.816}",
+        "rank": 830,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Luis Cresencio Sandoval",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Mariano Francisco Saynez Mendoza",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 172,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "José Rafael Ojeda Durán",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Altamira prison brawl",
+        "relation": "event type",
+        "tail": "Mass murder",
+        "pred_tail": "Altamira prison brawl",
+        "pred_score": 0.9508,
+        "topk_score_info": "{\"Altamira prison brawl\": 0.951, \"Tamaulipas\": 0.903, \"Operation Quintana Roo\": 0.892}",
+        "rank": 1062,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9482,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.948, \"Altamira prison brawl\": 0.91, \"File:Bandera de la Primera Rep\\ufffd%B Ablica Federal de los Estados Unidos Mexicanos.svg\": 0.907}",
+        "rank": 1009,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Felipe Calderón",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Miguel Treviño Morales",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "sub event of",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9615,
+        "topk_score_info": "{\"Gulf Cartel\": 0.962, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.935, \"Miguel Trevi\\u00f1o Morales\": 0.92}",
+        "rank": 100,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Mexican army",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 1175,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9503,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.95, \"Operation Quintana Roo\": 0.929, \"Altamira prison brawl\": 0.912}",
+        "rank": 676,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Miguel Treviño Morales",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Luis Cresencio Sandoval",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 81,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Heriberto Lazcano Lazcano",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "sub event of",
+        "tail": "Infighting in the Gulf Cartel",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9615,
+        "topk_score_info": "{\"Gulf Cartel\": 0.962, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.935, \"Miguel Trevi\\u00f1o Morales\": 0.92}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Enrique Peña Nieto",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "Zapatista Army of National Liberation",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.9167,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.917, \"Comandanta Ramona\": 0.895, \"Liberation Army of the South\": 0.878}",
+        "rank": 1189,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "sub event of",
+        "tail": "Mexican drug war",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.9612,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.961, \"Knights Templar Cartel\": 0.928, \"Subcomandante Marcos\": 0.913}",
+        "rank": 58,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Antonio Cárdenas Guillén",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Antonio C\\u00e1rdenas Guill\\u00e9n\": 0.91, \"Arturo Guzm\\u00e1n Decena\": 0.908}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Heriberto Lazcano Lazcano",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 151,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Felipe Calderón",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has place",
+        "tail": "Honduras",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9475,
+        "topk_score_info": "{\"Gulf Cartel\": 0.948, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.927, \"Knights Templar Cartel\": 0.912}",
+        "rank": 352,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Enrique Peña Nieto",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 113,
+        "correct": false
+    },
+    {
+        "head": "Money laundering",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Money laundering",
+        "pred_score": 0.9431,
+        "topk_score_info": "{\"Money laundering\": 0.943, \"Covert operation\": 0.876, \"Kidnapping\": 0.86}",
+        "rank": 153,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "has actor",
+        "tail": "Knights Templar Cartel",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.9573,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.957, \"Knights Templar Cartel\": 0.926, \"Miguel Trevi\\u00f1o Morales\": 0.911}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Heriberto Lazcano Lazcano",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 188,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9615,
+        "topk_score_info": "{\"Gulf Cartel\": 0.962, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.935, \"Miguel Trevi\\u00f1o Morales\": 0.92}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Miguel Treviño Morales",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Miguel Trevi\\u00f1o Morales\": 0.914, \"Arturo Guzm\\u00e1n Decena\": 0.908}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "has place",
+        "tail": "Jalisco",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.958,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.958, \"Knights Templar Cartel\": 0.925, \"Miguel Trevi\\u00f1o Morales\": 0.91}",
+        "rank": 248,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "sub event of",
+        "tail": "War on drugs",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9572,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.957, \"Miguel Trevi\\u00f1o Morales\": 0.915, \"Los Zetas\": 0.906}",
+        "rank": 1195,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Luis Cresencio Sandoval",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 100,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Enrique Peña Nieto",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 199,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Guillermo Galván Galván",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 53,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Los Zetas",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "has place",
+        "tail": "Jalisco%2 C Mexico",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.958,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.958, \"Knights Templar Cartel\": 0.925, \"Miguel Trevi\\u00f1o Morales\": 0.91}",
+        "rank": 146,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9482,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.948, \"Altamira prison brawl\": 0.91, \"Torre\\u00f3n\": 0.91}",
+        "rank": 94,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "has place",
+        "tail": "Guadalajara",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.958,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.958, \"Knights Templar Cartel\": 0.925, \"Miguel Trevi\\u00f1o Morales\": 0.91}",
+        "rank": 63,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Mexican Navy",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "sub event of",
+        "tail": "Mexican Drug War",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9508,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.951, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.923}",
+        "rank": 384,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "has actor",
+        "tail": "Andrés Manuel López Obrador",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9472,
+        "topk_score_info": "{\"Gulf Cartel\": 0.947, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.931, \"Knights Templar Cartel\": 0.914}",
+        "rank": 300,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "sub event of",
+        "tail": "Mexican Drug War",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9558,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.956, \"Altamira prison brawl\": 0.916, \"Knights Templar Cartel\": 0.91}",
+        "rank": 438,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Los Zetas",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 128,
+        "correct": false
+    },
+    {
+        "head": "Acteal massacre",
+        "relation": "has place",
+        "tail": "Acteal",
+        "pred_tail": "Acteal massacre",
+        "pred_score": 0.9405,
+        "topk_score_info": "{\"Acteal massacre\": 0.94, \"Mateo Pumacahua\": 0.819, \"Isidro Barradas\": 0.816}",
+        "rank": 697,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has place",
+        "tail": "Nuevo León",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9468,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.947, \"Miguel Trevi\\u00f1o Morales\": 0.914, \"Knights Templar Cartel\": 0.908}",
+        "rank": 59,
+        "correct": false
+    },
+    {
+        "head": "Jalisco New Generation Cartel",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Jalisco New Generation Cartel",
+        "pred_score": 0.9437,
+        "topk_score_info": "{\"Jalisco New Generation Cartel\": 0.944, \"Knights Templar Cartel\": 0.91, \"Miguel Trevi\\u00f1o Morales\": 0.892}",
+        "rank": 1100,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "José Rafael Ojeda Durán",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 42,
+        "correct": false
+    },
+    {
+        "head": "Altamira prison brawl",
+        "relation": "sub event of",
+        "tail": "Mexican Drug War",
+        "pred_tail": "Altamira prison brawl",
+        "pred_score": 0.9634,
+        "topk_score_info": "{\"Altamira prison brawl\": 0.963, \"Tamaulipas\": 0.918, \"Operation Quintana Roo\": 0.905}",
+        "rank": 487,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Andrés Manuel López Obrador",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 302,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Los Zetas",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Heriberto Lazcano Lazcano",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Enrique Peña Nieto",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 48,
+        "correct": false
+    },
+    {
+        "head": "Zapatista Army of National Liberation",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.9248,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.925, \"Comandanta Ramona\": 0.903, \"Miguel Enr\\ufffd%A Dquez (politician)\": 0.889}",
+        "rank": 420,
+        "correct": false
+    },
+    {
+        "head": "Zapatista uprising",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.955,
+        "topk_score_info": "{\"Zapatista uprising\": 0.955, \"Zapatista Army of National Liberation\": 0.912, \"Subcomandante Marcos\": 0.911}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has actor",
+        "tail": "Andrés Manuel López Obrador",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.943, \"Operation Quintana Roo\": 0.937, \"Altamira prison brawl\": 0.919}",
+        "rank": 387,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Vidal Francisco Soberón Sanz",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "sub event of",
+        "tail": "Mexican drug war",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9572,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.957, \"Miguel Trevi\\u00f1o Morales\": 0.915, \"Los Zetas\": 0.906}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "sub event of",
+        "tail": "Mexican drug war",
+        "pred_tail": "Gulf Cartel",
+        "pred_score": 0.9615,
+        "topk_score_info": "{\"Gulf Cartel\": 0.962, \"Jorge Eduardo Costilla S\\u00e1nchez\": 0.935, \"Miguel Trevi\\u00f1o Morales\": 0.92}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Murder",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Murder",
+        "pred_score": 0.9683,
+        "topk_score_info": "{\"Murder\": 0.968, \"Mass murder\": 0.878, \"Covert operation\": 0.87}",
+        "rank": 371,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has actor",
+        "tail": "Gulf cartel",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9428,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.943, \"Arturo Guzm\\u00e1n Decena\": 0.908, \"Knights Templar Cartel\": 0.905}",
+        "rank": 1167,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "has place",
+        "tail": "Nuevo Leon",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9468,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.947, \"Miguel Trevi\\u00f1o Morales\": 0.914, \"Knights Templar Cartel\": 0.908}",
+        "rank": 1041,
+        "correct": false
+    },
+    {
+        "head": "Joint Operation Nuevo León-Tamaulipas",
+        "relation": "has place",
+        "tail": "Nuevo León",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.9478,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.948, \"Operation Quintana Roo\": 0.936, \"Altamira prison brawl\": 0.924}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Kidnapping",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Kidnapping",
+        "pred_score": 0.9585,
+        "topk_score_info": "{\"Kidnapping\": 0.959, \"Mass murder\": 0.88, \"Covert operation\": 0.879}",
+        "rank": 231,
+        "correct": false
+    },
+    {
+        "head": "Operation Quintana Roo",
+        "relation": "has actor",
+        "tail": "Salvador Cienfuegos",
+        "pred_tail": "Operation Quintana Roo",
+        "pred_score": 0.9471,
+        "topk_score_info": "{\"Operation Quintana Roo\": 0.947, \"Knights Templar Cartel\": 0.912, \"Torre\\u00f3n\": 0.905}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Altamira prison brawl",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Altamira prison brawl",
+        "pred_score": 0.9457,
+        "topk_score_info": "{\"Altamira prison brawl\": 0.946, \"Tamaulipas\": 0.896, \"Operation Quintana Roo\": 0.889}",
+        "rank": 909,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Inspector General of Police ( Nepal)",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Girija Prasad Koirala",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Birendra of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has place",
+        "tail": "Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9351,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.935, \"Krishna Bahadur Mahara\": 0.902, \"2005 Nepal coup d'\\u00e9tat\": 0.9}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Baburam Bhattarai",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Baburam Bhattarai\": 0.902, \"Krishna Bahadur Mahara\": 0.9}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Mohan Baidya",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pradip Shumsher J.B.R.",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Moti Lal Bohora",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pyar Jung Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"Pyar Jung Thapa\": 0.895}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Gyanendra of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pushpa Kamal Dahal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Lokendra Bahadur Chand",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Om Bikram Rana",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Achyut Krishna Kharel",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Biplav",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "King of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Shyam Bhakta Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Dharmapaal Barsingh Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Rookmangud Katawal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9398,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.94, \"2005 Nepal coup d'\\u00e9tat\": 0.906, \"Krishna Bahadur Mahara\": 0.905}",
+        "rank": 181,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Dhruba Bahadur Pradhan",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"Dhruba Bahadur Pradhan\": 0.893}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Chief of Army Staff ( Nepal)",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Nanda Kishor Pun",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Sher Bahadur Deuba",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Krishna Prasad Bhattarai",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"Krishna Prasad Bhattarai\": 0.896}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Surya Bahadur Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Prime Minister of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Ram Bahadur Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9299,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.93, \"Krishna Bahadur Mahara\": 0.9, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has actor",
+        "tail": "Nanda Kishor Pun",
+        "pred_tail": "Rookmangud Katawal",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"Rookmangud Katawal\": 0.919, \"Nepalese Civil War\": 0.913, \"Second Battle of Khara\": 0.912}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9224,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.922, \"Second Battle of Khara\": 0.922, \"Rookmangud Katawal\": 0.921}",
+        "rank": 184,
+        "correct": false
+    },
+    {
+        "head": "2005 Nepal coup d'état",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9577,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.958, \"Nepalese Civil War\": 0.887, \"King of Nepal\": 0.882}",
+        "rank": 197,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has actor",
+        "tail": "Pushpa Kamal Dahal",
+        "pred_tail": "Rookmangud Katawal",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"Rookmangud Katawal\": 0.919, \"Nepalese Civil War\": 0.913, \"Second Battle of Khara\": 0.912}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "2005 Nepal coup d'état",
+        "relation": "has place",
+        "tail": "Nepal",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9535,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.953, \"Nepalese Civil War\": 0.891, \"Dhruba Bahadur Pradhan\": 0.887}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has actor",
+        "tail": "Pyar Jung Thapa",
+        "pred_tail": "Rookmangud Katawal",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"Rookmangud Katawal\": 0.919, \"Nepalese Civil War\": 0.913, \"Second Battle of Khara\": 0.912}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "2005 Nepal coup d'état",
+        "relation": "has actor",
+        "tail": "Gyanendra of Nepal",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9537,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.954, \"Nepalese Civil War\": 0.891, \"Dhruba Bahadur Pradhan\": 0.887}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Battle of Bhalubang",
+        "relation": "has place",
+        "tail": "Dang District%2 C Nepal",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9567,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.957, \"Nepalese Civil War\": 0.946, \"Dhruba Bahadur Pradhan\": 0.928}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has actor",
+        "tail": "Janardan Sharma",
+        "pred_tail": "Rookmangud Katawal",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"Rookmangud Katawal\": 0.919, \"Nepalese Civil War\": 0.913, \"Second Battle of Khara\": 0.912}",
+        "rank": 72,
+        "correct": false
+    },
+    {
+        "head": "2005 Nepal coup d'état",
+        "relation": "has actor",
+        "tail": "Sher Bahadur Deuba",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9537,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.954, \"Nepalese Civil War\": 0.891, \"Dhruba Bahadur Pradhan\": 0.887}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Battle of Bhalubang",
+        "relation": "has place",
+        "tail": "Bhalubang",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9567,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.957, \"Nepalese Civil War\": 0.946, \"Dhruba Bahadur Pradhan\": 0.928}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Battle of Bhalubang",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9552,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.955, \"Nepalese Civil War\": 0.944, \"2005 Nepal coup d'\\u00e9tat\": 0.927}",
+        "rank": 135,
+        "correct": false
+    },
+    {
+        "head": "2005 Nepal coup d'état",
+        "relation": "sub event of",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9649,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.965, \"Nepalese Civil War\": 0.9, \"Dhruba Bahadur Pradhan\": 0.891}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has actor",
+        "tail": "Krishna Bahadur Mahara",
+        "pred_tail": "Rookmangud Katawal",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"Rookmangud Katawal\": 0.919, \"Nepalese Civil War\": 0.913, \"Second Battle of Khara\": 0.912}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has place",
+        "tail": "Rukum District",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.924,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.924, \"Rookmangud Katawal\": 0.92, \"Nepalese Civil War\": 0.918}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Second Battle of Khara",
+        "relation": "has place",
+        "tail": "Khara%2 C Nepal",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.924,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.924, \"Rookmangud Katawal\": 0.92, \"Nepalese Civil War\": 0.918}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "2005 Nepal coup d'état",
+        "relation": "has place",
+        "tail": "Kathmandu",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9535,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.953, \"Nepalese Civil War\": 0.891, \"Dhruba Bahadur Pradhan\": 0.887}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9504,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.95, \"Venezuela\": 0.908, \"Trujillo (state)\": 0.89}",
+        "rank": 1394,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "sub event of",
+        "tail": "Pink tide",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9553,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.955, \"Venezuela\": 0.912, \"Trujillo (state)\": 0.894}",
+        "rank": 895,
+        "correct": false
+    },
+    {
+        "head": "Foro de São Paulo",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Foro de São Paulo",
+        "pred_score": 0.9337,
+        "topk_score_info": "{\"Foro de S\\u00e3o Paulo\": 0.934, \"Federalist Riograndense Revolution ( Brazil)\": 0.858, \"Osvaldo Aranha\": 0.858}",
+        "rank": 350,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "has begin time stamp",
+        "tail": "Serbia and Montenegro",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9239,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.924, \"Milo\\u0161 Mini\\u0107\": 0.921, \"Arso Jovanovi\\u0107\": 0.917}",
+        "rank": 65,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "has begin time stamp",
+        "tail": "Belgrade",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9239,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.924, \"Milo\\u0161 Mini\\u0107\": 0.921, \"Arso Jovanovi\\u0107\": 0.917}",
+        "rank": 210,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9149,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.915, \"Milo\\u0161 Mini\\u0107\": 0.911, \"Arso Jovanovi\\u0107\": 0.907}",
+        "rank": 1010,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9581,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.958, \"People Power Revolution\": 0.915, \"Escalante massacre\": 0.894}",
+        "rank": 695,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9668,
+        "topk_score_info": "{\"Rose Revolution\": 0.967, \"Adjara\": 0.921, \"Ivane Andronikashvili\": 0.919}",
+        "rank": 1049,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "has place",
+        "tail": "Georgia (country)",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9732,
+        "topk_score_info": "{\"Rose Revolution\": 0.973, \"Adjara\": 0.929, \"Valiko Jugheli\": 0.921}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "European integration",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "European integration",
+        "pred_score": 0.9691,
+        "topk_score_info": "{\"European integration\": 0.969, \"Central Europe\": 0.866, \"Northern Europe\": 0.86}",
+        "rank": 499,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9391,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.939, \"Aslan Abashidze\": 0.923, \"Adjara\": 0.912}",
+        "rank": 1403,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has actor",
+        "tail": "Aslan Abashidze",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9489,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.949, \"Aslan Abashidze\": 0.927, \"Adjara\": 0.92}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has place",
+        "tail": "Adjara",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9484,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.948, \"Aslan Abashidze\": 0.923, \"Adjara\": 0.92}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has place",
+        "tail": "Georgia (country)",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9484,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.948, \"Aslan Abashidze\": 0.923, \"Akhalkalaki Municipality\": 0.912}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has actor",
+        "tail": "Mikheil Saakashvili",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9489,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.949, \"Adjara\": 0.92, \"Akhalkalaki Municipality\": 0.913}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9728,
+        "topk_score_info": "{\"Orange Revolution\": 0.973, \"2014 Ukrainian revolution\": 0.952, \"Right-bank Ukraine\": 0.948}",
+        "rank": 834,
+        "correct": false
+    },
+    {
+        "head": "2004 Ukrainian presidential election",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2004 Ukrainian presidential election",
+        "pred_score": 0.9527,
+        "topk_score_info": "{\"2004 Ukrainian presidential election\": 0.953, \"Euromaidan\": 0.891, \"Ukraine\": 0.885}",
+        "rank": 620,
+        "correct": false
+    },
+    {
+        "head": "2004 Ukrainian presidential election",
+        "relation": "has place",
+        "tail": "Ukraine",
+        "pred_tail": "2004 Ukrainian presidential election",
+        "pred_score": 0.9598,
+        "topk_score_info": "{\"2004 Ukrainian presidential election\": 0.96, \"Euromaidan\": 0.898, \"Ukraine\": 0.891}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Cedar Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Cedar Revolution",
+        "pred_score": 0.9721,
+        "topk_score_info": "{\"Cedar Revolution\": 0.972, \"Great Syrian Revolt\": 0.928, \"Syrian civil war\": 0.924}",
+        "rank": 682,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has place",
+        "tail": "Kyrgyzstan",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9552,
+        "topk_score_info": "{\"Tulip Revolution\": 0.955, \"Kyrgyz Revolution of 2010\": 0.926, \"Osh\": 0.913}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9569,
+        "topk_score_info": "{\"Tulip Revolution\": 0.957, \"Kyrgyz Revolution of 2010\": 0.925, \"Kyrgyzstan\": 0.906}",
+        "rank": 424,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has place",
+        "tail": "Andijan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.954,
+        "topk_score_info": "{\"Andijan massacre\": 0.954, \"Kyrgyzstan\": 0.883, \"So\\ufffd%B Bx District\": 0.881}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has place",
+        "tail": "Uzbekistan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.954,
+        "topk_score_info": "{\"Andijan massacre\": 0.954, \"Kyrgyzstan\": 0.883, \"So\\ufffd%B Bx District\": 0.881}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9625,
+        "topk_score_info": "{\"Andijan massacre\": 0.963, \"Kyrgyzstan\": 0.888, \"So\\ufffd%B Bx District\": 0.885}",
+        "rank": 422,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9284,
+        "topk_score_info": "{\"Saffron Revolution\": 0.928, \"8888 Uprising\": 0.905, \"Shan United Revolutionary Army\": 0.877}",
+        "rank": 67,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has place",
+        "tail": "Myanmar",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Saffron Revolution\": 0.931, \"8888 Uprising\": 0.909, \"Shan United Revolutionary Army\": 0.882}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Civil resistance",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Civil resistance",
+        "pred_score": 0.9445,
+        "topk_score_info": "{\"Civil resistance\": 0.944, \"Mutiny\": 0.868, \"Covert operation\": 0.867}",
+        "rank": 343,
+        "correct": false
+    },
+    {
+        "head": "2009 Icelandic financial crisis protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2009 Icelandic financial crisis protests",
+        "pred_score": 0.9607,
+        "topk_score_info": "{\"2009 Icelandic financial crisis protests\": 0.961, \"Republicanism in Sweden\": 0.803, \"Harald Hjalmarson\": 0.789}",
+        "rank": 366,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "has place",
+        "tail": "Kyrgyzstan",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9782,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.978, \"Tulip Revolution\": 0.933, \"2010 South Kyrgyzstan ethnic clashes\": 0.916}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9748,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.975, \"Tulip Revolution\": 0.932, \"2010 South Kyrgyzstan ethnic clashes\": 0.91}",
+        "rank": 479,
+        "correct": false
+    },
+    {
+        "head": "2010 South Kyrgyzstan ethnic clashes",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.9785,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.979, \"Kyrgyz Revolution of 2010\": 0.919, \"Osh\": 0.917}",
+        "rank": 859,
+        "correct": false
+    },
+    {
+        "head": "2010 South Kyrgyzstan ethnic clashes",
+        "relation": "has place",
+        "tail": "Jalal-Abad",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.9806,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.981, \"Kyrgyz Revolution of 2010\": 0.918, \"Jalal-Abad\": 0.899}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "2010 South Kyrgyzstan ethnic clashes",
+        "relation": "sub event of",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.9775,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.977, \"Kyrgyz Revolution of 2010\": 0.923, \"Osh\": 0.921}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "2010 South Kyrgyzstan ethnic clashes",
+        "relation": "has place",
+        "tail": "Osh",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.9806,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.981, \"Osh\": 0.921, \"Kyrgyz Revolution of 2010\": 0.918}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "2010 South Kyrgyzstan ethnic clashes",
+        "relation": "has place",
+        "tail": "Sogment",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.9806,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.981, \"Kyrgyz Revolution of 2010\": 0.918, \"Tulip Revolution\": 0.892}",
+        "rank": 4957,
+        "correct": false
+    },
+    {
+        "head": "2010 South Kyrgyzstan ethnic clashes",
+        "relation": "has place",
+        "tail": "So�%B Bx District",
+        "pred_tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_score": 0.9806,
+        "topk_score_info": "{\"2010 South Kyrgyzstan ethnic clashes\": 0.981, \"Kyrgyz Revolution of 2010\": 0.918, \"Tulip Revolution\": 0.892}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Arab Spring",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.9485,
+        "topk_score_info": "{\"Arab Spring\": 0.949, \"Fares Manaa\": 0.901, \"Syrian civil war\": 0.895}",
+        "rank": 509,
+        "correct": false
+    },
+    {
+        "head": "Impact of the Arab Spring",
+        "relation": "sub event of",
+        "tail": "International reactions to the Arab Spring",
+        "pred_tail": "Impact of the Arab Spring",
+        "pred_score": 0.9498,
+        "topk_score_info": "{\"Impact of the Arab Spring\": 0.95, \"International reactions to the Arab Spring\": 0.933, \"Arab Spring\": 0.914}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Arab Winter",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.9272,
+        "topk_score_info": "{\"Arab Spring\": 0.927, \"International reactions to the Arab Spring\": 0.924, \"Impact of the Arab Spring\": 0.919}",
+        "rank": 449,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "North Africa",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 199,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.957,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.957, \"Saudi Arabia\": 0.874, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.848}",
+        "rank": 330,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "Bahrain",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "Libya",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "Impact of the Arab Spring",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Impact of the Arab Spring",
+        "pred_score": 0.9287,
+        "topk_score_info": "{\"Impact of the Arab Spring\": 0.929, \"International reactions to the Arab Spring\": 0.92, \"Arab Spring\": 0.899}",
+        "rank": 990,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has actor",
+        "tail": "Salman of Saudi Arabia",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9536,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.954, \"Saudi Arabia\": 0.873, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.853}",
+        "rank": 31,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has actor",
+        "tail": "Tamim bin Hamad Al Thani",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9536,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.954, \"Saudi Arabia\": 0.873, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.853}",
+        "rank": 89,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "Egypt",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 112,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "Middle East",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Qatar– Saudi Arabia diplomatic conflict",
+        "relation": "has place",
+        "tail": "Syria",
+        "pred_tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_score": 0.9576,
+        "topk_score_info": "{\"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.958, \"Saudi Arabia\": 0.878, \"Iran\\u2013 Saudi Arabia proxy conflict\": 0.856}",
+        "rank": 98,
+        "correct": false
+    },
+    {
+        "head": "Tunisian Revolution",
+        "relation": "has place",
+        "tail": "Tunisia",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.9226,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.923, \"Tunis\": 0.883, \"Arab Spring\": 0.873}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Tunisian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.9156,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.916, \"Tunis\": 0.872, \"Arab Spring\": 0.865}",
+        "rank": 741,
+        "correct": false
+    },
+    {
+        "head": "Mendiola massacre",
+        "relation": "has place",
+        "tail": "San Miguel%2 C Manila",
+        "pred_tail": "Mendiola massacre",
+        "pred_score": 0.9487,
+        "topk_score_info": "{\"Mendiola massacre\": 0.949, \"Escalante massacre\": 0.938, \"People Power Revolution\": 0.92}",
+        "rank": 55,
+        "correct": false
+    },
+    {
+        "head": "Pullman Strike",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Pullman Strike",
+        "pred_score": 0.9055,
+        "topk_score_info": "{\"Pullman Strike\": 0.906, \"Auto-Lite strike\": 0.846, \"Woodrow Wilson\": 0.826}",
+        "rank": 249,
+        "correct": false
+    },
+    {
+        "head": "Mendiola massacre",
+        "relation": "has place",
+        "tail": "Mendiola Street",
+        "pred_tail": "Mendiola massacre",
+        "pred_score": 0.9487,
+        "topk_score_info": "{\"Mendiola massacre\": 0.949, \"Escalante massacre\": 0.938, \"Mendiola Street\": 0.925}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Bay View massacre",
+        "relation": "has place",
+        "tail": "Milwaukee%2 C Wisconsin",
+        "pred_tail": "Bay View massacre",
+        "pred_score": 0.9191,
+        "topk_score_info": "{\"Bay View massacre\": 0.919, \"Everett massacre\": 0.851, \"Auto-Lite strike\": 0.843}",
+        "rank": 1531,
+        "correct": false
+    },
+    {
+        "head": "2011 Malawian protests",
+        "relation": "has place",
+        "tail": "Malawi",
+        "pred_tail": "2011 Malawian protests",
+        "pred_score": 0.9374,
+        "topk_score_info": "{\"2011 Malawian protests\": 0.937, \"Malawi\": 0.862, \"Peter Nanyemba\": 0.844}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "North Adams strike",
+        "relation": "has place",
+        "tail": "North Adams%2 C Massachusetts",
+        "pred_tail": "North Adams strike",
+        "pred_score": 0.9392,
+        "topk_score_info": "{\"North Adams strike\": 0.939, \"North Adams%2 C Massachusetts\": 0.845, \"Fort Strong\": 0.842}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Bahrain Tamarod",
+        "relation": "has place",
+        "tail": "Bahrain",
+        "pred_tail": "Bahrain Tamarod",
+        "pred_score": 0.9835,
+        "topk_score_info": "{\"Bahrain Tamarod\": 0.983, \"Bahrain\": 0.935, \"Muqtada al-Sadr\": 0.917}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Escalante massacre",
+        "relation": "has place",
+        "tail": "Escalante%2 C Negros Occidental",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.9501,
+        "topk_score_info": "{\"Escalante massacre\": 0.95, \"Mendiola massacre\": 0.904, \"Mamerto Natividad\": 0.899}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Morewood massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Morewood massacre",
+        "pred_score": 0.9295,
+        "topk_score_info": "{\"Morewood massacre\": 0.929, \"Westmoreland County%2 C Pennsylvania\": 0.851, \"Joseph T. Dickman\": 0.806}",
+        "rank": 188,
+        "correct": false
+    },
+    {
+        "head": "Auto-Lite strike",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Auto-Lite strike",
+        "pred_score": 0.9311,
+        "topk_score_info": "{\"Auto-Lite strike\": 0.931, \"Pullman Strike\": 0.854, \"Bay View massacre\": 0.83}",
+        "rank": 145,
+        "correct": false
+    },
+    {
+        "head": "Delano grape strike",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Delano grape strike",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Delano grape strike\": 0.951, \"Juan Feleo\": 0.847, \"James Brailsford Erwin\": 0.843}",
+        "rank": 743,
+        "correct": false
+    },
+    {
+        "head": "2011 Malawian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2011 Malawian protests",
+        "pred_score": 0.9349,
+        "topk_score_info": "{\"2011 Malawian protests\": 0.935, \"Malawi\": 0.864, \"Peter Nanyemba\": 0.846}",
+        "rank": 144,
+        "correct": false
+    },
+    {
+        "head": "Everett massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Everett massacre",
+        "pred_score": 0.908,
+        "topk_score_info": "{\"Everett massacre\": 0.908, \"Bay View massacre\": 0.828, \"Auto-Lite strike\": 0.817}",
+        "rank": 198,
+        "correct": false
+    },
+    {
+        "head": "Bacon's Rebellion",
+        "relation": "has place",
+        "tail": "Jamestown%2 C Virginia",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.9256,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.926, \"Richard Ingle\": 0.905, \"William Claiborne\": 0.883}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Kum Kapu demonstration",
+        "relation": "has place",
+        "tail": "Constantinople",
+        "pred_tail": "Kum Kapu demonstration",
+        "pred_score": 0.9269,
+        "topk_score_info": "{\"Kum Kapu demonstration\": 0.927, \"Mahmud Dramali Pasha\": 0.882, \"Mustafa Pasha Bushatli\": 0.877}",
+        "rank": 98,
+        "correct": false
+    },
+    {
+        "head": "Bacon's Rebellion",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.9212,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.921, \"Richard Ingle\": 0.9, \"William Claiborne\": 0.875}",
+        "rank": 313,
+        "correct": false
+    },
+    {
+        "head": "Everett massacre",
+        "relation": "has place",
+        "tail": "Everett%2 C Washington",
+        "pred_tail": "Everett massacre",
+        "pred_score": 0.9218,
+        "topk_score_info": "{\"Everett massacre\": 0.922, \"Bay View massacre\": 0.841, \"Auto-Lite strike\": 0.83}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "North Adams strike",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "North Adams strike",
+        "pred_score": 0.9246,
+        "topk_score_info": "{\"North Adams strike\": 0.925, \"Fort Strong\": 0.839, \"North Adams%2 C Massachusetts\": 0.836}",
+        "rank": 816,
+        "correct": false
+    },
+    {
+        "head": "Baltimore police strike",
+        "relation": "has place",
+        "tail": "Baltimore%2 C Maryland",
+        "pred_tail": "Baltimore police strike",
+        "pred_score": 0.9341,
+        "topk_score_info": "{\"Baltimore police strike\": 0.934, \"Bay View massacre\": 0.796, \"Miles Copeland Jr.\": 0.793}",
+        "rank": 260,
+        "correct": false
+    },
+    {
+        "head": "Morewood massacre",
+        "relation": "has place",
+        "tail": "Westmoreland County%2 C Pennsylvania",
+        "pred_tail": "Morewood massacre",
+        "pred_score": 0.9415,
+        "topk_score_info": "{\"Morewood massacre\": 0.942, \"Westmoreland County%2 C Pennsylvania\": 0.862, \"Adna Chaffee\": 0.803}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Bay View massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Bay View massacre",
+        "pred_score": 0.9129,
+        "topk_score_info": "{\"Bay View massacre\": 0.913, \"Everett massacre\": 0.84, \"Auto-Lite strike\": 0.838}",
+        "rank": 141,
+        "correct": false
+    },
+    {
+        "head": "Bacon's Rebellion",
+        "relation": "has place",
+        "tail": "Colony of Virginia",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.9256,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.926, \"Richard Ingle\": 0.905, \"William Claiborne\": 0.883}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Bahrain Tamarod",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Bahrain Tamarod",
+        "pred_score": 0.9791,
+        "topk_score_info": "{\"Bahrain Tamarod\": 0.979, \"Bahrain\": 0.923, \"Muqtada al-Sadr\": 0.915}",
+        "rank": 547,
+        "correct": false
+    },
+    {
+        "head": "Baltimore police strike",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Baltimore police strike",
+        "pred_score": 0.9439,
+        "topk_score_info": "{\"Baltimore police strike\": 0.944, \"Bay View massacre\": 0.817, \"Hilo massacre\": 0.805}",
+        "rank": 462,
+        "correct": false
+    },
+    {
+        "head": "Escalante massacre",
+        "relation": "has place",
+        "tail": "Negros Occidental",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.9501,
+        "topk_score_info": "{\"Escalante massacre\": 0.95, \"Mendiola massacre\": 0.904, \"Mamerto Natividad\": 0.899}",
+        "rank": 58,
+        "correct": false
+    },
+    {
+        "head": "Kum Kapu demonstration",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Kum Kapu demonstration",
+        "pred_score": 0.9401,
+        "topk_score_info": "{\"Kum Kapu demonstration\": 0.94, \"Ottoman Turks\": 0.884, \"Turkish language\": 0.878}",
+        "rank": 332,
+        "correct": false
+    },
+    {
+        "head": "Escalante massacre",
+        "relation": "has place",
+        "tail": "Philippines",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.9501,
+        "topk_score_info": "{\"Escalante massacre\": 0.95, \"Mendiola massacre\": 0.904, \"Mamerto Natividad\": 0.899}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "Mendiola massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Mendiola massacre",
+        "pred_score": 0.9493,
+        "topk_score_info": "{\"Mendiola massacre\": 0.949, \"Escalante massacre\": 0.936, \"Mendiola Street\": 0.92}",
+        "rank": 663,
+        "correct": false
+    },
+    {
+        "head": "Mendiola massacre",
+        "relation": "event type",
+        "tail": "Shooting",
+        "pred_tail": "Mendiola massacre",
+        "pred_score": 0.9481,
+        "topk_score_info": "{\"Mendiola massacre\": 0.948, \"Escalante massacre\": 0.935, \"Mendiola Street\": 0.92}",
+        "rank": 1248,
+        "correct": false
+    },
+    {
+        "head": "Escalante massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.9511,
+        "topk_score_info": "{\"Escalante massacre\": 0.951, \"Mendiola massacre\": 0.902, \"Mamerto Natividad\": 0.897}",
+        "rank": 877,
+        "correct": false
+    },
+    {
+        "head": "Mendiola massacre",
+        "relation": "has place",
+        "tail": "Philippines",
+        "pred_tail": "Mendiola massacre",
+        "pred_score": 0.9487,
+        "topk_score_info": "{\"Mendiola massacre\": 0.949, \"Escalante massacre\": 0.938, \"People Power Revolution\": 0.92}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Escalante massacre",
+        "relation": "event type",
+        "tail": "Shooting",
+        "pred_tail": "Escalante massacre",
+        "pred_score": 0.951,
+        "topk_score_info": "{\"Escalante massacre\": 0.951, \"Mendiola massacre\": 0.905, \"Mamerto Natividad\": 0.89}",
+        "rank": 1268,
+        "correct": false
+    },
+    {
+        "head": "Baltimore police strike",
+        "relation": "has place",
+        "tail": "United States",
+        "pred_tail": "Baltimore police strike",
+        "pred_score": 0.9341,
+        "topk_score_info": "{\"Baltimore police strike\": 0.934, \"Bay View massacre\": 0.796, \"Miles Copeland Jr.\": 0.793}",
+        "rank": 1401,
+        "correct": false
+    },
+    {
+        "head": "November 2012 Jordanian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "November 2012 Jordanian protests",
+        "pred_score": 0.9398,
+        "topk_score_info": "{\"November 2012 Jordanian protests\": 0.94, \"Syrian Civil War\": 0.822, \"Abdul Rahman Orfalli\": 0.817}",
+        "rank": 161,
+        "correct": false
+    },
+    {
+        "head": "2011 Lebanese protests",
+        "relation": "has place",
+        "tail": "Lebanon",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.9183,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.918, \"Arab Spring\": 0.897, \"International reactions to the Arab Spring\": 0.895}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "2011 Lebanese protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.9174,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.917, \"Arab Spring\": 0.898, \"International reactions to the Arab Spring\": 0.895}",
+        "rank": 563,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9319,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.932, \"Arab Spring\": 0.916, \"Fares Manaa\": 0.911}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9146,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.915, \"Arab Spring\": 0.908, \"Fares Manaa\": 0.904}",
+        "rank": 664,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has actor",
+        "tail": "Sheikh",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.938, \"Siege of Dammaj\": 0.92, \"Fares Manaa\": 0.902}",
+        "rank": 157,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "has actor",
+        "tail": "Uthman Mujalli",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9399,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.94, \"Battle of Sanaa (2011)\": 0.925, \"Saada\": 0.898}",
+        "rank": 1290,
+        "correct": false
+    },
+    {
+        "head": "Siege of Dammaj",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9479,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.948, \"Fares Manaa\": 0.895, \"Abdo al-Tallawi\": 0.89}",
+        "rank": 513,
+        "correct": false
+    },
+    {
+        "head": "Battle of Taiz",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9319,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.932, \"Siege of Dammaj\": 0.923, \"Battle of Taiz\": 0.912}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9374,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.937, \"Battle of Sanaa (2011)\": 0.922, \"Fares Manaa\": 0.905}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Siege of Dammaj",
+        "relation": "has place",
+        "tail": "Sa'dah Governorate",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9451,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.945, \"Fares Manaa\": 0.893, \"Abdo al-Tallawi\": 0.89}",
+        "rank": 78,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "has actor",
+        "tail": "Taha Hajer",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9399,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.94, \"Battle of Sanaa (2011)\": 0.925, \"Saada\": 0.898}",
+        "rank": 260,
+        "correct": false
+    },
+    {
+        "head": "Battle of Taiz",
+        "relation": "has place",
+        "tail": "Taiz",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9319,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.932, \"Siege of Dammaj\": 0.923, \"Battle of Taiz\": 0.912}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "has place",
+        "tail": "Saada",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9374,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.937, \"Battle of Sanaa (2011)\": 0.922, \"Fares Manaa\": 0.905}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has actor",
+        "tail": "Abdrabbuh Mansur Hadi",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.938, \"Siege of Dammaj\": 0.92, \"Fares Manaa\": 0.902}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Battle of Taiz",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.932,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.932, \"Siege of Dammaj\": 0.919, \"Battle of Taiz\": 0.911}",
+        "rank": 364,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9382,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.938, \"Battle of Sanaa (2011)\": 0.926, \"Fares Manaa\": 0.906}",
+        "rank": 410,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "has actor",
+        "tail": "Fares Manaa",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9399,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.94, \"Battle of Sanaa (2011)\": 0.925, \"Fares Manaa\": 0.909}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9373,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.937, \"Siege of Dammaj\": 0.922, \"Fares Manaa\": 0.9}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9362,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.936, \"Siege of Dammaj\": 0.915, \"Fares Manaa\": 0.895}",
+        "rank": 355,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has place",
+        "tail": "Sanaa",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9373,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.937, \"Siege of Dammaj\": 0.922, \"Fares Manaa\": 0.9}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has actor",
+        "tail": "Ali Abdullah Saleh",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.938, \"Siege of Dammaj\": 0.92, \"Fares Manaa\": 0.902}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Battle of Saada",
+        "relation": "has actor",
+        "tail": "Abu Ali Abdullah al-Hakim al-Houthi",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9399,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.94, \"Battle of Sanaa (2011)\": 0.925, \"Saada\": 0.898}",
+        "rank": 47,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has actor",
+        "tail": "Ali Mohsen al-Ahmar",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.938, \"Siege of Dammaj\": 0.92, \"Fares Manaa\": 0.902}",
+        "rank": 35,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has actor",
+        "tail": "Abdul Aziz Abdul Ghani",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.938, \"Siege of Dammaj\": 0.92, \"Fares Manaa\": 0.902}",
+        "rank": 328,
+        "correct": false
+    },
+    {
+        "head": "Siege of Dammaj",
+        "relation": "has place",
+        "tail": "Saada Governorate",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9451,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.945, \"Fares Manaa\": 0.893, \"Abdo al-Tallawi\": 0.89}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Siege of Dammaj",
+        "relation": "has place",
+        "tail": "Dammaj",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9451,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.945, \"Fares Manaa\": 0.893, \"Abdo al-Tallawi\": 0.89}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has place",
+        "tail": "Sana'a",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9373,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.937, \"Siege of Dammaj\": 0.922, \"Fares Manaa\": 0.9}",
+        "rank": 291,
+        "correct": false
+    },
+    {
+        "head": "Siege of Dammaj",
+        "relation": "has actor",
+        "tail": "Saleh Habra",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9493,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.949, \"Fares Manaa\": 0.899, \"Abdo al-Tallawi\": 0.895}",
+        "rank": 241,
+        "correct": false
+    },
+    {
+        "head": "Battle of Sanaa (2011)",
+        "relation": "has actor",
+        "tail": "Ahmed Saleh",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.938, \"Siege of Dammaj\": 0.92, \"Fares Manaa\": 0.902}",
+        "rank": 60,
+        "correct": false
+    },
+    {
+        "head": "Siege of Dammaj",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Siege of Dammaj",
+        "pred_score": 0.9451,
+        "topk_score_info": "{\"Siege of Dammaj\": 0.945, \"Fares Manaa\": 0.893, \"Abdo al-Tallawi\": 0.89}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "June 2013 Egyptian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.9381,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.938, \"2013 Egyptian coup d'\\u00e9tat\": 0.909, \"Anwar Sadat\": 0.883}",
+        "rank": 473,
+        "correct": false
+    },
+    {
+        "head": "June 2013 Egyptian protests",
+        "relation": "sub event of",
+        "tail": "Egyptian crisis (2011–2014)",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.9511,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.951, \"2013 Egyptian coup d'\\u00e9tat\": 0.924, \"Anwar Sadat\": 0.881}",
+        "rank": 101,
+        "correct": false
+    },
+    {
+        "head": "2013 Egyptian coup d'état",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2013 Egyptian coup d'état",
+        "pred_score": 0.9516,
+        "topk_score_info": "{\"2013 Egyptian coup d'\\u00e9tat\": 0.952, \"June 2013 Egyptian protests\": 0.917, \"Egyptian Revolutionary Command Council\": 0.881}",
+        "rank": 411,
+        "correct": false
+    },
+    {
+        "head": "Euromaidan",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Euromaidan",
+        "pred_score": 0.9791,
+        "topk_score_info": "{\"Euromaidan\": 0.979, \"Orange Revolution\": 0.938, \"Right-bank Ukraine\": 0.935}",
+        "rank": 612,
+        "correct": false
+    },
+    {
+        "head": "11 December 2013 Euromaidan assault",
+        "relation": "has place",
+        "tail": "Kyiv%2 C Ukraine",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.9321,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.932, \"Euromaidan\": 0.891, \"Andijan massacre\": 0.862}",
+        "rank": 206,
+        "correct": false
+    },
+    {
+        "head": "11 December 2013 Euromaidan assault",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.9369,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.937, \"Euromaidan\": 0.894, \"Andijan massacre\": 0.868}",
+        "rank": 439,
+        "correct": false
+    },
+    {
+        "head": "11 December 2013 Euromaidan assault",
+        "relation": "sub event of",
+        "tail": "Euromaidan",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.9461,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.946, \"Euromaidan\": 0.9, \"Andijan massacre\": 0.875}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Hilo massacre",
+        "relation": "has place",
+        "tail": "Hilo",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Hilo massacre\": 0.943, \"Hawaii Democratic Revolution of 1954\": 0.802, \"Bay View massacre\": 0.791}",
+        "rank": 644,
+        "correct": false
+    },
+    {
+        "head": "2014 Ukrainian revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2014 Ukrainian revolution",
+        "pred_score": 0.98,
+        "topk_score_info": "{\"2014 Ukrainian revolution\": 0.98, \"Right-bank Ukraine\": 0.952, \"Orange Revolution\": 0.946}",
+        "rank": 644,
+        "correct": false
+    },
+    {
+        "head": "Hilo massacre",
+        "relation": "has place",
+        "tail": "Hawaii",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.9433,
+        "topk_score_info": "{\"Hilo massacre\": 0.943, \"Hawaii Democratic Revolution of 1954\": 0.802, \"Hawaii\": 0.794}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Hilo massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.9477,
+        "topk_score_info": "{\"Hilo massacre\": 0.948, \"Hawaii Democratic Revolution of 1954\": 0.813, \"Bay View massacre\": 0.799}",
+        "rank": 128,
+        "correct": false
+    },
+    {
+        "head": "Hilo massacre",
+        "relation": "event type",
+        "tail": "Police brutality",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.9402,
+        "topk_score_info": "{\"Hilo massacre\": 0.94, \"Hawaii Democratic Revolution of 1954\": 0.808, \"Bay View massacre\": 0.794}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "Neolithic Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Neolithic Revolution",
+        "pred_score": 0.9207,
+        "topk_score_info": "{\"Neolithic Revolution\": 0.921, \"Industrious Revolution\": 0.845, \"British Agricultural Revolution\": 0.819}",
+        "rank": 227,
+        "correct": false
+    }
+]

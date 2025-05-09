@@ -8,3 +8,5 @@ entities.json
 checkpoint/
 relations.json
 data/*
+misc/*
+narrative/experiments/*/model_best.mdl

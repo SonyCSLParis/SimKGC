@@ -1,0 +1,3362 @@
+[
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Velvet Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 33,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania",
+        "relation": "inverse has place",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Proclamation of Islaz",
+        "pred_score": 0.885,
+        "topk_score_info": "{\"Proclamation of Islaz\": 0.885, \"Romanian Revolution\": 0.878, \"Wallachian Revolution of 1848\": 0.875}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Syrian Civil War",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 505,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution of 1989",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 134,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Donbass",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 415,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Mongolian People's Republic",
+        "relation": "inverse has place",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Soviet intervention in Mongolia",
+        "pred_score": 0.8769,
+        "topk_score_info": "{\"Soviet intervention in Mongolia\": 0.877, \"Battle of Baitag Bogd\": 0.84, \"Mongolian Revolution of 1990\": 0.836}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Log Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 104,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.8844,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.884, \"Uprising in Serbia (1941)\": 0.876, \"Chetnik sabotage of Axis communication lines\": 0.874}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "SR Croatia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.872,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.872, \"Battle of Zvornik\": 0.869, \"Battle of Kupres (1942)\": 0.865}",
+        "rank": 84,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 239,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.9092,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.909, \"Battles of Bato\\ufffd%8 Dina and Jagodina\": 0.898, \"Battle of Mi\\u0161ar\": 0.896}",
+        "rank": 84,
+        "correct": false
+    },
+    {
+        "head": "SR Serbia",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.8796,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.88, \"Battles of Bato\\ufffd%8 Dina and Jagodina\": 0.873, \"Uprising in Serbia (1941)\": 0.87}",
+        "rank": 165,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Gitarijada ( Belgrade)",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.8844,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.884, \"Uprising in Serbia (1941)\": 0.876, \"Chetnik sabotage of Axis communication lines\": 0.874}",
+        "rank": 157,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.9092,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.909, \"Battles of Bato\\ufffd%8 Dina and Jagodina\": 0.898, \"Battle of Mi\\u0161ar\": 0.896}",
+        "rank": 62,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"1991 protests in Belgrade\": 0.824}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "inverse sub event of",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9001,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.9, \"Serbia and Montenegro\": 0.875, \"Socialist Federal Republic of Yugoslavia\": 0.864}",
+        "rank": 236,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "World War II in Yugoslavia",
+        "pred_score": 0.8946,
+        "topk_score_info": "{\"World War II in Yugoslavia\": 0.895, \"Partisan Long March\": 0.883, \"Axis occupation of Yugoslavia\": 0.882}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Mongols",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Baitag Bogd",
+        "pred_score": 0.8597,
+        "topk_score_info": "{\"Battle of Baitag Bogd\": 0.86, \"Soviet intervention in Mongolia\": 0.854, \"Mongolian Revolution of 1990\": 0.849}",
+        "rank": 323,
+        "correct": false
+    },
+    {
+        "head": "Trsat",
+        "relation": "inverse has place",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Battle of Livno",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"Battle of Livno\": 0.906, \"Battle of Kupres (1942)\": 0.902, \"Battle of Zvornik\": 0.897}",
+        "rank": 56,
+        "correct": false
+    },
+    {
+        "head": "Duchy of Croatia",
+        "relation": "inverse has place",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.89, \"Siege of Rogatica (1941)\": 0.888, \"Partisan Long March\": 0.885}",
+        "rank": 77,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of Grobnik Field\": 0.837}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Khadan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Consolidation of the Iranian Revolution",
+        "pred_score": 0.8549,
+        "topk_score_info": "{\"Consolidation of the Iranian Revolution\": 0.855, \"Battle of Shamli\": 0.849, \"Battle of Qala-i-Jangi\": 0.846}",
+        "rank": 92,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Serb-Catholic movement in Dubrovnik",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 208,
+        "correct": false
+    },
+    {
+        "head": "Franks",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Franks",
+        "pred_score": 0.8384,
+        "topk_score_info": "{\"Franks\": 0.838, \"Franco-Prussian War\": 0.784, \"The Anarchy\": 0.782}",
+        "rank": 237,
+        "correct": false
+    },
+    {
+        "head": "Kadan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Soviet intervention in Mongolia",
+        "pred_score": 0.8154,
+        "topk_score_info": "{\"Soviet intervention in Mongolia\": 0.815, \"Battle of Baitag Bogd\": 0.813, \"Tulip Revolution\": 0.813}",
+        "rank": 145,
+        "correct": false
+    },
+    {
+        "head": "Croats",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Siege of Rogatica (1941)",
+        "pred_score": 0.9048,
+        "topk_score_info": "{\"Siege of Rogatica (1941)\": 0.905, \"Biha\\u0107 operation\": 0.905, \"June 1941 uprising in eastern Herzegovina\": 0.902}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "Croats",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Siege of Rogatica (1941)",
+        "pred_score": 0.9048,
+        "topk_score_info": "{\"Siege of Rogatica (1941)\": 0.905, \"Biha\\u0107 operation\": 0.905, \"June 1941 uprising in eastern Herzegovina\": 0.902}",
+        "rank": 142,
+        "correct": false
+    },
+    {
+        "head": "Bombing",
+        "relation": "inverse event type",
+        "tail": "Podujevo bus bombing",
+        "pred_tail": "First World War",
+        "pred_score": 0.8283,
+        "topk_score_info": "{\"First World War\": 0.828, \"Mal\\u00ea Revolt\": 0.817, \"June Revolution\": 0.802}",
+        "rank": 346,
+        "correct": false
+    },
+    {
+        "head": "Béla IV of Hungary",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Battle of Saint Gotthard (1705)",
+        "pred_score": 0.8863,
+        "topk_score_info": "{\"Battle of Saint Gotthard (1705)\": 0.886, \"Battle of Koronc\\u00f3\": 0.869, \"Battle of M\\u00f3r\": 0.86}",
+        "rank": 73,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Podujevo bus bombing",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Mongol invasion of Europe",
+        "relation": "inverse sub event of",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Mongol invasion of Europe",
+        "pred_score": 0.937,
+        "topk_score_info": "{\"Mongol invasion of Europe\": 0.937, \"Russian Empire\": 0.826, \"Western Europe\": 0.819}",
+        "rank": 212,
+        "correct": false
+    },
+    {
+        "head": "Eric of Friuli",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Kingdom of Lombardy– Venetia",
+        "pred_score": 0.7614,
+        "topk_score_info": "{\"Kingdom of Lombardy\\u2013 Venetia\": 0.761, \"Eric of Friuli\": 0.759, \"Spring 1945 offensive in Italy\": 0.757}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "Višeslav of Croatia",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.8611,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.861, \"June 1941 uprising in eastern Herzegovina\": 0.858, \"Siege of Rogatica (1941)\": 0.856}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Batu Khan",
+        "relation": "inverse has actor",
+        "tail": "Battle of Grobnik Field",
+        "pred_tail": "Mongol invasion of Europe",
+        "pred_score": 0.8855,
+        "topk_score_info": "{\"Mongol invasion of Europe\": 0.885, \"Soviet intervention in Mongolia\": 0.872, \"Mongolian Revolution of 1921\": 0.862}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Killed in action",
+        "relation": "inverse has actor",
+        "tail": "Siege of Trsat",
+        "pred_tail": "Operation Steel Tiger",
+        "pred_score": 0.8304,
+        "topk_score_info": "{\"Operation Steel Tiger\": 0.83, \"Civil resistance\": 0.825, \"Battle of Carrizal\": 0.821}",
+        "rank": 1405,
+        "correct": false
+    },
+    {
+        "head": "Ante Marković",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Bihać operation",
+        "pred_score": 0.9093,
+        "topk_score_info": "{\"Biha\\u0107 operation\": 0.909, \"Siege of Rogatica (1941)\": 0.905, \"Attack on Kru\\u0161evac\": 0.903}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Blagoje Ad�%B Eić",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.9019,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.902, \"May 1941 Sanski Most revolt\": 0.893, \"Serbian Revolution\": 0.893}",
+        "rank": 122,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten-Day War",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "Milan Ku�%8 Dan",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Siege of Turjak",
+        "pred_score": 0.9128,
+        "topk_score_info": "{\"Siege of Turjak\": 0.913, \"Battle of Ko\\ufffd%8 Devje\": 0.913, \"Chetnik sabotage of Axis communication lines\": 0.897}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Veljko Kadijević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "May 1941 Sanski Most revolt",
+        "pred_score": 0.8863,
+        "topk_score_info": "{\"May 1941 Sanski Most revolt\": 0.886, \"Serbian Revolution\": 0.884, \"Battle of Ljubi\\u0107\": 0.884}",
+        "rank": 168,
+        "correct": false
+    },
+    {
+        "head": "Janez Janša",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Siege of Turjak",
+        "pred_score": 0.909,
+        "topk_score_info": "{\"Siege of Turjak\": 0.909, \"Battle of Ko\\ufffd%8 Devje\": 0.906, \"Ten-Day War\": 0.902}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Slovenia",
+        "relation": "inverse has place",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Zelengora",
+        "pred_score": 0.8761,
+        "topk_score_info": "{\"Battle of Zelengora\": 0.876, \"Battle of Batina\": 0.866, \"Battle of Ko\\ufffd%8 Devje\": 0.862}",
+        "rank": 45,
+        "correct": false
+    },
+    {
+        "head": "Igor Bav�%8 Dar",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Battle of Ko�%8 Devje",
+        "pred_score": 0.9164,
+        "topk_score_info": "{\"Battle of Ko\\ufffd%8 Devje\": 0.916, \"Siege of Turjak\": 0.913, \"Chetnik sabotage of Axis communication lines\": 0.91}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Lojze Peterle",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9111,
+        "topk_score_info": "{\"Ten-Day War\": 0.911, \"Battle of Ko\\ufffd%8 Devje\": 0.908, \"Siege of Turjak\": 0.898}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Konrad Kolšek",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.8949,
+        "topk_score_info": "{\"Ten-Day War\": 0.895, \"Biha\\u0107 operation\": 0.885, \"Siege of Turjak\": 0.881}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Aleksandar Vasiljević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Attack on Kruševac",
+        "pred_score": 0.908,
+        "topk_score_info": "{\"Attack on Kru\\u0161evac\": 0.908, \"Uprising in Serbia (1941)\": 0.9, \"Operation Mihailovic\": 0.898}",
+        "rank": 102,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Bosnia",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 277,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Croatia",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 268,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten Day War",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 239,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Global War on Terrorism",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 454,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "War in Slovenia",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 250,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Slovenian War of Independence",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 365,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "RCA",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 4418,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Fall of communism in Albania",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Mexican Armed Forces",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Armed Forces",
+        "pred_score": 0.8948,
+        "topk_score_info": "{\"Mexican Armed Forces\": 0.895, \"Mexican Navy\": 0.89, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.886}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.8823,
+        "topk_score_info": "{\"Chiapas conflict\": 0.882, \"Battle of Puruar\\u00e1n\": 0.859, \"Zapatista Army of National Liberation\": 0.857}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 104,
+        "correct": false
+    },
+    {
+        "head": "Comandanta Ramona",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Liberation Army of the South",
+        "pred_score": 0.8508,
+        "topk_score_info": "{\"Liberation Army of the South\": 0.851, \"Battle of Los Horcones\": 0.847, \"Siege of Chill\\u00e1n\": 0.838}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "Arturo Guzmán Decena",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8757,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.876, \"Mexican drug war\": 0.875, \"Zapatista Army of National Liberation\": 0.874}",
+        "rank": 57,
+        "correct": false
+    },
+    {
+        "head": "National Guard ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.9061,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.906, \"Federal Army\": 0.905, \"Ten Tragic Days\": 0.904}",
+        "rank": 55,
+        "correct": false
+    },
+    {
+        "head": "Ernesto Zedillo",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8891,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.889, \"Third Battle of Torre\\u00f3n\": 0.883, \"Second Battle of Topolobampo\": 0.876}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "Manuel Camacho Sol�%A Ds",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8859,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.886, \"Third Battle of Torre\\u00f3n\": 0.877, \"Mexican Dirty War\": 0.873}",
+        "rank": 61,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Carlos Salinas de Gortari",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8625,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.863, \"Battle of C\\ufffd%B Acuta\": 0.848, \"Spanish American wars of independence\": 0.839}",
+        "rank": 197,
+        "correct": false
+    },
+    {
+        "head": "Subcomandante Marcos",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8882,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.888, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.854, \"Second Battle of Topolobampo\": 0.852}",
+        "rank": 43,
+        "correct": false
+    },
+    {
+        "head": "Federal Police ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Third Battle of Torreón",
+        "pred_score": 0.9124,
+        "topk_score_info": "{\"Third Battle of Torre\\u00f3n\": 0.912, \"Federal Army\": 0.912, \"Mexican Dirty War\": 0.911}",
+        "rank": 58,
+        "correct": false
+    },
+    {
+        "head": "Vidal Francisco Soberón Sanz",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8823,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.882, \"Siege of Acapulco (1813)\": 0.881, \"Third Battle of Torre\\u00f3n\": 0.879}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 44,
+        "correct": false
+    },
+    {
+        "head": "Mexican Army",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Federal Army",
+        "pred_score": 0.8984,
+        "topk_score_info": "{\"Federal Army\": 0.898, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.894, \"Zapatista Army of National Liberation\": 0.893}",
+        "rank": 83,
+        "correct": false
+    },
+    {
+        "head": "Tamaulipas",
+        "relation": "inverse has place",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_score": 0.8454,
+        "topk_score_info": "{\"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.845, \"Zapatista Army of National Liberation\": 0.842, \"Siege of Acapulco (1813)\": 0.841}",
+        "rank": 207,
+        "correct": false
+    },
+    {
+        "head": "Salvador Cienfuegos",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8905,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.891, \"Siege of Acapulco (1813)\": 0.876, \"Battle of Cuautla (1911)\": 0.873}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Acteal massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 130,
+        "correct": false
+    },
+    {
+        "head": "Antonio Cárdenas Guillén",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8609,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.861, \"Siege of Chill\\u00e1n\": 0.839, \"Battle of C\\ufffd%B Acuta\": 0.832}",
+        "rank": 299,
+        "correct": false
+    },
+    {
+        "head": "Quintana Roo",
+        "relation": "inverse has place",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8304,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.83, \"Battle of Cancha Rayada (1814)\": 0.823, \"Battle of Aliaga\": 0.82}",
+        "rank": 258,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8923,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.892, \"Battle of Puruar\\u00e1n\": 0.877, \"Zapatista Army of National Liberation\": 0.876}",
+        "rank": 192,
+        "correct": false
+    },
+    {
+        "head": "Guillermo Galván Galván",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8935,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.894, \"Third Battle of Torre\\u00f3n\": 0.883, \"Zapatista Army of National Liberation\": 0.88}",
+        "rank": 62,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "War on drugs",
+        "pred_score": 0.9256,
+        "topk_score_info": "{\"War on drugs\": 0.926, \"Civil resistance\": 0.816, \"United Nations peacekeeping\": 0.81}",
+        "rank": 360,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 88,
+        "correct": false
+    },
+    {
+        "head": "Jorge Eduardo Costilla Sánchez",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8922,
+        "topk_score_info": "{\"Mexican drug war\": 0.892, \"Mexican Dirty War\": 0.888, \"Siege of Acapulco (1813)\": 0.884}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 164,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 446,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8628,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.863, \"Battle of C\\ufffd%B Acuta\": 0.835, \"Battle of Aliaga\": 0.833}",
+        "rank": 255,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "War on drugs",
+        "pred_score": 0.9256,
+        "topk_score_info": "{\"War on drugs\": 0.926, \"Civil resistance\": 0.816, \"United Nations peacekeeping\": 0.81}",
+        "rank": 3153,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 409,
+        "correct": false
+    },
+    {
+        "head": "Mariano Francisco Saynez Mendoza",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Third Battle of Torreón",
+        "pred_score": 0.8947,
+        "topk_score_info": "{\"Third Battle of Torre\\u00f3n\": 0.895, \"Siege of Acapulco (1813)\": 0.894, \"Mexican Dirty War\": 0.889}",
+        "rank": 73,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "inverse sub event of",
+        "tail": "Acteal massacre",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.8999,
+        "topk_score_info": "{\"Chiapas conflict\": 0.9, \"Zapatista uprising\": 0.893, \"Zapatista Army of National Liberation\": 0.865}",
+        "rank": 325,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8923,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.892, \"Battle of Puruar\\u00e1n\": 0.877, \"Zapatista Army of National Liberation\": 0.876}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Zapatista uprising",
+        "pred_score": 0.8626,
+        "topk_score_info": "{\"Zapatista uprising\": 0.863, \"Battle of Puruar\\u00e1n\": 0.859, \"Zapatista Army of National Liberation\": 0.857}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.879,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.879, \"Mexican drug war\": 0.863, \"Siege of Acapulco (1813)\": 0.855}",
+        "rank": 112,
+        "correct": false
+    },
+    {
+        "head": "Jorge Eduardo Costilla Sánchez",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.8922,
+        "topk_score_info": "{\"Mexican drug war\": 0.892, \"Mexican Dirty War\": 0.888, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.885}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of Puruarán",
+        "pred_score": 0.859,
+        "topk_score_info": "{\"Battle of Puruar\\u00e1n\": 0.859, \"Zapatista Army of National Liberation\": 0.857, \"Battle of Zacatecas (1811)\": 0.856}",
+        "rank": 396,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8867,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.887, \"Zapatista Army of National Liberation\": 0.885, \"Siege of Acapulco (1813)\": 0.884}",
+        "rank": 194,
+        "correct": false
+    },
+    {
+        "head": "Mariano Francisco Saynez Mendoza",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Third Battle of Torreón",
+        "pred_score": 0.8947,
+        "topk_score_info": "{\"Third Battle of Torre\\u00f3n\": 0.895, \"Siege of Acapulco (1813)\": 0.894, \"Mexican Dirty War\": 0.889}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "José Rafael Ojeda Durán",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8921,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.892, \"Siege of Acapulco (1813)\": 0.888, \"Battle of Casas Grandes\": 0.885}",
+        "rank": 48,
+        "correct": false
+    },
+    {
+        "head": "Mass murder",
+        "relation": "inverse event type",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Mass murder",
+        "pred_score": 0.9244,
+        "topk_score_info": "{\"Mass murder\": 0.924, \"Kidnapping\": 0.871, \"Murder\": 0.85}",
+        "rank": 1785,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 209,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8923,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.892, \"Battle of Puruar\\u00e1n\": 0.877, \"Zapatista Army of National Liberation\": 0.876}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.879,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.879, \"Mexican drug war\": 0.863, \"Siege of Acapulco (1813)\": 0.855}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.8999,
+        "topk_score_info": "{\"Chiapas conflict\": 0.9, \"Zapatista uprising\": 0.893, \"Zapatista Army of National Liberation\": 0.865}",
+        "rank": 98,
+        "correct": false
+    },
+    {
+        "head": "Mexican army",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Zacatecas (1811)",
+        "pred_score": 0.8885,
+        "topk_score_info": "{\"Battle of Zacatecas (1811)\": 0.888, \"Siege of Acapulco (1813)\": 0.883, \"Third Battle of Torre\\u00f3n\": 0.877}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.879,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.879, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.866, \"Mexican drug war\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8867,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.887, \"Zapatista Army of National Liberation\": 0.885, \"Siege of Acapulco (1813)\": 0.884}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8642,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.864, \"First Battle of Torre\\u00f3n\": 0.852, \"Third Battle of Torre\\u00f3n\": 0.849}",
+        "rank": 292,
+        "correct": false
+    },
+    {
+        "head": "Infighting in the Gulf Cartel",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in the Gulf Cartel",
+        "pred_score": 0.8877,
+        "topk_score_info": "{\"Infighting in the Gulf Cartel\": 0.888, \"Infighting in Los Zetas\": 0.835, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.818}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8521,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.852, \"Siege of Acapulco (1813)\": 0.827, \"First Battle of Torre\\u00f3n\": 0.826}",
+        "rank": 368,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Zapatista Army of National Liberation",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 170,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8779,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.878, \"Mexican drug war\": 0.878, \"Zapatista uprising\": 0.876}",
+        "rank": 48,
+        "correct": false
+    },
+    {
+        "head": "Antonio Cárdenas Guillén",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8609,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.861, \"Siege of Chill\\u00e1n\": 0.839, \"Battle of C\\ufffd%B Acuta\": 0.832}",
+        "rank": 186,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8642,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.864, \"First Battle of Torre\\u00f3n\": 0.852, \"Third Battle of Torre\\u00f3n\": 0.849}",
+        "rank": 158,
+        "correct": false
+    },
+    {
+        "head": "Felipe Calderón",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8923,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.892, \"Battle of Puruar\\u00e1n\": 0.877, \"Zapatista Army of National Liberation\": 0.876}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "Honduras",
+        "relation": "inverse has place",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Nicaraguan Revolution",
+        "pred_score": 0.8272,
+        "topk_score_info": "{\"Nicaraguan Revolution\": 0.827, \"1811 Independence Movement\": 0.783, \"1944 Guatemalan presidential election\": 0.78}",
+        "rank": 263,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8521,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.852, \"Siege of Acapulco (1813)\": 0.827, \"First Battle of Torre\\u00f3n\": 0.826}",
+        "rank": 190,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Money laundering",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 157,
+        "correct": false
+    },
+    {
+        "head": "Knights Templar Cartel",
+        "relation": "inverse has actor",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.9018,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.902, \"Zapatista uprising\": 0.89, \"Candelaria border incursion of 1919\": 0.885}",
+        "rank": 72,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8642,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.864, \"First Battle of Torre\\u00f3n\": 0.852, \"Third Battle of Torre\\u00f3n\": 0.849}",
+        "rank": 45,
+        "correct": false
+    },
+    {
+        "head": "Infighting in Los Zetas",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Infighting in Los Zetas",
+        "pred_score": 0.9147,
+        "topk_score_info": "{\"Infighting in Los Zetas\": 0.915, \"Zapatista Army of National Liberation\": 0.85, \"Los Zetas\": 0.846}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Miguel Treviño Morales",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.879,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.879, \"Mexican drug war\": 0.863, \"Siege of Acapulco (1813)\": 0.855}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Jalisco",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Temalaca",
+        "pred_score": 0.8766,
+        "topk_score_info": "{\"Battle of Temalaca\": 0.877, \"Siege of Acapulco (1813)\": 0.869, \"Battle of Los Horcones\": 0.867}",
+        "rank": 415,
+        "correct": false
+    },
+    {
+        "head": "War on drugs",
+        "relation": "inverse sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "War on drugs",
+        "pred_score": 0.9256,
+        "topk_score_info": "{\"War on drugs\": 0.926, \"Civil resistance\": 0.816, \"United Nations peacekeeping\": 0.81}",
+        "rank": 1263,
+        "correct": false
+    },
+    {
+        "head": "Luis Cresencio Sandoval",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8867,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.887, \"Zapatista Army of National Liberation\": 0.885, \"Siege of Acapulco (1813)\": 0.884}",
+        "rank": 96,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.9058,
+        "topk_score_info": "{\"Mexican drug war\": 0.906, \"Infighting in the Gulf Cartel\": 0.893, \"Zapatista Army of National Liberation\": 0.893}",
+        "rank": 42,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8521,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.852, \"Siege of Acapulco (1813)\": 0.827, \"First Battle of Torre\\u00f3n\": 0.826}",
+        "rank": 42,
+        "correct": false
+    },
+    {
+        "head": "Guillermo Galván Galván",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican Dirty War",
+        "pred_score": 0.8935,
+        "topk_score_info": "{\"Mexican Dirty War\": 0.894, \"Third Battle of Torre\\u00f3n\": 0.883, \"Zapatista Army of National Liberation\": 0.88}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8967,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.897, \"Mexican drug war\": 0.895, \"Federal Army\": 0.882}",
+        "rank": 86,
+        "correct": false
+    },
+    {
+        "head": "Jalisco%2 C Mexico",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.8939,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.894, \"Second Battle of Tijuana\": 0.887, \"Battle of Escamela\": 0.884}",
+        "rank": 109,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Gulf Cartel",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Mexican drug war",
+        "pred_score": 0.9058,
+        "topk_score_info": "{\"Mexican drug war\": 0.906, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.901, \"Infighting in the Gulf Cartel\": 0.893}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Guadalajara",
+        "relation": "inverse has place",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8779,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.878, \"Battle of Puruar\\u00e1n\": 0.863, \"Third Battle of Torre\\u00f3n\": 0.862}",
+        "rank": 193,
+        "correct": false
+    },
+    {
+        "head": "Mexican Navy",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Mexican Navy",
+        "pred_score": 0.9105,
+        "topk_score_info": "{\"Mexican Navy\": 0.911, \"Federal Army\": 0.901, \"Mexican drug war\": 0.895}",
+        "rank": 97,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Ojo de Agua Raid",
+        "pred_score": 0.8533,
+        "topk_score_info": "{\"Ojo de Agua Raid\": 0.853, \"Candelaria border incursion of 1919\": 0.846, \"Battle of Casas Grandes\": 0.844}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8628,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.863, \"Battle of C\\ufffd%B Acuta\": 0.835, \"Battle of Aliaga\": 0.833}",
+        "rank": 382,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Ojo de Agua Raid",
+        "pred_score": 0.8533,
+        "topk_score_info": "{\"Ojo de Agua Raid\": 0.853, \"Candelaria border incursion of 1919\": 0.846, \"Battle of Casas Grandes\": 0.844}",
+        "rank": 70,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8967,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.897, \"Mexican drug war\": 0.895, \"Federal Army\": 0.882}",
+        "rank": 46,
+        "correct": false
+    },
+    {
+        "head": "Acteal",
+        "relation": "inverse has place",
+        "tail": "Acteal massacre",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.8954,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Siege of Cuautla\": 0.895, \"Battle of La Chinc\\ufffd%B Aa\": 0.894}",
+        "rank": 340,
+        "correct": false
+    },
+    {
+        "head": "Nuevo León",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Puruarán",
+        "pred_score": 0.8734,
+        "topk_score_info": "{\"Battle of Puruar\\u00e1n\": 0.873, \"Siege of Acapulco (1813)\": 0.873, \"Battle of Puerto de Pi\\u00f1ones\": 0.872}",
+        "rank": 85,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Jalisco New Generation Cartel",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 1253,
+        "correct": false
+    },
+    {
+        "head": "José Rafael Ojeda Durán",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8921,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.892, \"Siege of Acapulco (1813)\": 0.888, \"Battle of Casas Grandes\": 0.885}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Mexican Drug War",
+        "relation": "inverse sub event of",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Ojo de Agua Raid",
+        "pred_score": 0.8533,
+        "topk_score_info": "{\"Ojo de Agua Raid\": 0.853, \"Candelaria border incursion of 1919\": 0.846, \"Battle of Casas Grandes\": 0.844}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8628,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.863, \"Battle of C\\ufffd%B Acuta\": 0.835, \"Battle of Aliaga\": 0.833}",
+        "rank": 191,
+        "correct": false
+    },
+    {
+        "head": "Los Zetas",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8967,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.897, \"Mexican drug war\": 0.895, \"Joint Operation Nuevo Le\\u00f3n-Tamaulipas\": 0.889}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Heriberto Lazcano Lazcano",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8642,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.864, \"First Battle of Torre\\u00f3n\": 0.852, \"Third Battle of Torre\\u00f3n\": 0.849}",
+        "rank": 181,
+        "correct": false
+    },
+    {
+        "head": "Enrique Peña Nieto",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8521,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.852, \"Siege of Acapulco (1813)\": 0.827, \"First Battle of Torre\\u00f3n\": 0.826}",
+        "rank": 237,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Zapatista Army of National Liberation",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Zapatista uprising",
+        "pred_tail": "Battle of Cuautla (1911)",
+        "pred_score": 0.895,
+        "topk_score_info": "{\"Battle of Cuautla (1911)\": 0.895, \"Second Battle of Tijuana\": 0.886, \"Battle of Zacatecas (1914)\": 0.878}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Andrés Manuel López Obrador",
+        "relation": "inverse has actor",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Los Horcones",
+        "pred_score": 0.8628,
+        "topk_score_info": "{\"Battle of Los Horcones\": 0.863, \"Battle of C\\ufffd%B Acuta\": 0.835, \"Battle of Aliaga\": 0.833}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "Vidal Francisco Soberón Sanz",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8823,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.882, \"Siege of Acapulco (1813)\": 0.881, \"Third Battle of Torre\\u00f3n\": 0.879}",
+        "rank": 54,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8779,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.878, \"Mexican drug war\": 0.878, \"Zapatista uprising\": 0.876}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Mexican drug war",
+        "relation": "inverse sub event of",
+        "tail": "Gulf Cartel",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8779,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.878, \"Mexican drug war\": 0.878, \"Zapatista uprising\": 0.876}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Murder",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 239,
+        "correct": false
+    },
+    {
+        "head": "Gulf cartel",
+        "relation": "inverse has actor",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Battle of Cancha Rayada (1814)",
+        "pred_score": 0.8394,
+        "topk_score_info": "{\"Battle of Cancha Rayada (1814)\": 0.839, \"Battle of Carrizal\": 0.829, \"Battle of Temalaca\": 0.818}",
+        "rank": 907,
+        "correct": false
+    },
+    {
+        "head": "Nuevo Leon",
+        "relation": "inverse has place",
+        "tail": "Infighting in Los Zetas",
+        "pred_tail": "Siege of Acapulco (1813)",
+        "pred_score": 0.8622,
+        "topk_score_info": "{\"Siege of Acapulco (1813)\": 0.862, \"Battle of Zacatecas (1811)\": 0.861, \"Battle of Puruar\\u00e1n\": 0.852}",
+        "rank": 119,
+        "correct": false
+    },
+    {
+        "head": "Nuevo León",
+        "relation": "inverse has place",
+        "tail": "Joint Operation Nuevo León-Tamaulipas",
+        "pred_tail": "Battle of Puruarán",
+        "pred_score": 0.8734,
+        "topk_score_info": "{\"Battle of Puruar\\u00e1n\": 0.873, \"Siege of Acapulco (1813)\": 0.873, \"Battle of Puerto de Pi\\u00f1ones\": 0.872}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kidnapping",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "Salvador Cienfuegos",
+        "relation": "inverse has actor",
+        "tail": "Operation Quintana Roo",
+        "pred_tail": "Zapatista Army of National Liberation",
+        "pred_score": 0.8905,
+        "topk_score_info": "{\"Zapatista Army of National Liberation\": 0.891, \"Siege of Acapulco (1813)\": 0.876, \"Battle of Cuautla (1911)\": 0.873}",
+        "rank": 54,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Altamira prison brawl",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 163,
+        "correct": false
+    },
+    {
+        "head": "Inspector General of Police ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "2005 Nepal coup d'état",
+        "pred_score": 0.9133,
+        "topk_score_info": "{\"2005 Nepal coup d'\\u00e9tat\": 0.913, \"Battle of Bhalubang\": 0.907, \"Nepalese Civil War\": 0.9}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Girija Prasad Koirala",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8843,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.884, \"Nepalese Civil War\": 0.881, \"2005 Nepal coup d'\\u00e9tat\": 0.871}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Birendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8808,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.881, \"King of Nepal\": 0.879, \"Nepalese Civil War\": 0.877}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.8945,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.895, \"Battle of Bhalubang\": 0.892, \"Second Battle of Khara\": 0.885}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Baburam Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.917,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.917, \"Battle of Bhalubang\": 0.914, \"Second Battle of Khara\": 0.894}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mohan Baidya",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9282,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.928, \"Nepalese Civil War\": 0.928, \"2005 Nepal coup d'\\u00e9tat\": 0.909}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Pradip Shumsher J.B.R.",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9275,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.928, \"Nepalese Civil War\": 0.918, \"Second Battle of Khara\": 0.914}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Moti Lal Bohora",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9258,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.926, \"Nepalese Civil War\": 0.919, \"2005 Nepal coup d'\\u00e9tat\": 0.912}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.887,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.887, \"Battle of Bhalubang\": 0.884, \"2005 Nepal coup d'\\u00e9tat\": 0.861}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9209,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.921, \"Nepalese Civil War\": 0.92, \"Second Battle of Khara\": 0.881}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8759,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.876, \"Nepalese Civil War\": 0.868, \"2005 Nepal coup d'\\u00e9tat\": 0.855}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Lokendra Bahadur Chand",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9118,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.912, \"Nepalese Civil War\": 0.91, \"2005 Nepal coup d'\\u00e9tat\": 0.889}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Om Bikram Rana",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9462,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.946, \"Nepalese Civil War\": 0.94, \"2005 Nepal coup d'\\u00e9tat\": 0.93}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Achyut Krishna Kharel",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9302,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.93, \"Nepalese Civil War\": 0.925, \"2005 Nepal coup d'\\u00e9tat\": 0.909}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Biplav",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8808,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.881, \"Nepalese Civil War\": 0.873, \"2005 Nepal coup d'\\u00e9tat\": 0.861}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "King of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9153,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.915, \"Nepalese Civil War\": 0.911, \"Second Battle of Khara\": 0.909}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Shyam Bhakta Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9188,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.919, \"Nepalese Civil War\": 0.912, \"2005 Nepal coup d'\\u00e9tat\": 0.903}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Dharmapaal Barsingh Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8957,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.896, \"Nepalese Civil War\": 0.891, \"2005 Nepal coup d'\\u00e9tat\": 0.88}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Rookmangud Katawal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9187,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.919, \"Battle of Bhalubang\": 0.918, \"Second Battle of Khara\": 0.907}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 36,
+        "correct": false
+    },
+    {
+        "head": "Dhruba Bahadur Pradhan",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9255,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.926, \"Nepalese Civil War\": 0.921, \"2005 Nepal coup d'\\u00e9tat\": 0.908}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Chief of Army Staff ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9002,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.9, \"Nepalese Civil War\": 0.895, \"2005 Nepal coup d'\\u00e9tat\": 0.887}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.912,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.912, \"Battle of Bhalubang\": 0.908, \"2005 Nepal coup d'\\u00e9tat\": 0.893}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8792,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.879, \"Nepalese Civil War\": 0.875, \"Second Battle of Khara\": 0.866}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Krishna Prasad Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9107,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.911, \"Battle of Bhalubang\": 0.909, \"2005 Nepal coup d'\\u00e9tat\": 0.891}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Surya Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.887,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.887, \"Nepalese Civil War\": 0.883, \"Second Battle of Khara\": 0.876}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Prime Minister of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9228,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.923, \"2005 Nepal coup d'\\u00e9tat\": 0.921, \"Battle of Bhalubang\": 0.92}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Ram Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8881,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.888, \"Nepalese Civil War\": 0.884, \"2005 Nepal coup d'\\u00e9tat\": 0.882}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9075,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.908, \"2005 Nepal coup d'\\u00e9tat\": 0.893, \"Second Battle of Khara\": 0.872}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 48,
+        "correct": false
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8759,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.876, \"Second Battle of Khara\": 0.861, \"2005 Nepal coup d'\\u00e9tat\": 0.855}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8919,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.892, \"Second Battle of Khara\": 0.885, \"2005 Nepal coup d'\\u00e9tat\": 0.852}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8838,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.884, \"Second Battle of Khara\": 0.876, \"2005 Nepal coup d'\\u00e9tat\": 0.861}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9209,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.921, \"2005 Nepal coup d'\\u00e9tat\": 0.9, \"Second Battle of Khara\": 0.881}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Dang District%2 C Nepal",
+        "relation": "inverse has place",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.8986,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.899, \"Battle of Bhalubang\": 0.893, \"Nepalese Civil War\": 0.891}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Janardan Sharma",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8699,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.87, \"Nepalese Civil War\": 0.859, \"Second Battle of Khara\": 0.851}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.8792,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.879, \"Second Battle of Khara\": 0.866, \"2005 Nepal coup d'\\u00e9tat\": 0.856}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Bhalubang",
+        "relation": "inverse has place",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9193,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.919, \"Nepalese Civil War\": 0.916, \"Second Battle of Khara\": 0.902}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Bhalubang",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "inverse sub event of",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9028,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.903, \"2005 Nepal coup d'\\u00e9tat\": 0.898, \"Battle of Bhalubang\": 0.883}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Krishna Bahadur Mahara",
+        "relation": "inverse has actor",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9236,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.924, \"Battle of Bhalubang\": 0.916, \"2005 Nepal coup d'\\u00e9tat\": 0.898}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Rukum District",
+        "relation": "inverse has place",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.908,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.908, \"Battle of Bhalubang\": 0.888, \"Nepalese Civil War\": 0.881}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Khara%2 C Nepal",
+        "relation": "inverse has place",
+        "tail": "Second Battle of Khara",
+        "pred_tail": "Battle of Bhalubang",
+        "pred_score": 0.9155,
+        "topk_score_info": "{\"Battle of Bhalubang\": 0.915, \"Nepalese Civil War\": 0.913, \"2005 Nepal coup d'\\u00e9tat\": 0.875}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Kathmandu",
+        "relation": "inverse has place",
+        "tail": "2005 Nepal coup d'état",
+        "pred_tail": "Second Battle of Khara",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"Second Battle of Khara\": 0.919, \"Battle of Bhalubang\": 0.892, \"Nepalese Civil War\": 0.891}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "Pink tide",
+        "relation": "inverse sub event of",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Pink tide",
+        "pred_score": 0.9088,
+        "topk_score_info": "{\"Pink tide\": 0.909, \"Henrique Mitchell de Paiva Couceiro\": 0.836, \"J\\ufffd%B Alio de Mesquita Filho\": 0.833}",
+        "rank": 290,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Foro de São Paulo",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 3270,
+        "correct": false
+    },
+    {
+        "head": "Serbia and Montenegro",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Serbia and Montenegro",
+        "pred_score": 0.9411,
+        "topk_score_info": "{\"Serbia and Montenegro\": 0.941, \"Socialist Federal Republic of Yugoslavia\": 0.905, \"World War II in Yugoslavia\": 0.89}",
+        "rank": 141,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Siege of Belgrade (1806)",
+        "pred_score": 0.9058,
+        "topk_score_info": "{\"Siege of Belgrade (1806)\": 0.906, \"Belgrade offensive\": 0.902, \"\\ufffd%8 Cegar\": 0.892}",
+        "rank": 56,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second EDSA Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 118,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Rose Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "Rose Revolution",
+        "pred_tail": "Georgian– Armenian War",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"Georgian\\u2013 Armenian War\": 0.884, \"Crimean War\": 0.855, \"Rose Revolution\": 0.837}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "European integration",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 545,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Aslan Abashidze",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.903,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.903, \"Georgian\\u2013 Armenian War\": 0.897, \"Rose Revolution\": 0.873}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Adjara",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Georgian– Armenian War",
+        "pred_score": 0.894,
+        "topk_score_info": "{\"Georgian\\u2013 Armenian War\": 0.894, \"2004 Adjara crisis\": 0.889, \"Rose Revolution\": 0.853}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.8871,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.887, \"Georgian\\u2013 Armenian War\": 0.884, \"Crimean War\": 0.855}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mikheil Saakashvili",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9048,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.905, \"Georgian\\u2013 Armenian War\": 0.9, \"Rose Revolution\": 0.892}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Orange Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 90,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Ukrainian presidential election",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Ukraine",
+        "relation": "inverse has place",
+        "tail": "2004 Ukrainian presidential election",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.8899,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.89, \"Kiev Bolshevik Uprising\": 0.876, \"2004 Ukrainian presidential election\": 0.876}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Cedar Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 81,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.8784,
+        "topk_score_info": "{\"Tulip Revolution\": 0.878, \"Andijan massacre\": 0.829, \"Peasant rebellion of Sorokino\": 0.828}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Andijan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.8512,
+        "topk_score_info": "{\"Tulip Revolution\": 0.851, \"1979 Kurdish rebellion in Iran\": 0.839, \"Soviet intervention in Mongolia\": 0.833}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Uzbekistan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Soviet intervention in Mongolia",
+        "pred_score": 0.8437,
+        "topk_score_info": "{\"Soviet intervention in Mongolia\": 0.844, \"Pitchfork uprising\": 0.841, \"11 December 2013 Euromaidan assault\": 0.828}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Andijan massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Myanmar",
+        "relation": "inverse has place",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.87,
+        "topk_score_info": "{\"Saffron Revolution\": 0.87, \"Indochina Wars\": 0.82, \"Shan United Revolutionary Army\": 0.817}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Civil resistance",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2009 Icelandic financial crisis protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.8293,
+        "topk_score_info": "{\"Andijan massacre\": 0.829, \"Peasant rebellion of Sorokino\": 0.828, \"Soviet intervention in Mongolia\": 0.827}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 331,
+        "correct": false
+    },
+    {
+        "head": "Jalal-Abad",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.8967,
+        "topk_score_info": "{\"Tulip Revolution\": 0.897, \"Kyrgyz Revolution of 2010\": 0.875, \"2010 South Kyrgyzstan ethnic clashes\": 0.836}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "inverse sub event of",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9399,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.94, \"Tulip Revolution\": 0.895, \"2010 South Kyrgyzstan ethnic clashes\": 0.894}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Osh",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.8766,
+        "topk_score_info": "{\"Tulip Revolution\": 0.877, \"Peasant rebellion of Sorokino\": 0.853, \"Pitchfork uprising\": 0.849}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Sogment",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "French Revolution of 1848",
+        "pred_score": 0.8231,
+        "topk_score_info": "{\"French Revolution of 1848\": 0.823, \"Battle of Rueil\": 0.819, \"Battle of Cancha Rayada (1814)\": 0.811}",
+        "rank": 1825,
+        "correct": false
+    },
+    {
+        "head": "So�%B Bx District",
+        "relation": "inverse has place",
+        "tail": "2010 South Kyrgyzstan ethnic clashes",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.8531,
+        "topk_score_info": "{\"Tulip Revolution\": 0.853, \"Andijan massacre\": 0.846, \"Crimean War\": 0.833}",
+        "rank": 55,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Spring",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 121,
+        "correct": false
+    },
+    {
+        "head": "International reactions to the Arab Spring",
+        "relation": "inverse sub event of",
+        "tail": "Impact of the Arab Spring",
+        "pred_tail": "International reactions to the Arab Spring",
+        "pred_score": 0.9599,
+        "topk_score_info": "{\"International reactions to the Arab Spring\": 0.96, \"Impact of the Arab Spring\": 0.917, \"Arab Spring\": 0.905}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Winter",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.849,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.849, \"Surafend affair\": 0.845, \"Arab Winter\": 0.827}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "North Africa",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Decolonisation of Africa",
+        "pred_score": 0.8888,
+        "topk_score_info": "{\"Decolonisation of Africa\": 0.889, \"East African campaign ( World War II)\": 0.87, \"Senussi campaign\": 0.85}",
+        "rank": 167,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 77,
+        "correct": false
+    },
+    {
+        "head": "Bahrain",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8459,
+        "topk_score_info": "{\"Battle of Saada\": 0.846, \"Battle of Taiz\": 0.843, \"Surafend affair\": 0.836}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Libya",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Second Italo-Senussi War",
+        "pred_score": 0.8679,
+        "topk_score_info": "{\"Second Italo-Senussi War\": 0.868, \"North African campaign\": 0.828, \"Senussi campaign\": 0.816}",
+        "rank": 54,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Impact of the Arab Spring",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "Salman of Saudi Arabia",
+        "relation": "inverse has actor",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Royal Saudi Air Force",
+        "pred_score": 0.9039,
+        "topk_score_info": "{\"Royal Saudi Air Force\": 0.904, \"1969 Saudi Arabian coup d'\\u00e9tat attempt\": 0.864, \"Qatar\\u2013 Saudi Arabia diplomatic conflict\": 0.844}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Tamim bin Hamad Al Thani",
+        "relation": "inverse has actor",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Mahdist War",
+        "pred_score": 0.8376,
+        "topk_score_info": "{\"Mahdist War\": 0.838, \"Battle of Saada\": 0.823, \"Battle of Sanaa (2011)\": 0.817}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Egypt",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Egyptian Revolution of 1919",
+        "pred_score": 0.9021,
+        "topk_score_info": "{\"Egyptian Revolution of 1919\": 0.902, \"June 2013 Egyptian protests\": 0.873, \"2013 Egyptian coup d'\\u00e9tat\": 0.866}",
+        "rank": 80,
+        "correct": false
+    },
+    {
+        "head": "Middle East",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Egyptian Revolution of 1919",
+        "pred_score": 0.8968,
+        "topk_score_info": "{\"Egyptian Revolution of 1919\": 0.897, \"Arab Winter\": 0.876, \"North African campaign\": 0.869}",
+        "rank": 47,
+        "correct": false
+    },
+    {
+        "head": "Syria",
+        "relation": "inverse has place",
+        "tail": "Qatar– Saudi Arabia diplomatic conflict",
+        "pred_tail": "Operation Active Fence",
+        "pred_score": 0.8507,
+        "topk_score_info": "{\"Operation Active Fence\": 0.851, \"Great Syrian Revolt\": 0.833, \"Battle of Aqaba\": 0.823}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "Tunisia",
+        "relation": "inverse has place",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "First Battle of El Djorf",
+        "pred_score": 0.8841,
+        "topk_score_info": "{\"First Battle of El Djorf\": 0.884, \"Battle of the borders ( Algerian war)\": 0.883, \"Battle of Bouzegza\": 0.883}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "San Miguel%2 C Manila",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Aliaga",
+        "pred_score": 0.9053,
+        "topk_score_info": "{\"Battle of Aliaga\": 0.905, \"Battle of Sambat\": 0.902, \"Escalante massacre\": 0.9}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Pullman Strike",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Mendiola Street",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Aliaga",
+        "pred_score": 0.9067,
+        "topk_score_info": "{\"Battle of Aliaga\": 0.907, \"Escalante massacre\": 0.906, \"Battle of Sambat\": 0.892}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Milwaukee%2 C Wisconsin",
+        "relation": "inverse has place",
+        "tail": "Bay View massacre",
+        "pred_tail": "First Battle of Komárom (1849)",
+        "pred_score": 0.7912,
+        "topk_score_info": "{\"First Battle of Kom\\u00e1rom (1849)\": 0.791, \"First Battle of V\\u00e1c (1849)\": 0.791, \"Battle of Warsaw (1831)\": 0.78}",
+        "rank": 91,
+        "correct": false
+    },
+    {
+        "head": "Malawi",
+        "relation": "inverse has place",
+        "tail": "2011 Malawian protests",
+        "pred_tail": "2011 Malawian protests",
+        "pred_score": 0.8816,
+        "topk_score_info": "{\"2011 Malawian protests\": 0.882, \"1971 Ugandan coup d'\\u00e9tat\": 0.819, \"Kwilu rebellion\": 0.814}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "North Adams%2 C Massachusetts",
+        "relation": "inverse has place",
+        "tail": "North Adams strike",
+        "pred_tail": "Battle of Kings Norton",
+        "pred_score": 0.7966,
+        "topk_score_info": "{\"Battle of Kings Norton\": 0.797, \"First Battle of Middlewich\": 0.794, \"1689 Boston revolt\": 0.793}",
+        "rank": 20,
+        "correct": false
+    },
+    {
+        "head": "Bahrain",
+        "relation": "inverse has place",
+        "tail": "Bahrain Tamarod",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8459,
+        "topk_score_info": "{\"Battle of Saada\": 0.846, \"Battle of Taiz\": 0.843, \"Surafend affair\": 0.836}",
+        "rank": 36,
+        "correct": false
+    },
+    {
+        "head": "Escalante%2 C Negros Occidental",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Battle of Barrio Yating",
+        "pred_score": 0.8862,
+        "topk_score_info": "{\"Battle of Barrio Yating\": 0.886, \"Philippine Revolution\": 0.881, \"Battle of Sambat\": 0.881}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Morewood massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 324,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Auto-Lite strike",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Delano grape strike",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 256,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Malawian protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 36,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Everett massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Jamestown%2 C Virginia",
+        "relation": "inverse has place",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Bacon's Rebellion",
+        "pred_score": 0.8447,
+        "topk_score_info": "{\"Bacon's Rebellion\": 0.845, \"Protestant Revolution ( Maryland)\": 0.82, \"1689 Boston revolt\": 0.804}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Constantinople",
+        "relation": "inverse has place",
+        "tail": "Kum Kapu demonstration",
+        "pred_tail": "Kasos Massacre",
+        "pred_score": 0.8949,
+        "topk_score_info": "{\"Kasos Massacre\": 0.895, \"Greek Civil War\": 0.885, \"Siege of Patras (1821)\": 0.879}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 130,
+        "correct": false
+    },
+    {
+        "head": "Everett%2 C Washington",
+        "relation": "inverse has place",
+        "tail": "Everett massacre",
+        "pred_tail": "Hawaii Democratic Revolution of 1954",
+        "pred_score": 0.7924,
+        "topk_score_info": "{\"Hawaii Democratic Revolution of 1954\": 0.792, \"Everett massacre\": 0.784, \"Bay View massacre\": 0.776}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "North Adams strike",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "Baltimore%2 C Maryland",
+        "relation": "inverse has place",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Battle of Adwalton Moor",
+        "pred_score": 0.7881,
+        "topk_score_info": "{\"Battle of Adwalton Moor\": 0.788, \"Battle of Warsaw (1831)\": 0.782, \"First World War\": 0.769}",
+        "rank": 444,
+        "correct": false
+    },
+    {
+        "head": "Westmoreland County%2 C Pennsylvania",
+        "relation": "inverse has place",
+        "tail": "Morewood massacre",
+        "pred_tail": "Morewood massacre",
+        "pred_score": 0.7619,
+        "topk_score_info": "{\"Morewood massacre\": 0.762, \"Battle of Boldon Hill\": 0.737, \"Battle of Adwalton Moor\": 0.736}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bay View massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Colony of Virginia",
+        "relation": "inverse has place",
+        "tail": "Bacon's Rebellion",
+        "pred_tail": "1689 Boston revolt",
+        "pred_score": 0.8717,
+        "topk_score_info": "{\"1689 Boston revolt\": 0.872, \"Bacon's Rebellion\": 0.863, \"Colony of Virginia\": 0.862}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bahrain Tamarod",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 999,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 49,
+        "correct": false
+    },
+    {
+        "head": "Negros Occidental",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Battle of Barrio Yating",
+        "pred_score": 0.8851,
+        "topk_score_info": "{\"Battle of Barrio Yating\": 0.885, \"Philippine Revolution\": 0.885, \"Battle of Sambat\": 0.879}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kum Kapu demonstration",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Philippines",
+        "relation": "inverse has place",
+        "tail": "Escalante massacre",
+        "pred_tail": "Battle of Barrio Yating",
+        "pred_score": 0.8812,
+        "topk_score_info": "{\"Battle of Barrio Yating\": 0.881, \"Escalante massacre\": 0.878, \"Hukbalahap Rebellion\": 0.877}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Shooting",
+        "relation": "inverse event type",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Shooting",
+        "pred_score": 0.8967,
+        "topk_score_info": "{\"Shooting\": 0.897, \"Coastal defence and fortification\": 0.843, \"Mutiny\": 0.838}",
+        "rank": 1149,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Escalante massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Philippines",
+        "relation": "inverse has place",
+        "tail": "Mendiola massacre",
+        "pred_tail": "Battle of Barrio Yating",
+        "pred_score": 0.8812,
+        "topk_score_info": "{\"Battle of Barrio Yating\": 0.881, \"Hukbalahap Rebellion\": 0.877, \"Siege of Baler\": 0.875}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Shooting",
+        "relation": "inverse event type",
+        "tail": "Escalante massacre",
+        "pred_tail": "Shooting",
+        "pred_score": 0.8967,
+        "topk_score_info": "{\"Shooting\": 0.897, \"Coastal defence and fortification\": 0.843, \"Mutiny\": 0.838}",
+        "rank": 905,
+        "correct": false
+    },
+    {
+        "head": "United States",
+        "relation": "inverse has place",
+        "tail": "Baltimore police strike",
+        "pred_tail": "Operation Steel Tiger",
+        "pred_score": 0.8006,
+        "topk_score_info": "{\"Operation Steel Tiger\": 0.801, \"Battle of Carrizal\": 0.792, \"Spanish American wars of independence\": 0.783}",
+        "rank": 702,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "November 2012 Jordanian protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 156,
+        "correct": false
+    },
+    {
+        "head": "Lebanon",
+        "relation": "inverse has place",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Surafend affair",
+        "pred_score": 0.8537,
+        "topk_score_info": "{\"Surafend affair\": 0.854, \"2011 Lebanese protests\": 0.846, \"Battle of Philippeville\": 0.829}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.849,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.849, \"Surafend affair\": 0.845, \"Arab Winter\": 0.827}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Sheikh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Arab Winter",
+        "pred_score": 0.8719,
+        "topk_score_info": "{\"Arab Winter\": 0.872, \"Battle of Saada\": 0.865, \"Battle of Taiz\": 0.864}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Uthman Mujalli",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Shamli",
+        "pred_score": 0.9061,
+        "topk_score_info": "{\"Battle of Shamli\": 0.906, \"Second Battle of Cawnpore\": 0.878, \"Siege of Arrah\": 0.877}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 365,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Taiz",
+        "pred_score": 0.8629,
+        "topk_score_info": "{\"Battle of Taiz\": 0.863, \"Saudi Arabian-led intervention in Yemen\": 0.849, \"Surafend affair\": 0.845}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8514,
+        "topk_score_info": "{\"Battle of Saada\": 0.851, \"Saudi Arabian-led intervention in Yemen\": 0.849, \"Surafend affair\": 0.845}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Sa'dah Governorate",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "March 1949 Syrian coup d'état",
+        "pred_score": 0.829,
+        "topk_score_info": "{\"March 1949 Syrian coup d'\\u00e9tat\": 0.829, \"Surafend affair\": 0.827, \"Battle of Aqaba\": 0.827}",
+        "rank": 47,
+        "correct": false
+    },
+    {
+        "head": "Taha Hajer",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Surafend affair",
+        "pred_score": 0.8387,
+        "topk_score_info": "{\"Surafend affair\": 0.839, \"Battle of Aqaba\": 0.834, \"1979 Kurdish rebellion in Iran\": 0.823}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Taiz",
+        "relation": "inverse has place",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Battle of Taiz",
+        "pred_score": 0.8824,
+        "topk_score_info": "{\"Battle of Taiz\": 0.882, \"Battle of Saada\": 0.88, \"Surafend affair\": 0.872}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Saada",
+        "relation": "inverse has place",
+        "tail": "Battle of Saada",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Battle of Saada\": 0.89, \"Battle of Taiz\": 0.886, \"Battle of Sanaa (2011)\": 0.885}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Abdrabbuh Mansur Hadi",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.874,
+        "topk_score_info": "{\"Battle of Saada\": 0.874, \"Surafend affair\": 0.869, \"Battle of Taiz\": 0.868}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Taiz",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Saada",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Fares Manaa",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.9, \"Battle of Sanaa (2011)\": 0.89, \"Battle of Saada\": 0.884}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.849,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.849, \"Battle of Sanaa (2011)\": 0.848, \"Surafend affair\": 0.845}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 70,
+        "correct": false
+    },
+    {
+        "head": "Sanaa",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8951,
+        "topk_score_info": "{\"Battle of Saada\": 0.895, \"Battle of Taiz\": 0.886, \"Saudi Arabian-led intervention in Yemen\": 0.87}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Ali Abdullah Saleh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.9204,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.92, \"Battle of Taiz\": 0.901, \"Battle of Saada\": 0.896}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Abu Ali Abdullah al-Hakim al-Houthi",
+        "relation": "inverse has actor",
+        "tail": "Battle of Saada",
+        "pred_tail": "Insurgency in Idlib",
+        "pred_score": 0.8884,
+        "topk_score_info": "{\"Insurgency in Idlib\": 0.888, \"Siege of Dammaj\": 0.87, \"Battle of Saada\": 0.87}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Ali Mohsen al-Ahmar",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Arab Winter",
+        "pred_score": 0.8739,
+        "topk_score_info": "{\"Arab Winter\": 0.874, \"Mahdist War\": 0.87, \"Battle of Sanaa (2011)\": 0.869}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Abdul Aziz Abdul Ghani",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Shamli",
+        "pred_score": 0.8719,
+        "topk_score_info": "{\"Battle of Shamli\": 0.872, \"Indo-Pakistani Naval War of 1971\": 0.851, \"Battle of Chinhat\": 0.844}",
+        "rank": 63,
+        "correct": false
+    },
+    {
+        "head": "Saada Governorate",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.8965,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.896, \"Battle of Saada\": 0.892, \"Battle of Taiz\": 0.888}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Dammaj",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Sanaa (2011)",
+        "pred_score": 0.8893,
+        "topk_score_info": "{\"Battle of Sanaa (2011)\": 0.889, \"Battle of Saada\": 0.885, \"Battle of Taiz\": 0.88}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Sana'a",
+        "relation": "inverse has place",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Battle of Aqaba",
+        "pred_score": 0.8326,
+        "topk_score_info": "{\"Battle of Aqaba\": 0.833, \"Surafend affair\": 0.798, \"Siege of Homs\": 0.793}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Saleh Habra",
+        "relation": "inverse has actor",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Battle of Saada",
+        "pred_score": 0.8492,
+        "topk_score_info": "{\"Battle of Saada\": 0.849, \"Surafend affair\": 0.841, \"March 1949 Syrian coup d'\\u00e9tat\": 0.839}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "Ahmed Saleh",
+        "relation": "inverse has actor",
+        "tail": "Battle of Sanaa (2011)",
+        "pred_tail": "Mahdist War",
+        "pred_score": 0.8797,
+        "topk_score_info": "{\"Mahdist War\": 0.88, \"Yemeni Revolution\": 0.869, \"Battle of Saada\": 0.862}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Siege of Dammaj",
+        "pred_tail": "Saudi Arabian-led intervention in Yemen",
+        "pred_score": 0.849,
+        "topk_score_info": "{\"Saudi Arabian-led intervention in Yemen\": 0.849, \"Surafend affair\": 0.845, \"Arab Winter\": 0.827}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Egyptian crisis (2011–2014)",
+        "relation": "inverse sub event of",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.8939,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.894, \"Egyptian Revolution of 1919\": 0.889, \"2013 Egyptian coup d'\\u00e9tat\": 0.886}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2013 Egyptian coup d'état",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 53,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Euromaidan",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 226,
+        "correct": false
+    },
+    {
+        "head": "Kyiv%2 C Ukraine",
+        "relation": "inverse has place",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "11 December 2013 Euromaidan assault",
+        "pred_score": 0.8882,
+        "topk_score_info": "{\"11 December 2013 Euromaidan assault\": 0.888, \"Kiev Bolshevik Uprising\": 0.882, \"Livny Uprising\": 0.866}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"11 December 2013 Euromaidan assault\": 0.844, \"Anglo-Spanish War (1796\\u20131808)\": 0.844}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Euromaidan",
+        "relation": "inverse sub event of",
+        "tail": "11 December 2013 Euromaidan assault",
+        "pred_tail": "Euromaidan",
+        "pred_score": 0.8986,
+        "topk_score_info": "{\"Euromaidan\": 0.899, \"Orange Revolution\": 0.884, \"2014 Ukrainian revolution\": 0.871}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Hilo",
+        "relation": "inverse has place",
+        "tail": "Hilo massacre",
+        "pred_tail": "Battle of Cancha Rayada (1814)",
+        "pred_score": 0.7981,
+        "topk_score_info": "{\"Battle of Cancha Rayada (1814)\": 0.798, \"Kolaka incident\": 0.79, \"Hawaii Democratic Revolution of 1954\": 0.787}",
+        "rank": 625,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2014 Ukrainian revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 259,
+        "correct": false
+    },
+    {
+        "head": "Hawaii",
+        "relation": "inverse has place",
+        "tail": "Hilo massacre",
+        "pred_tail": "Hilo massacre",
+        "pred_score": 0.7644,
+        "topk_score_info": "{\"Hilo massacre\": 0.764, \"Kolaka incident\": 0.735, \"June 4th revolution in Ghana\": 0.712}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Hilo massacre",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 122,
+        "correct": false
+    },
+    {
+        "head": "Police brutality",
+        "relation": "inverse event type",
+        "tail": "Hilo massacre",
+        "pred_tail": "Police brutality",
+        "pred_score": 0.9524,
+        "topk_score_info": "{\"Police brutality\": 0.952, \"Kidnapping\": 0.879, \"Civil resistance\": 0.866}",
+        "rank": 124,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Neolithic Revolution",
+        "pred_tail": "Revolutions of 1917–1923",
+        "pred_score": 0.8483,
+        "topk_score_info": "{\"Revolutions of 1917\\u20131923\": 0.848, \"Anglo-Spanish War (1796\\u20131808)\": 0.844, \"Battle of the River Plate\": 0.81}",
+        "rank": 7,
+        "correct": false
+    }
+]

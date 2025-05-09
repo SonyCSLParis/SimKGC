@@ -1,0 +1,1032 @@
+[
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "German reunification",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 133,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Velvet Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 677,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania",
+        "relation": "inverse has place",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Socialist Republic of Romania",
+        "pred_score": 0.9682,
+        "topk_score_info": "{\"Socialist Republic of Romania\": 0.968, \"Dealul Spirii\": 0.943, \"Wallachia\": 0.924}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Romanian Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 66,
+        "correct": false
+    },
+    {
+        "head": "Mongolian People's Republic",
+        "relation": "inverse has place",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Mongolian People's Republic",
+        "pred_score": 0.9704,
+        "topk_score_info": "{\"Mongolian People's Republic\": 0.97, \"Outer Mongolia\": 0.931, \"Darizavyn Losol\": 0.931}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Mongolian Revolution of 1990",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 253,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Log Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 829,
+        "correct": false
+    },
+    {
+        "head": "SFR Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "SFR Yugoslavia",
+        "pred_score": 0.9083,
+        "topk_score_info": "{\"SFR Yugoslavia\": 0.908, \"Serbia and Montenegro\": 0.905, \"Andrija Hebrang (father)\": 0.905}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "SR Croatia",
+        "relation": "inverse has place",
+        "tail": "Log Revolution",
+        "pred_tail": "Andrija Hebrang (father)",
+        "pred_score": 0.88,
+        "topk_score_info": "{\"Andrija Hebrang (father)\": 0.88, \"World War II in Yugoslav Macedonia\": 0.873, \"Serbia and Montenegro\": 0.873}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has place",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Belgrade",
+        "pred_score": 0.9789,
+        "topk_score_info": "{\"Belgrade\": 0.979, \"Milivoje Trbi\\u0107\": 0.955, \"Milovan \\u0110ilas\": 0.95}",
+        "rank": 99,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 188,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "inverse sub event of",
+        "tail": "1991 protests in Belgrade",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9371,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.937, \"Serbia and Montenegro\": 0.93, \"Ivan Go\\u0161njak\": 0.917}",
+        "rank": 73,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 325,
+        "correct": false
+    },
+    {
+        "head": "Yugoslavia",
+        "relation": "inverse has place",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "Kingdom of Yugoslavia",
+        "pred_score": 0.98,
+        "topk_score_info": "{\"Kingdom of Yugoslavia\": 0.98, \"Yugoslavia\": 0.977, \"World War II in Yugoslavia\": 0.966}",
+        "rank": 110,
+        "correct": false
+    },
+    {
+        "head": "Ante Marković",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Petar Drapšin",
+        "pred_score": 0.9621,
+        "topk_score_info": "{\"Petar Drap\\u0161in\": 0.962, \"Petar Ba\\u0107ovi\\u0107\": 0.96, \"Peko Dap\\ufffd%8 Devi\\u0107\": 0.96}",
+        "rank": 79,
+        "correct": false
+    },
+    {
+        "head": "Blagoje Ad�%B Eić",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Zeka Buljubaša",
+        "pred_score": 0.9733,
+        "topk_score_info": "{\"Zeka Buljuba\\u0161a\": 0.973, \"Petar Dobrnjac\": 0.971, \"Milivoje Trbi\\u0107\": 0.967}",
+        "rank": 103,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Ten-Day War",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 816,
+        "correct": false
+    },
+    {
+        "head": "Milan Ku�%8 Dan",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Milan Ku�%8 Dan",
+        "pred_score": 0.9685,
+        "topk_score_info": "{\"Milan Ku\\ufffd%8 Dan\": 0.968, \"Ten-Day War\": 0.956, \"Janez Jan\\u0161a\": 0.954}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Veljko Kadijević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Petar Drapšin",
+        "pred_score": 0.9717,
+        "topk_score_info": "{\"Petar Drap\\u0161in\": 0.972, \"Zeka Buljuba\\u0161a\": 0.97, \"Nikola Kalabi\\u0107\": 0.97}",
+        "rank": 104,
+        "correct": false
+    },
+    {
+        "head": "Janez Janša",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Janez Janša",
+        "pred_score": 0.978,
+        "topk_score_info": "{\"Janez Jan\\u0161a\": 0.978, \"Ten-Day War\": 0.955, \"Milan Ku\\ufffd%8 Dan\": 0.954}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Slovenia",
+        "relation": "inverse has place",
+        "tail": "Ten-Day War",
+        "pred_tail": "Slovenia",
+        "pred_score": 0.8978,
+        "topk_score_info": "{\"Slovenia\": 0.898, \"Andrija Hebrang (father)\": 0.871, \"File:Croatia-1848.gif\": 0.868}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Igor Bav�%8 Dar",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Igor Bav�%8 Dar",
+        "pred_score": 0.9665,
+        "topk_score_info": "{\"Igor Bav\\ufffd%8 Dar\": 0.966, \"Ten-Day War\": 0.942, \"Boris Kidri\\ufffd%8 D\": 0.941}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Lojze Peterle",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Lojze Peterle",
+        "pred_score": 0.9742,
+        "topk_score_info": "{\"Lojze Peterle\": 0.974, \"Ten-Day War\": 0.947, \"Milan Ku\\ufffd%8 Dan\": 0.946}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Konrad Kolšek",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Konrad Kolšek",
+        "pred_score": 0.9736,
+        "topk_score_info": "{\"Konrad Kol\\u0161ek\": 0.974, \"Karl Novak\": 0.959, \"Slavko Kvaternik\": 0.954}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Aleksandar Vasiljević",
+        "relation": "inverse has actor",
+        "tail": "Ten-Day War",
+        "pred_tail": "Aleksandar Vasiljević",
+        "pred_score": 0.9817,
+        "topk_score_info": "{\"Aleksandar Vasiljevi\\u0107\": 0.982, \"Petar Nikolajevi\\u0107 Moler\": 0.944, \"Milan Nedi\\u0107\": 0.943}",
+        "rank": 108,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Fall of communism in Albania",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Mexican Armed Forces",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexican Armed Forces",
+        "pred_score": 0.9727,
+        "topk_score_info": "{\"Mexican Armed Forces\": 0.973, \"Mexican Revolution\": 0.933, \"National Guard ( Mexico)\": 0.929}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Chiapas",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Chiapas",
+        "pred_score": 0.978,
+        "topk_score_info": "{\"Chiapas\": 0.978, \"Chiapas conflict\": 0.956, \"Mexican Revolution\": 0.928}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 689,
+        "correct": false
+    },
+    {
+        "head": "Comandanta Ramona",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Comandanta Ramona",
+        "pred_score": 0.9777,
+        "topk_score_info": "{\"Comandanta Ramona\": 0.978, \"Liberation Army of the South\": 0.939, \"Miguel Enr\\ufffd%A Dquez (politician)\": 0.933}",
+        "rank": 59,
+        "correct": false
+    },
+    {
+        "head": "Arturo Guzmán Decena",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Arturo Guzmán Decena",
+        "pred_score": 0.9685,
+        "topk_score_info": "{\"Arturo Guzm\\u00e1n Decena\": 0.969, \"Subcomandante Marcos\": 0.926, \"Divisi\\u00f3n del Norte\": 0.924}",
+        "rank": 35,
+        "correct": false
+    },
+    {
+        "head": "National Guard ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "National Guard ( Mexico)",
+        "pred_score": 0.9697,
+        "topk_score_info": "{\"National Guard ( Mexico)\": 0.97, \"Maderism\": 0.923, \"Mexican Revolution\": 0.922}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "Ernesto Zedillo",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Ernesto Zedillo",
+        "pred_score": 0.9546,
+        "topk_score_info": "{\"Ernesto Zedillo\": 0.955, \"Porfiriato\": 0.949, \"Constitutionalists in the Mexican Revolution\": 0.946}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Manuel Camacho Sol�%A Ds",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Manuel Camacho Sol�%A Ds",
+        "pred_score": 0.964,
+        "topk_score_info": "{\"Manuel Camacho Sol\\ufffd%A Ds\": 0.964, \"Constitutionalists in the Mexican Revolution\": 0.947, \"Porfiriato\": 0.942}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Mexico",
+        "relation": "inverse has place",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Mexico",
+        "pred_score": 0.9806,
+        "topk_score_info": "{\"Mexico\": 0.981, \"Cuautla%2 C Morelos\": 0.934, \"Chiapas\": 0.932}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Carlos Salinas de Gortari",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Revolución Libertadora",
+        "pred_score": 0.9573,
+        "topk_score_info": "{\"Revoluci\\u00f3n Libertadora\": 0.957, \"Santiago \\u00c1lvarez (general)\": 0.954, \"Francisco I. Madero\": 0.953}",
+        "rank": 185,
+        "correct": false
+    },
+    {
+        "head": "Subcomandante Marcos",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Subcomandante Marcos",
+        "pred_score": 0.9777,
+        "topk_score_info": "{\"Subcomandante Marcos\": 0.978, \"Comandanta Ramona\": 0.949, \"Divisi\\u00f3n del Norte\": 0.943}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Federal Police ( Mexico)",
+        "relation": "inverse has actor",
+        "tail": "Chiapas conflict",
+        "pred_tail": "Federal Police ( Mexico)",
+        "pred_score": 0.9605,
+        "topk_score_info": "{\"Federal Police ( Mexico)\": 0.96, \"National Guard ( Mexico)\": 0.926, \"Federal Army\": 0.915}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Inspector General of Police ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Inspector General of Police ( Nepal)",
+        "pred_score": 0.9812,
+        "topk_score_info": "{\"Inspector General of Police ( Nepal)\": 0.981, \"Om Bikram Rana\": 0.913, \"Shyam Bhakta Thapa\": 0.901}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Girija Prasad Koirala",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Girija Prasad Koirala",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Girija Prasad Koirala\": 0.98, \"Surya Bahadur Thapa\": 0.952, \"Shyam Bhakta Thapa\": 0.948}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Birendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Birendra of Nepal",
+        "pred_score": 0.9695,
+        "topk_score_info": "{\"Birendra of Nepal\": 0.969, \"Girija Prasad Koirala\": 0.958, \"Biplav\": 0.958}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Nepal",
+        "relation": "inverse has place",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nepal",
+        "pred_score": 0.9743,
+        "topk_score_info": "{\"Nepal\": 0.974, \"King of Nepal\": 0.95, \"Chief of Army Staff ( Nepal)\": 0.945}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Baburam Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Baburam Bhattarai",
+        "pred_score": 0.9625,
+        "topk_score_info": "{\"Baburam Bhattarai\": 0.962, \"Shyam Bhakta Thapa\": 0.956, \"Surya Bahadur Thapa\": 0.955}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Mohan Baidya",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Mohan Baidya",
+        "pred_score": 0.9765,
+        "topk_score_info": "{\"Mohan Baidya\": 0.976, \"Shyam Bhakta Thapa\": 0.953, \"Nepalese Civil War\": 0.947}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Pradip Shumsher J.B.R.",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Pradip Shumsher J.B.R.",
+        "pred_score": 0.9779,
+        "topk_score_info": "{\"Pradip Shumsher J.B.R.\": 0.978, \"Moti Lal Bohora\": 0.972, \"Om Bikram Rana\": 0.967}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Moti Lal Bohora",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Moti Lal Bohora",
+        "pred_score": 0.9811,
+        "topk_score_info": "{\"Moti Lal Bohora\": 0.981, \"Pradip Shumsher J.B.R.\": 0.969, \"Om Bikram Rana\": 0.962}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Pyar Jung Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Pyar Jung Thapa",
+        "pred_score": 0.9747,
+        "topk_score_info": "{\"Pyar Jung Thapa\": 0.975, \"Rookmangud Katawal\": 0.958, \"Chief of Army Staff ( Nepal)\": 0.956}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Gyanendra of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Gyanendra of Nepal",
+        "pred_score": 0.9837,
+        "topk_score_info": "{\"Gyanendra of Nepal\": 0.984, \"Surya Bahadur Thapa\": 0.948, \"King of Nepal\": 0.947}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Pushpa Kamal Dahal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Pushpa Kamal Dahal",
+        "pred_score": 0.9744,
+        "topk_score_info": "{\"Pushpa Kamal Dahal\": 0.974, \"Ram Bahadur Thapa\": 0.954, \"Girija Prasad Koirala\": 0.951}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Lokendra Bahadur Chand",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Lokendra Bahadur Chand",
+        "pred_score": 0.964,
+        "topk_score_info": "{\"Lokendra Bahadur Chand\": 0.964, \"Surya Bahadur Thapa\": 0.962, \"Shyam Bhakta Thapa\": 0.955}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Om Bikram Rana",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Om Bikram Rana",
+        "pred_score": 0.9838,
+        "topk_score_info": "{\"Om Bikram Rana\": 0.984, \"Pradip Shumsher J.B.R.\": 0.958, \"Moti Lal Bohora\": 0.955}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Achyut Krishna Kharel",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Achyut Krishna Kharel",
+        "pred_score": 0.9845,
+        "topk_score_info": "{\"Achyut Krishna Kharel\": 0.985, \"Dhruba Bahadur Pradhan\": 0.98, \"Moti Lal Bohora\": 0.965}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Biplav",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Biplav",
+        "pred_score": 0.9671,
+        "topk_score_info": "{\"Biplav\": 0.967, \"Pushpa Kamal Dahal\": 0.949, \"Girija Prasad Koirala\": 0.948}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "King of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "King of Nepal",
+        "pred_score": 0.9744,
+        "topk_score_info": "{\"King of Nepal\": 0.974, \"Gyanendra of Nepal\": 0.937, \"Shyam Bhakta Thapa\": 0.93}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Shyam Bhakta Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Shyam Bhakta Thapa",
+        "pred_score": 0.9763,
+        "topk_score_info": "{\"Shyam Bhakta Thapa\": 0.976, \"Surya Bahadur Thapa\": 0.953, \"Chief of Army Staff ( Nepal)\": 0.951}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Dharmapaal Barsingh Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Dharmapaal Barsingh Thapa",
+        "pred_score": 0.9631,
+        "topk_score_info": "{\"Dharmapaal Barsingh Thapa\": 0.963, \"Shyam Bhakta Thapa\": 0.958, \"Surya Bahadur Thapa\": 0.952}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Rookmangud Katawal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Rookmangud Katawal",
+        "pred_score": 0.9831,
+        "topk_score_info": "{\"Rookmangud Katawal\": 0.983, \"Nepalese Civil War\": 0.96, \"Dhruba Bahadur Pradhan\": 0.959}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 470,
+        "correct": false
+    },
+    {
+        "head": "Dhruba Bahadur Pradhan",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Dhruba Bahadur Pradhan",
+        "pred_score": 0.9799,
+        "topk_score_info": "{\"Dhruba Bahadur Pradhan\": 0.98, \"Achyut Krishna Kharel\": 0.965, \"Om Bikram Rana\": 0.96}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Chief of Army Staff ( Nepal)",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Chief of Army Staff ( Nepal)",
+        "pred_score": 0.9755,
+        "topk_score_info": "{\"Chief of Army Staff ( Nepal)\": 0.976, \"Shyam Bhakta Thapa\": 0.946, \"King of Nepal\": 0.943}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Nanda Kishor Pun",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Nanda Kishor Pun",
+        "pred_score": 0.9762,
+        "topk_score_info": "{\"Nanda Kishor Pun\": 0.976, \"Girija Prasad Koirala\": 0.96, \"Krishna Prasad Bhattarai\": 0.959}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Sher Bahadur Deuba",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Sher Bahadur Deuba",
+        "pred_score": 0.9622,
+        "topk_score_info": "{\"Sher Bahadur Deuba\": 0.962, \"Ram Bahadur Thapa\": 0.959, \"Girija Prasad Koirala\": 0.959}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Krishna Prasad Bhattarai",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Krishna Prasad Bhattarai",
+        "pred_score": 0.9685,
+        "topk_score_info": "{\"Krishna Prasad Bhattarai\": 0.968, \"Girija Prasad Koirala\": 0.963, \"Surya Bahadur Thapa\": 0.96}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Surya Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Surya Bahadur Thapa",
+        "pred_score": 0.966,
+        "topk_score_info": "{\"Surya Bahadur Thapa\": 0.966, \"Ram Bahadur Thapa\": 0.955, \"Shyam Bhakta Thapa\": 0.951}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Prime Minister of Nepal",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Chief of Army Staff ( Nepal)",
+        "pred_score": 0.9507,
+        "topk_score_info": "{\"Chief of Army Staff ( Nepal)\": 0.951, \"Prime Minister of Nepal\": 0.95, \"Shyam Bhakta Thapa\": 0.945}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Ram Bahadur Thapa",
+        "relation": "inverse has actor",
+        "tail": "Nepalese Civil War",
+        "pred_tail": "Ram Bahadur Thapa",
+        "pred_score": 0.9741,
+        "topk_score_info": "{\"Ram Bahadur Thapa\": 0.974, \"Surya Bahadur Thapa\": 0.958, \"Pushpa Kamal Dahal\": 0.957}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 242,
+        "correct": false
+    },
+    {
+        "head": "Pink tide",
+        "relation": "inverse sub event of",
+        "tail": "Bolivarian Revolution",
+        "pred_tail": "Pink tide",
+        "pred_score": 0.9765,
+        "topk_score_info": "{\"Pink tide\": 0.977, \"Manuel II of Portugal\": 0.912, \"April Revolt\": 0.904}",
+        "rank": 176,
+        "correct": false
+    },
+    {
+        "head": "Serbia and Montenegro",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Serbia and Montenegro",
+        "pred_score": 0.9537,
+        "topk_score_info": "{\"Serbia and Montenegro\": 0.954, \"Ivan Go\\u0161njak\": 0.942, \"Arso Jovanovi\\u0107\": 0.938}",
+        "rank": 102,
+        "correct": false
+    },
+    {
+        "head": "Belgrade",
+        "relation": "inverse has begin time stamp",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Belgrade",
+        "pred_score": 0.979,
+        "topk_score_info": "{\"Belgrade\": 0.979, \"Milivoje Trbi\\u0107\": 0.952, \"Milovan \\u0110ilas\": 0.951}",
+        "rank": 120,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Overthrow of Slobodan Milošević",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 1083,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Second EDSA Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 711,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Rose Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "Rose Revolution",
+        "pred_tail": "Georgia (country)",
+        "pred_score": 0.9747,
+        "topk_score_info": "{\"Georgia (country)\": 0.975, \"Rose Revolution\": 0.948, \"Adjara\": 0.935}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 40,
+        "correct": false
+    },
+    {
+        "head": "Aslan Abashidze",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Aslan Abashidze",
+        "pred_score": 0.9567,
+        "topk_score_info": "{\"Aslan Abashidze\": 0.957, \"Rose Revolution\": 0.949, \"2004 Adjara crisis\": 0.944}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Adjara",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Adjara",
+        "pred_score": 0.9758,
+        "topk_score_info": "{\"Adjara\": 0.976, \"Rose Revolution\": 0.946, \"Georgia (country)\": 0.944}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Georgia (country)",
+        "relation": "inverse has place",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Georgia (country)",
+        "pred_score": 0.9747,
+        "topk_score_info": "{\"Georgia (country)\": 0.975, \"2004 Adjara crisis\": 0.939, \"Adjara\": 0.935}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Mikheil Saakashvili",
+        "relation": "inverse has actor",
+        "tail": "2004 Adjara crisis",
+        "pred_tail": "Mikheil Saakashvili",
+        "pred_score": 0.9604,
+        "topk_score_info": "{\"Mikheil Saakashvili\": 0.96, \"Adjara\": 0.943, \"Georgia (country)\": 0.942}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Orange Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 253,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Cedar Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 196,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Kyrgyzstan",
+        "pred_score": 0.9873,
+        "topk_score_info": "{\"Kyrgyzstan\": 0.987, \"Andijan massacre\": 0.925, \"Tulip Revolution\": 0.919}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tulip Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 40,
+        "correct": false
+    },
+    {
+        "head": "Andijan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Andijan",
+        "pred_score": 0.9654,
+        "topk_score_info": "{\"Andijan\": 0.965, \"Andijan massacre\": 0.913, \"Kyrgyzstan\": 0.904}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Uzbekistan",
+        "relation": "inverse has place",
+        "tail": "Andijan massacre",
+        "pred_tail": "Uzbekistan",
+        "pred_score": 0.9584,
+        "topk_score_info": "{\"Uzbekistan\": 0.958, \"Andijan massacre\": 0.924, \"Kyrgyzstan\": 0.901}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Andijan massacre",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 118,
+        "correct": false
+    },
+    {
+        "head": "Myanmar",
+        "relation": "inverse has place",
+        "tail": "Saffron Revolution",
+        "pred_tail": "Myanmar",
+        "pred_score": 0.9738,
+        "topk_score_info": "{\"Myanmar\": 0.974, \"Saffron Revolution\": 0.902, \"Thailand\": 0.843}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2009 Icelandic financial crisis protests",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 249,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyzstan",
+        "relation": "inverse has place",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Kyrgyzstan",
+        "pred_score": 0.9873,
+        "topk_score_info": "{\"Kyrgyzstan\": 0.987, \"Andijan massacre\": 0.925, \"Kyrgyz Revolution of 2010\": 0.91}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Kyrgyz Revolution of 2010",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 126,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Arab Spring",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 77,
+        "correct": false
+    },
+    {
+        "head": "Tunisia",
+        "relation": "inverse has place",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Tunisia",
+        "pred_score": 0.9823,
+        "topk_score_info": "{\"Tunisia\": 0.982, \"Tunisian Revolution\": 0.909, \"French Algeria\": 0.898}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Tunisian Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 88,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "November 2012 Jordanian protests",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 455,
+        "correct": false
+    },
+    {
+        "head": "Lebanon",
+        "relation": "inverse has place",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Lebanon",
+        "pred_score": 0.9675,
+        "topk_score_info": "{\"Lebanon\": 0.968, \"2011 Lebanese protests\": 0.921, \"Cedar Revolution\": 0.907}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "2011 Lebanese protests",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 45,
+        "correct": false
+    },
+    {
+        "head": "Yemen",
+        "relation": "inverse has place",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Yemen",
+        "pred_score": 0.9786,
+        "topk_score_info": "{\"Yemen\": 0.979, \"Shammar\": 0.936, \"Syria\": 0.913}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 280,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 210,
+        "correct": false
+    },
+    {
+        "head": "Egyptian crisis (2011–2014)",
+        "relation": "inverse sub event of",
+        "tail": "June 2013 Egyptian protests",
+        "pred_tail": "Egyptian crisis (2011–2014)",
+        "pred_score": 0.9468,
+        "topk_score_info": "{\"Egyptian crisis (2011\\u20132014)\": 0.947, \"Egyptian Revolution of 1919\": 0.854, \"June 2013 Egyptian protests\": 0.851}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Euromaidan",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "event",
+        "relation": "inverse type",
+        "tail": "Neolithic Revolution",
+        "pred_tail": "Protofeminism",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"Protofeminism\": 0.89, \"Unitary state\": 0.869, \"Monarchy\": 0.863}",
+        "rank": 13,
+        "correct": false
+    }
+]

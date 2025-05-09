@@ -1,0 +1,4792 @@
+[
+    {
+        "head": "German reunification",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "German reunification",
+        "pred_score": 0.9257,
+        "topk_score_info": "{\"German reunification\": 0.926, \"Monday demonstrations in East Germany\": 0.909, \"Nazi Germany\": 0.9}",
+        "rank": 387,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Third Czechoslovak Republic",
+        "pred_score": 0.9159,
+        "topk_score_info": "{\"Third Czechoslovak Republic\": 0.916, \"of the communist regime in Czechoslovakia .\": 0.916, \"Czechoslovak Socialist Republic\": 0.914}",
+        "rank": 1644,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Dismantling'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 583,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'becomes'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'in'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'President'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Resignation'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 1014,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Collapse'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'economy'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 610,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Restoration'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 314,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'leader'. ",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Dismantling'. ",
+        "relation": "type",
+        "tail": "Destroying",
+        "pred_tail": "Economic Policy .",
+        "pred_score": 0.8443,
+        "topk_score_info": "{\"Economic Policy .\": 0.844, \"Revolution .\": 0.842, \"political and economic .\": 0.841}",
+        "rank": 125,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "type",
+        "tail": "Becoming",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.8983,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.898, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.897, \"Event triggered from lemma 'becomes'. \": 0.886}",
+        "rank": 370,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'in'. ",
+        "relation": "type",
+        "tail": "Interior profile relation",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.8781,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.878, \"of Czechoslovakia .\": 0.878, \"Czechoslovakia .\": 0.868}",
+        "rank": 286,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9066,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.907, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.9, \"the President of Czechoslovakia .\": 0.897}",
+        "rank": 901,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "type",
+        "tail": "Quitting",
+        "pred_tail": "of communist states .",
+        "pred_score": 0.8667,
+        "topk_score_info": "{\"of communist states .\": 0.867, \"Communist .\": 0.853}",
+        "rank": 453,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Collapse'. ",
+        "relation": "type",
+        "tail": "Endeavor failure",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.8815,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.881, \"of Czechoslovakia .\": 0.877, \"the President of Czechoslovakia .\": 0.869}",
+        "rank": 287,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'economy'. ",
+        "relation": "type",
+        "tail": "Economy",
+        "pred_tail": "Economic Policy .",
+        "pred_score": 0.8541,
+        "topk_score_info": "{\"Economic Policy .\": 0.854, \"political and economic .\": 0.849, \"Revolution .\": 0.847}",
+        "rank": 491,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Restoration'. ",
+        "relation": "type",
+        "tail": "Rejuvenation",
+        "pred_tail": "of parliamentary democracy .",
+        "pred_score": 0.8826,
+        "topk_score_info": "{\"of parliamentary democracy .\": 0.883, \"with free elections .\": 0.869, \"of the monarchy .\": 0.858}",
+        "rank": 290,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leader'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9025,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.903, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.901, \"the President of Czechoslovakia .\": 0.891}",
+        "rank": 992,
+        "correct": false
+    },
+    {
+        "head": "of the command economy .",
+        "relation": "related",
+        "tail": "Planned economy",
+        "pred_tail": "Revolution .",
+        "pred_score": 0.8299,
+        "topk_score_info": "{\"Revolution .\": 0.83, \"of an oligarchic government .\": 0.824, \"Governed\": 0.823}",
+        "rank": 72,
+        "correct": false
+    },
+    {
+        "head": "Dissident leader V\\u00E1clav Havel .",
+        "relation": "related",
+        "tail": "Havel",
+        "pred_tail": "Dissident leader V\\u00E1clav Havel .",
+        "pred_score": 0.9212,
+        "topk_score_info": "{\"Dissident leader V\\\\u00E1clav Havel .\": 0.921, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.891}",
+        "rank": 1882,
+        "correct": false
+    },
+    {
+        "head": "the President of Czechoslovakia .",
+        "relation": "related",
+        "tail": "Czechoslovakia",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.8996,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.9, \"the President of Czechoslovakia .\": 0.893, \"Event triggered from lemma 'becomes'. \": 0.892}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Czechoslovakia .",
+        "relation": "related",
+        "tail": "Czechoslovakia",
+        "pred_tail": "Prague .",
+        "pred_score": 0.8985,
+        "topk_score_info": "{\"Prague .\": 0.898, \"Event triggered from lemma 'becomes'. \": 0.893, \"Event triggered from lemma 'President'. \": 0.891}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Dissident leader V\\u00E1clav Havel .",
+        "relation": "related",
+        "tail": "Havel",
+        "pred_tail": "Dissident leader V\\u00E1clav Havel .",
+        "pred_score": 0.9212,
+        "topk_score_info": "{\"Dissident leader V\\\\u00E1clav Havel .\": 0.921, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.891}",
+        "rank": 1882,
+        "correct": false
+    },
+    {
+        "head": "of Czechoslovakia .",
+        "relation": "related",
+        "tail": "Czechoslovakia",
+        "pred_tail": "Prague .",
+        "pred_score": 0.8864,
+        "topk_score_info": "{\"Prague .\": 0.886, \"Event triggered from lemma 'becomes'. \": 0.884, \"Event triggered from lemma 'President'. \": 0.881}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "of the communist regime in Czechoslovakia .",
+        "relation": "related",
+        "tail": "Czechoslovakia",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9229,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.923, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.897, \"Collapse of the communist regime in Czechoslovakia\": 0.897}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "of parliamentary democracy .",
+        "relation": "related",
+        "tail": "Parliamentary system",
+        "pred_tail": "Governed",
+        "pred_score": 0.858,
+        "topk_score_info": "{\"Governed\": 0.858, \"of constitutional monarchy .\": 0.849, \"of a Constitutional monarchy .\": 0.848}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "V\\u00E1clav Havel .",
+        "relation": "related",
+        "tail": "Havel",
+        "pred_tail": "Dissident leader V\\u00E1clav Havel .",
+        "pred_score": 0.9142,
+        "topk_score_info": "{\"Dissident leader V\\\\u00E1clav Havel .\": 0.914, \"V\\\\u00E1clav Havel .\": 0.907}",
+        "rank": 1967,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Dismantling'. ",
+        "relation": "has actor",
+        "tail": "of the command economy .",
+        "pred_tail": "of the command economy .",
+        "pred_score": 0.8554,
+        "topk_score_info": "{\"of the command economy .\": 0.855, \"Postwar .\": 0.847, \"of censorship .\": 0.844}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "has actor",
+        "tail": "Dissident leader V\\u00E1clav Havel .",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9195,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.919, \"of Czechoslovakia .\": 0.916, \"Czechoslovakia .\": 0.903}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "has actor",
+        "tail": "the President of Czechoslovakia .",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9195,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.919, \"of Czechoslovakia .\": 0.916, \"the President of Czechoslovakia .\": 0.914}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'in'. ",
+        "relation": "has actor",
+        "tail": "Collapse of the communist regime .",
+        "pred_tail": "of Czechoslovakia .",
+        "pred_score": 0.9219,
+        "topk_score_info": "{\"of Czechoslovakia .\": 0.922, \"the President of Czechoslovakia .\": 0.905, \"of the communist regime in Czechoslovakia .\": 0.903}",
+        "rank": 82,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'in'. ",
+        "relation": "has actor",
+        "tail": "Czechoslovakia .",
+        "pred_tail": "of Czechoslovakia .",
+        "pred_score": 0.9219,
+        "topk_score_info": "{\"of Czechoslovakia .\": 0.922, \"Czechoslovakia .\": 0.915, \"the President of Czechoslovakia .\": 0.905}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "has actor",
+        "tail": "Dissident leader V\\u00E1clav Havel .",
+        "pred_tail": "the President of Czechoslovakia .",
+        "pred_score": 0.9262,
+        "topk_score_info": "{\"the President of Czechoslovakia .\": 0.926, \"of the communist regime in Czechoslovakia .\": 0.926, \"Czechoslovakia .\": 0.916}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "has actor",
+        "tail": "of Czechoslovakia .",
+        "pred_tail": "the President of Czechoslovakia .",
+        "pred_score": 0.9262,
+        "topk_score_info": "{\"the President of Czechoslovakia .\": 0.926, \"of the communist regime in Czechoslovakia .\": 0.926, \"of Czechoslovakia .\": 0.925}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "has actor",
+        "tail": "of the Politburo of the Communist Party .",
+        "pred_tail": "of communist states .",
+        "pred_score": 0.8613,
+        "topk_score_info": "{\"of communist states .\": 0.861, \"communist .\": 0.859, \"Communist .\": 0.853}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Collapse'. ",
+        "relation": "has actor",
+        "tail": "of the communist regime in Czechoslovakia .",
+        "pred_tail": "of Czechoslovakia .",
+        "pred_score": 0.9205,
+        "topk_score_info": "{\"of Czechoslovakia .\": 0.92, \"Czechoslovakia .\": 0.913, \"the President of Czechoslovakia .\": 0.908}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Endeavor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 449,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'economy'. ",
+        "relation": "has actor",
+        "tail": "economy .",
+        "pred_tail": "of the command economy .",
+        "pred_score": 0.8766,
+        "topk_score_info": "{\"of the command economy .\": 0.877, \"economy .\": 0.851, \"Economic activity .\": 0.849}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'economy'. ",
+        "relation": "has actor",
+        "tail": "command .",
+        "pred_tail": "of the command economy .",
+        "pred_score": 0.8766,
+        "topk_score_info": "{\"of the command economy .\": 0.877, \"Economic activity .\": 0.849, \"of censorship .\": 0.845}",
+        "rank": 170,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Restoration'. ",
+        "relation": "has actor",
+        "tail": "with free elections .",
+        "pred_tail": "with free elections .",
+        "pred_score": 0.8882,
+        "topk_score_info": "{\"with free elections .\": 0.888, \"to democracy .\": 0.873, \"of democratic rule .\": 0.867}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'Restoration'. ",
+        "relation": "has actor",
+        "tail": "of parliamentary democracy .",
+        "pred_tail": "of parliamentary democracy .",
+        "pred_score": 0.8962,
+        "topk_score_info": "{\"of parliamentary democracy .\": 0.896, \"to democracy .\": 0.873, \"of democratic rule .\": 0.867}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'Restoration'. ",
+        "relation": "has actor",
+        "tail": "in June 1990 .",
+        "pred_tail": "to democracy .",
+        "pred_score": 0.8732,
+        "topk_score_info": "{\"to democracy .\": 0.873, \"of democratic rule .\": 0.867, \"of a new government .\": 0.863}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leader'. ",
+        "relation": "has actor",
+        "tail": "V\\u00E1clav Havel .",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9229,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.923, \"the President of Czechoslovakia .\": 0.921, \"of Czechoslovakia .\": 0.92}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leader'. ",
+        "relation": "has actor",
+        "tail": "Dissident .",
+        "pred_tail": "of the communist regime in Czechoslovakia .",
+        "pred_score": 0.9229,
+        "topk_score_info": "{\"of the communist regime in Czechoslovakia .\": 0.923, \"the President of Czechoslovakia .\": 0.921, \"of Czechoslovakia .\": 0.92}",
+        "rank": 335,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Resignation of the Politburo of the Communist Party",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 1932,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Breakup of Czechoslovakia",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Collapse of the communist regime in Czechoslovakia",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Dissident leader V\\u00E1clav Havel becomes the President of Czechoslovakia",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Dissident leader V\\\\u00E1clav Havel becomes the President of Czechoslovakia\": 0.924}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Dismantling of the command economy and privatization of state-owned industry",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 816,
+        "correct": false
+    },
+    {
+        "head": "Velvet Revolution",
+        "relation": "has outcome",
+        "tail": "Restoration of parliamentary democracy with free elections in June 1990",
+        "pred_tail": "Velvet Revolution",
+        "pred_score": 0.9331,
+        "topk_score_info": "{\"Velvet Revolution\": 0.933, \"Czechoslovak Socialist Republic\": 0.928, \"Third Czechoslovak Republic\": 0.92}",
+        "rank": 447,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has place",
+        "tail": "Socialist Republic of Romania",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.884,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.884, \"Socialist Republic of Romania .\": 0.882, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.881}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_score": 0.8786,
+        "topk_score_info": "{\"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.879}",
+        "rank": 701,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Capture,'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Event triggered from lemma 'Capture,'. \": 0.897, \"Socialist Republic of Romania\": 0.889}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'execution'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Event triggered from lemma 'execution'. \": 0.892, \"Socialist Republic of Romania\": 0.889}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'victory'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Proclamation of Islaz\": 0.876}",
+        "rank": 156,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'dissolved'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Proclamation of Islaz\": 0.876}",
+        "rank": 31,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'dissolved'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Proclamation of Islaz\": 0.876}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'wife'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Event triggered from lemma 'wife'. \": 0.886}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'trial'. ",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Event triggered from lemma 'trial'. \": 0.894, \"Socialist Republic of Romania\": 0.889}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Capture,'. ",
+        "relation": "type",
+        "tail": "Taking captive",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.8983,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.898, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.877}",
+        "rank": 491,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'execution'. ",
+        "relation": "type",
+        "tail": "Execution",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9073,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.907, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.884}",
+        "rank": 255,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "type",
+        "tail": "Finish competition",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8704,
+        "topk_score_info": "{\"of revolt .\": 0.87, \"Congressist .\": 0.866, \"Revolutionary .\": 0.865}",
+        "rank": 374,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'dissolved'. ",
+        "relation": "type",
+        "tail": "Ceasing to be",
+        "pred_tail": "Congressist .",
+        "pred_score": 0.8474,
+        "topk_score_info": "{\"Congressist .\": 0.847, \"in November 1799 .\": 0.844, \"of revolt .\": 0.842}",
+        "rank": 844,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'dissolved'. ",
+        "relation": "type",
+        "tail": "Cause to fragment",
+        "pred_tail": "Socialist Republic of Romania .",
+        "pred_score": 0.8899,
+        "topk_score_info": "{\"Socialist Republic of Romania .\": 0.89, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.833}",
+        "rank": 225,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'wife'. ",
+        "relation": "type",
+        "tail": "Medical professionals",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9072,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.907, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.887}",
+        "rank": 718,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'trial'. ",
+        "relation": "type",
+        "tail": "Trial",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9044,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.904, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.886}",
+        "rank": 437,
+        "correct": false
+    },
+    {
+        "head": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "relation": "related",
+        "tail": "Nicolae Ceaușescu",
+        "pred_tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_score": 0.9367,
+        "topk_score_info": "{\"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.937}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "relation": "related",
+        "tail": "Nicolae Ceaușescu",
+        "pred_tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_score": 0.9367,
+        "topk_score_info": "{\"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.937}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Securitate .",
+        "relation": "related",
+        "tail": "Securitate",
+        "pred_tail": "Securitate dissolved",
+        "pred_score": 0.8215,
+        "topk_score_info": "{\"Securitate dissolved\": 0.822, \"Securitate\": 0.818, \"Socialist Republic of Romania .\": 0.817}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania .",
+        "relation": "related",
+        "tail": "Republic",
+        "pred_tail": "Socialist Republic of Romania .",
+        "pred_score": 0.9112,
+        "topk_score_info": "{\"Socialist Republic of Romania .\": 0.911, \"Socialist Republic of Romania\": 0.885, \"Socialist Republic of Romania dissolved\": 0.884}",
+        "rank": 436,
+        "correct": false
+    },
+    {
+        "head": "Socialist Republic of Romania .",
+        "relation": "related",
+        "tail": "Romania",
+        "pred_tail": "Socialist Republic of Romania .",
+        "pred_score": 0.9112,
+        "topk_score_info": "{\"Socialist Republic of Romania .\": 0.911, \"Socialist Republic of Romania\": 0.885, \"Socialist Republic of Romania dissolved\": 0.884}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "relation": "related",
+        "tail": "Nicolae Ceaușescu",
+        "pred_tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_score": 0.9367,
+        "topk_score_info": "{\"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.937}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Capture,'. ",
+        "relation": "has actor",
+        "tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.8978,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.898, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.89}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Captive",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 763,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'execution'. ",
+        "relation": "has actor",
+        "tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9065,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.906, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.899}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "has actor",
+        "tail": "Revolutionary .",
+        "pred_tail": "Revolutionary .",
+        "pred_score": 0.8775,
+        "topk_score_info": "{\"Revolutionary .\": 0.866, \"of the command economy .\": 0.868}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'dissolved'. ",
+        "relation": "has actor",
+        "tail": "Securitate .",
+        "pred_tail": "of the monarchy .",
+        "pred_score": 0.8527,
+        "topk_score_info": "{\"of the monarchy .\": 0.845}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'dissolved'. ",
+        "relation": "has actor",
+        "tail": "Socialist Republic of Romania .",
+        "pred_tail": "Socialist Republic of Romania .",
+        "pred_score": 0.9076,
+        "topk_score_info": "{\"Socialist Republic of Romania .\": 0.908, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.844}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Whole patient",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 355,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'wife'. ",
+        "relation": "has actor",
+        "tail": "wife .",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.906, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.902}",
+        "rank": 429,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'wife'. ",
+        "relation": "has actor",
+        "tail": "Elena .",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.906, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.902}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'wife'. ",
+        "relation": "has actor",
+        "tail": "his .",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.906, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.902}",
+        "rank": 393,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Professional",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 595,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'trial'. ",
+        "relation": "has actor",
+        "tail": "of Nicolae Ceau\\u0219escu and his wife Elena .",
+        "pred_tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_score": 0.9025,
+        "topk_score_info": "{\"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.902, \"of Nicolae Ceau\\\\u0219escu and his wife Elena .\": 0.898}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Defendant",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 631,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Socialist Republic of Romania dissolved",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Proclamation of Islaz\": 0.876}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Revolutionary victory",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Proclamation of Islaz\": 0.876}",
+        "rank": 552,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Capture, trial and execution of Nicolae Ceau\\u0219escu and his wife Elena",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Capture, trial and execution of Nicolae Ceau\\\\u0219escu and his wife Elena\": 0.88}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Romanian Revolution",
+        "relation": "has outcome",
+        "tail": "Securitate dissolved",
+        "pred_tail": "Romanian Revolution",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Romanian Revolution\": 0.9, \"Socialist Republic of Romania\": 0.889, \"Proclamation of Islaz\": 0.876}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Mongolian Revolution of 1990",
+        "relation": "has place",
+        "tail": "Mongolian People's Republic",
+        "pred_tail": "Mongolian People's Republic",
+        "pred_score": 0.9345,
+        "topk_score_info": "{\"Mongolian People's Republic\": 0.934, \"Darizavyn Losol\": 0.932, \"Mongolian Revolution of 1990\": 0.93}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Mongolian Revolution of 1990",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Darizavyn Losol",
+        "pred_score": 0.9383,
+        "topk_score_info": "{\"Darizavyn Losol\": 0.938, \"Mongolian People's Republic\": 0.932, \"Soliin Danzan\": 0.931}",
+        "rank": 857,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9355,
+        "topk_score_info": "{\"Log Revolution\": 0.936, \"Kingdom of Yugoslavia\": 0.935, \"Zeka Buljuba\\u0161a\": 0.935}",
+        "rank": 1297,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has place",
+        "tail": "SFR Yugoslavia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9386,
+        "topk_score_info": "{\"Log Revolution\": 0.939, \"Kingdom of Yugoslavia\": 0.938, \"Zeka Buljuba\\u0161a\": 0.932}",
+        "rank": 219,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has place",
+        "tail": "SR Croatia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.9386,
+        "topk_score_info": "{\"Log Revolution\": 0.939, \"Kingdom of Yugoslavia\": 0.938, \"Zeka Buljuba\\u0161a\": 0.932}",
+        "rank": 260,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'victory'. ",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.942,
+        "topk_score_info": "{\"Log Revolution\": 0.942, \"Kingdom of Yugoslavia\": 0.932, \"World War II in Yugoslavia\": 0.932}",
+        "rank": 462,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Establishment'. ",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.942,
+        "topk_score_info": "{\"Log Revolution\": 0.942, \"Kingdom of Yugoslavia\": 0.932, \"World War II in Yugoslavia\": 0.932}",
+        "rank": 147,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "type",
+        "tail": "Finish competition",
+        "pred_tail": "Electoral .",
+        "pred_score": 0.8533,
+        "topk_score_info": "{\"Electoral .\": 0.853, \"Congressist .\": 0.853}",
+        "rank": 411,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Establishment'. ",
+        "relation": "type",
+        "tail": "Intentionally create",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.9409,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.941, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.924, \"Slavonia\": 0.881}",
+        "rank": 795,
+        "correct": false
+    },
+    {
+        "head": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "relation": "related",
+        "tail": "Baranya (region)",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.9702,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.97, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.945, \"Event triggered from lemma 'Establishment'. \": 0.891}",
+        "rank": 244,
+        "correct": false
+    },
+    {
+        "head": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "relation": "related",
+        "tail": "SAO Krajina",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.9702,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.97, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.945, \"Event triggered from lemma 'Establishment'. \": 0.891}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "relation": "related",
+        "tail": "Syrmia",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.9702,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.97, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.945, \"Event triggered from lemma 'Establishment'. \": 0.891}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "relation": "related",
+        "tail": "SAO Western Slavonia",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.9702,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.97, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.945, \"Event triggered from lemma 'Establishment'. \": 0.891}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "relation": "related",
+        "tail": "Slavonia",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.9702,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.97, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.945, \"Event triggered from lemma 'Establishment'. \": 0.891}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "has actor",
+        "tail": "Paramilitary .",
+        "pred_tail": "Revolutionary .",
+        "pred_score": 0.8688,
+        "topk_score_info": "{\"Revolutionary .\": 0.869, \"Paramilitary .\": 0.859, \"opposition .\": 0.856}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Establishment'. ",
+        "relation": "has actor",
+        "tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_tail": "of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .",
+        "pred_score": 0.942,
+        "topk_score_info": "{\"of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia .\": 0.942, \"Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia\": 0.923, \"Slavonia\": 0.883}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has outcome",
+        "tail": "Establishment of SAO Krajina, SAO Western Slavonia, and the SAO Eastern Slavonia, Baranja and Western Syrmia",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.942,
+        "topk_score_info": "{\"Log Revolution\": 0.942, \"Kingdom of Yugoslavia\": 0.932, \"World War II in Yugoslavia\": 0.932}",
+        "rank": 150,
+        "correct": false
+    },
+    {
+        "head": "Log Revolution",
+        "relation": "has outcome",
+        "tail": "Paramilitary victory",
+        "pred_tail": "Log Revolution",
+        "pred_score": 0.942,
+        "topk_score_info": "{\"Log Revolution\": 0.942, \"Kingdom of Yugoslavia\": 0.932, \"World War II in Yugoslavia\": 0.932}",
+        "rank": 1229,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has place",
+        "tail": "Belgrade",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9086,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.909, \"the Yugoslav Serb monarchy .\": 0.892, \"of the autonomous Principality of Serbia .\": 0.891}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.8828,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.883, \"Serbian .\": 0.874, \"Milan Nedi\\u0107\": 0.873}",
+        "rank": 999,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "sub event of",
+        "tail": "Breakup of Yugoslavia",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.89, \"the Yugoslav Serb monarchy .\": 0.88, \"Serbian .\": 0.876}",
+        "rank": 81,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'resigns'. ",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 273,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'resigns'. ",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 106,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'released'. ",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 64,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'victory'. ",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 384,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'resigns'. ",
+        "relation": "type",
+        "tail": "Quitting",
+        "pred_tail": "\\u00C9vian .",
+        "pred_score": 0.86,
+        "topk_score_info": "{\"\\\\u00C9vian .\": 0.86, \"Event triggered from lemma 'resigns'. \": 0.86, \"of S\\\\u00E8vres .\": 0.852}",
+        "rank": 663,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'resigns'. ",
+        "relation": "type",
+        "tail": "Quitting",
+        "pred_tail": "Radmilo Bogdanovi\\u0107 resigns",
+        "pred_score": 0.8829,
+        "topk_score_info": "{\"Radmilo Bogdanovi\\\\u0107 resigns\": 0.883, \"Event triggered from lemma 'resigns'. \": 0.88, \"Radmilo Bogdanovi .\": 0.862}",
+        "rank": 921,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'released'. ",
+        "relation": "type",
+        "tail": "Releasing",
+        "pred_tail": "Vuk Dra\\u0161kovi\\u0107 and Jovan Marjanovi\\u0107 released",
+        "pred_score": 0.9311,
+        "topk_score_info": "{\"Vuk Dra\\\\u0161kovi\\\\u0107 and Jovan Marjanovi\\\\u0107 released\": 0.931, \"Event triggered from lemma 'released'. \": 0.928, \"Vuk Drakovi and Jovan Marjanovi .\": 0.894}",
+        "rank": 817,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "type",
+        "tail": "Finish competition",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8544,
+        "topk_score_info": "{\"of revolt .\": 0.854, \"Congressist .\": 0.848, \"in the campaigns .\": 0.846}",
+        "rank": 384,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'resigns'. ",
+        "relation": "has actor",
+        "tail": "Duan Mitevi .",
+        "pred_tail": "Du\\u0161an Mitevi\\u0107 resigns",
+        "pred_score": 0.8657,
+        "topk_score_info": "{\"Du\\\\u0161an Mitevi\\\\u0107 resigns\": 0.866, \"\\\\u00C9vian .\": 0.858, \"by an \\\\u00E9migr\\\\u00E9 army .\": 0.849}",
+        "rank": 433,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'resigns'. ",
+        "relation": "has actor",
+        "tail": "Radmilo Bogdanovi .",
+        "pred_tail": "Radmilo Bogdanovi .",
+        "pred_score": 0.8879,
+        "topk_score_info": "{\"Radmilo Bogdanovi .\": 0.888, \"Radmilo Bogdanovi\\\\u0107 resigns\": 0.879, \"Yugoslav .\": 0.864}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'released'. ",
+        "relation": "has actor",
+        "tail": "Vuk Drakovi and Jovan Marjanovi .",
+        "pred_tail": "Vuk Dra\\u0161kovi\\u0107 and Jovan Marjanovi\\u0107 released",
+        "pred_score": 0.9389,
+        "topk_score_info": "{\"Vuk Dra\\\\u0161kovi\\\\u0107 and Jovan Marjanovi\\\\u0107 released\": 0.939, \"Event triggered from lemma 'released'. \": 0.923, \"Vuk Drakovi and Jovan Marjanovi .\": 0.912}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "has actor",
+        "tail": "pyrrhic .",
+        "pred_tail": "in the campaigns .",
+        "pred_score": 0.867,
+        "topk_score_info": "{\"in the campaigns .\": 0.867, \"Congressist .\": 0.86, \"of revolt .\": 0.858}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Prize",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 517,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "SPO pyrrhic victory",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 625,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Radmilo Bogdanovi\\u0107 resigns",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 218,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Du\\u0161an Mitevi\\u0107 resigns",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 278,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Vuk Dra\\u0161kovi\\u0107 and Jovan Marjanovi\\u0107 released",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 174,
+        "correct": false
+    },
+    {
+        "head": "1991 protests in Belgrade",
+        "relation": "has outcome",
+        "tail": "Ban lifted on Radio B92 and RTV Studio B",
+        "pred_tail": "1991 protests in Belgrade",
+        "pred_score": 0.9285,
+        "topk_score_info": "{\"1991 protests in Belgrade\": 0.928, \"of the autonomous Principality of Serbia .\": 0.904}",
+        "rank": 216,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Yugoslav Wars",
+        "pred_score": 0.9173,
+        "topk_score_info": "{\"Yugoslav Wars\": 0.917, \"Titoism\": 0.903, \"Breakup of Yugoslavia\": 0.901}",
+        "rank": 1153,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has place",
+        "tail": "Yugoslavia",
+        "pred_tail": "Yugoslav Wars",
+        "pred_score": 0.9204,
+        "topk_score_info": "{\"Yugoslav Wars\": 0.92, \"Titoism\": 0.904, \"Breakup of Yugoslavia\": 0.904}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Continuation'. ",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.932, \"Yugoslav Wars\": 0.93, \"Socialist Federal Republic of Yugoslavia\": 0.919}",
+        "rank": 71,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'formation'. ",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.932, \"Yugoslav Wars\": 0.93, \"Socialist Federal Republic of Yugoslavia\": 0.919}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Wars'. ",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.932, \"Yugoslav Wars\": 0.93, \"Socialist Federal Republic of Yugoslavia\": 0.919}",
+        "rank": 59,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'states'. ",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.932, \"Yugoslav Wars\": 0.93, \"Socialist Federal Republic of Yugoslavia\": 0.919}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Continuation'. ",
+        "relation": "type",
+        "tail": "Process continue",
+        "pred_tail": "of the Yugoslav Wars .",
+        "pred_score": 0.855,
+        "topk_score_info": "{\"of the Yugoslav Wars .\": 0.855, \"Yugoslav .\": 0.845, \"Serbian .\": 0.84}",
+        "rank": 222,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'formation'. ",
+        "relation": "type",
+        "tail": "Creating",
+        "pred_tail": "of the Yugoslav Wars .",
+        "pred_score": 0.8798,
+        "topk_score_info": "{\"of the Yugoslav Wars .\": 0.88, \"the Yugoslav Serb monarchy .\": 0.867, \"Yugoslav .\": 0.865}",
+        "rank": 666,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Wars'. ",
+        "relation": "type",
+        "tail": "Hostile encounter",
+        "pred_tail": "of the Yugoslav Wars .",
+        "pred_score": 0.8646,
+        "topk_score_info": "{\"of the Yugoslav Wars .\": 0.865, \"Yugoslav .\": 0.854, \"Serbian .\": 0.84}",
+        "rank": 274,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'states'. ",
+        "relation": "type",
+        "tail": "Political locales",
+        "pred_tail": "of the Yugoslav Wars .",
+        "pred_score": 0.8806,
+        "topk_score_info": "{\"of the Yugoslav Wars .\": 0.881, \"Yugoslav .\": 0.868, \"the Yugoslav Serb monarchy .\": 0.865}",
+        "rank": 488,
+        "correct": false
+    },
+    {
+        "head": "of the Yugoslav Wars .",
+        "relation": "related",
+        "tail": "Yugoslav Wars",
+        "pred_tail": "Continuation of the Yugoslav Wars",
+        "pred_score": 0.9172,
+        "topk_score_info": "{\"Continuation of the Yugoslav Wars\": 0.917, \"Andrija Hebrang (father)\": 0.905, \"Yugoslav Partisan\\\\u2013Allied victory\": 0.904}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Continuation'. ",
+        "relation": "has actor",
+        "tail": "of the Yugoslav Wars .",
+        "pred_tail": "Yugoslav .",
+        "pred_score": 0.9103,
+        "topk_score_info": "{\"Yugoslav .\": 0.91, \"of the Yugoslav Wars .\": 0.896, \"Slovenian .\": 0.876}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'formation'. ",
+        "relation": "has actor",
+        "tail": "of independent successor states .",
+        "pred_tail": "of the Yugoslav Wars .",
+        "pred_score": 0.9014,
+        "topk_score_info": "{\"of the Yugoslav Wars .\": 0.901, \"Yugoslav .\": 0.9, \"Slovenian .\": 0.871}",
+        "rank": 160,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Wars'. ",
+        "relation": "has actor",
+        "tail": "Yugoslav .",
+        "pred_tail": "Yugoslav .",
+        "pred_score": 0.913,
+        "topk_score_info": "{\"Yugoslav .\": 0.913, \"of the Yugoslav Wars .\": 0.9, \"Slovenian .\": 0.88}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'states'. ",
+        "relation": "has actor",
+        "tail": "independent successor .",
+        "pred_tail": "Yugoslav .",
+        "pred_score": 0.9033,
+        "topk_score_info": "{\"Yugoslav .\": 0.903, \"of the Yugoslav Wars .\": 0.901, \"Slovenian .\": 0.874}",
+        "rank": 191,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'states'. ",
+        "relation": "has actor",
+        "tail": "states .",
+        "pred_tail": "Yugoslav .",
+        "pred_score": 0.9033,
+        "topk_score_info": "{\"Yugoslav .\": 0.903, \"of the Yugoslav Wars .\": 0.901, \"Slovenian .\": 0.874}",
+        "rank": 303,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has outcome",
+        "tail": "Continuation of the Yugoslav Wars",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.932, \"Yugoslav Wars\": 0.93, \"Socialist Federal Republic of Yugoslavia\": 0.919}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Breakup of Yugoslavia",
+        "relation": "has outcome",
+        "tail": "Breakup of Yugoslavia and formation of independent successor states",
+        "pred_tail": "Breakup of Yugoslavia",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"Breakup of Yugoslavia\": 0.932, \"Yugoslav Wars\": 0.93, \"Breakup of Yugoslavia and formation of independent successor states\": 0.927}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Ante Marković",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 38,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Blagoje Ad�%B Eić",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 97,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9446,
+        "topk_score_info": "{\"Ten-Day War\": 0.945, \"Karl Novak\": 0.915, \"Chetniks\": 0.912}",
+        "rank": 1169,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Milan Ku�%8 Dan",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Veljko Kadijević",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 99,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Janez Janša",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has place",
+        "tail": "Slovenia",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9495,
+        "topk_score_info": "{\"Ten-Day War\": 0.949, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.913}",
+        "rank": 197,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Igor Bav�%8 Dar",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Lojze Peterle",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Konrad Kolšek",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has actor",
+        "tail": "Aleksandar Vasiljević",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9426,
+        "topk_score_info": "{\"Ten-Day War\": 0.943, \"Karl Novak\": 0.918, \"Chetniks\": 0.914}",
+        "rank": 154,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Agreement'. ",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 773,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'invasion'. ",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 1674,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'averted'. ",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 1462,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'victory'. ",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 145,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Agreement'. ",
+        "relation": "type",
+        "tail": "Make agreement on action",
+        "pred_tail": "of rule .",
+        "pred_score": 0.8403,
+        "topk_score_info": "{\"of rule .\": 0.84, \"Milanese .\": 0.837, \"Minor .\": 0.834}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'invasion'. ",
+        "relation": "type",
+        "tail": "Invading",
+        "pred_tail": "Beginning .",
+        "pred_score": 0.8537,
+        "topk_score_info": "{\"Beginning .\": 0.854, \"beginning .\": 0.854}",
+        "rank": 626,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'averted'. ",
+        "relation": "type",
+        "tail": "Preventing or letting",
+        "pred_tail": "strategic .",
+        "pred_score": 0.8623,
+        "topk_score_info": "{\"strategic .\": 0.862, \"Beginning .\": 0.86}",
+        "rank": 161,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "type",
+        "tail": "Finish competition",
+        "pred_tail": "Slovenian .",
+        "pred_score": 0.8742,
+        "topk_score_info": "{\"Slovenian .\": 0.874, \"Yugoslav .\": 0.85, \"Serbian .\": 0.848}",
+        "rank": 479,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Agreement'. ",
+        "relation": "has actor",
+        "tail": "Brioni .",
+        "pred_tail": "Milanese .",
+        "pred_score": 0.8648,
+        "topk_score_info": "{\"Milanese .\": 0.865, \"Brioni .\": 0.863, \"to the Sicilian local administration .\": 0.859}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Topic",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 228,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'invasion'. ",
+        "relation": "has actor",
+        "tail": "Full-scale .",
+        "pred_tail": "Formal .",
+        "pred_score": 0.8587,
+        "topk_score_info": "{\"Formal .\": 0.859, \"Major combat .\": 0.858, \"diplomatic .\": 0.856}",
+        "rank": 230,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'invasion'. ",
+        "relation": "has actor",
+        "tail": "by the JNA .",
+        "pred_tail": "by the JNA .",
+        "pred_score": 0.8733,
+        "topk_score_info": "{\"by the JNA .\": 0.873, \"Formal .\": 0.859, \"Major combat .\": 0.858}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'averted'. ",
+        "relation": "has actor",
+        "tail": "Full-scale invasion by the JNA .",
+        "pred_tail": "diplomatic .",
+        "pred_score": 0.8642,
+        "topk_score_info": "{\"diplomatic .\": 0.864, \"of siege .\": 0.864, \"Major combat .\": 0.864}",
+        "rank": 428,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory'. ",
+        "relation": "has actor",
+        "tail": "Slovenian .",
+        "pred_tail": "Slovenian .",
+        "pred_score": 0.917,
+        "topk_score_info": "{\"Slovenian .\": 0.917, \"Yugoslav .\": 0.898, \"of the Yugoslav Wars .\": 0.869}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Slovenian victory",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 196,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Full-scale invasion by the JNA averted",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 2503,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Brioni Agreement",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 1667,
+        "correct": false
+    },
+    {
+        "head": "Ten-Day War",
+        "relation": "has outcome",
+        "tail": "Withdrawal of the JNA from Slovenia",
+        "pred_tail": "Ten-Day War",
+        "pred_score": 0.9515,
+        "topk_score_info": "{\"Ten-Day War\": 0.952, \"Karl Novak\": 0.916, \"Kingdom of Yugoslavia\": 0.915}",
+        "rank": 128,
+        "correct": false
+    },
+    {
+        "head": "Fall of communism in Albania",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Fall of communism in Albania",
+        "pred_score": 0.8776,
+        "topk_score_info": "{\"Fall of communism in Albania\": 0.878, \"Collapse of the communist regime .\": 0.819, \"by the Yugoslav, Albanian and Greek Partisans .\": 0.816}",
+        "rank": 744,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Mexican Armed Forces",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has place",
+        "tail": "Chiapas",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9425,
+        "topk_score_info": "{\"Chiapas conflict\": 0.942, \"Chiapas\": 0.916, \"Subcomandante Marcos\": 0.878}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9265,
+        "topk_score_info": "{\"Chiapas conflict\": 0.926, \"Chiapas\": 0.896, \"Cuautla%2 C Morelos\": 0.867}",
+        "rank": 425,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Comandanta Ramona",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Arturo Guzmán Decena",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "National Guard ( Mexico)",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 33,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Ernesto Zedillo",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Manuel Camacho Sol�%A Ds",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has place",
+        "tail": "Mexico",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9425,
+        "topk_score_info": "{\"Chiapas conflict\": 0.942, \"Subcomandante Marcos\": 0.878, \"Conventionists ( Mexico)\": 0.878}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Carlos Salinas de Gortari",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 30,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Subcomandante Marcos",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Subcomandante Marcos\": 0.875}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Chiapas conflict",
+        "relation": "has actor",
+        "tail": "Federal Police ( Mexico)",
+        "pred_tail": "Chiapas conflict",
+        "pred_score": 0.9312,
+        "topk_score_info": "{\"Chiapas conflict\": 0.931, \"Chiapas\": 0.905, \"Eulalio Guti\\u00e9rrez\": 0.874}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Inspector General of Police ( Nepal)",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Inspector General of Police ( Nepal)\": 0.853}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Girija Prasad Koirala",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Girija Prasad Koirala\": 0.856}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Birendra of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Birendra of Nepal\": 0.833}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has place",
+        "tail": "Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9132,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.913, \"Dhruba Bahadur Pradhan\": 0.882, \"Mohan Baidya\": 0.881}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Baburam Bhattarai",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Baburam Bhattarai\": 0.882, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Mohan Baidya",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Mohan Baidya\": 0.875, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pradip Shumsher J.B.R.",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Pradip Shumsher J.B.R.\": 0.857}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Moti Lal Bohora",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Moti Lal Bohora\": 0.856}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pyar Jung Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Pyar Jung Thapa\": 0.865, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Gyanendra of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Gyanendra of Nepal\": 0.877, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Pushpa Kamal Dahal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Pushpa Kamal Dahal\": 0.833}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Lokendra Bahadur Chand",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Lokendra Bahadur Chand\": 0.865, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Om Bikram Rana",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Om Bikram Rana\": 0.869, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Achyut Krishna Kharel",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Achyut Krishna Kharel\": 0.866, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Biplav",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Biplav\": 0.855}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "King of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"King of Nepal\": 0.868, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Shyam Bhakta Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Shyam Bhakta Thapa\": 0.862}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Dharmapaal Barsingh Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Dharmapaal Barsingh Thapa\": 0.839}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Rookmangud Katawal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Rookmangud Katawal\": 0.873, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9033,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.903, \"Baburam Bhattarai\": 0.877, \"Mohan Baidya\": 0.876}",
+        "rank": 285,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Dhruba Bahadur Pradhan",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Dhruba Bahadur Pradhan\": 0.878, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Chief of Army Staff ( Nepal)",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Chief of Army Staff ( Nepal)\": 0.846}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Nanda Kishor Pun",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nanda Kishor Pun\": 0.864, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Sher Bahadur Deuba",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Sher Bahadur Deuba\": 0.849}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Krishna Prasad Bhattarai",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Krishna Prasad Bhattarai\": 0.873, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Surya Bahadur Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Surya Bahadur Thapa\": 0.87, \"Nepal\": 0.863}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Prime Minister of Nepal",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Prime Minister of Nepal\": 0.852}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has actor",
+        "tail": "Ram Bahadur Thapa",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9004,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.9, \"Nepal\": 0.863, \"Ram Bahadur Thapa\": 0.855}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'held'. ",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.933, \"King of Nepal\": 0.887, \"Mohan Baidya\": 0.886}",
+        "rank": 37,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Entry'. ",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.933, \"King of Nepal\": 0.887, \"Mohan Baidya\": 0.886}",
+        "rank": 29,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'election'. ",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.933, \"King of Nepal\": 0.887, \"Mohan Baidya\": 0.886}",
+        "rank": 32,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'held'. ",
+        "relation": "type",
+        "tail": "Process start",
+        "pred_tail": "government .",
+        "pred_score": 0.8711,
+        "topk_score_info": "{\"government .\": 0.869}",
+        "rank": 81,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Entry'. ",
+        "relation": "type",
+        "tail": "Arriving",
+        "pred_tail": "of Maoists .",
+        "pred_score": 0.8754,
+        "topk_score_info": "{\"of Maoists .\": 0.875, \"of Rebellion .\": 0.858, \"communist .\": 0.852}",
+        "rank": 174,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'election'. ",
+        "relation": "type",
+        "tail": "Change of leadership",
+        "pred_tail": "government .",
+        "pred_score": 0.8717,
+        "topk_score_info": "{\"government .\": 0.87}",
+        "rank": 177,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'held'. ",
+        "relation": "has actor",
+        "tail": "Constituent Assembly election .",
+        "pred_tail": "Constituent Assembly .",
+        "pred_score": 0.8793,
+        "topk_score_info": "{\"Constituent Assembly .\": 0.879, \"insurgent .\": 0.867, \"government .\": 0.867}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Entry'. ",
+        "relation": "has actor",
+        "tail": "into mainstream politics .",
+        "pred_tail": "of protestors .",
+        "pred_score": 0.8729,
+        "topk_score_info": "{\"of protestors .\": 0.873, \"Dissident .\": 0.866, \"of its leaders .\": 0.862}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Entry'. ",
+        "relation": "has actor",
+        "tail": "of Maoists .",
+        "pred_tail": "of Maoists .",
+        "pred_score": 0.8935,
+        "topk_score_info": "{\"of Maoists .\": 0.893, \"of protestors .\": 0.873, \"Dissident .\": 0.866}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'election'. ",
+        "relation": "has actor",
+        "tail": "Constituent Assembly .",
+        "pred_tail": "Constituent Assembly .",
+        "pred_score": 0.874,
+        "topk_score_info": "{\"Constituent Assembly .\": 0.874, \"minister .\": 0.865, \"government .\": 0.864}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Body",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 752,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has outcome",
+        "tail": "Constituent Assembly election held",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.933, \"King of Nepal\": 0.887, \"Mohan Baidya\": 0.886}",
+        "rank": 96,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has outcome",
+        "tail": "Entry of Maoists into mainstream politics",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.933, \"King of Nepal\": 0.887, \"Mohan Baidya\": 0.886}",
+        "rank": 47,
+        "correct": false
+    },
+    {
+        "head": "Nepalese Civil War",
+        "relation": "has outcome",
+        "tail": "Comprehensive Peace Accord",
+        "pred_tail": "Nepalese Civil War",
+        "pred_score": 0.9333,
+        "topk_score_info": "{\"Nepalese Civil War\": 0.933, \"King of Nepal\": 0.887, \"Mohan Baidya\": 0.886}",
+        "rank": 2581,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9223,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.922, \"Caracas\": 0.838, \"Juan Almeida Bosque\": 0.828}",
+        "rank": 614,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "sub event of",
+        "tail": "Pink tide",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9271,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.927, \"Caracas\": 0.839, \"Caracazo\": 0.834}",
+        "rank": 353,
+        "correct": false
+    },
+    {
+        "head": "Bolivarian Revolution",
+        "relation": "has outcome",
+        "tail": "http://dbpedia.org/resource/Crisis_in_Bolivarian_Venezuela",
+        "pred_tail": "Bolivarian Revolution",
+        "pred_score": 0.9371,
+        "topk_score_info": "{\"Bolivarian Revolution\": 0.937, \"Caracazo\": 0.849, \"Humberto Ortega\": 0.835}",
+        "rank": 186,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "has begin time stamp",
+        "tail": "Serbia and Montenegro",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9165,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.917, \"Arso Jovanovi\\u0107\": 0.902, \"Kara\\u0111or\\u0111e\": 0.902}",
+        "rank": 59,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "has begin time stamp",
+        "tail": "Belgrade",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9165,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.917, \"Arso Jovanovi\\u0107\": 0.902, \"Kara\\u0111or\\u0111e\": 0.902}",
+        "rank": 106,
+        "correct": false
+    },
+    {
+        "head": "Overthrow of Slobodan Milošević",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Overthrow of Slobodan Milošević",
+        "pred_score": 0.9035,
+        "topk_score_info": "{\"Overthrow of Slobodan Milo\\u0161evi\\u0107\": 0.903, \"Arso Jovanovi\\u0107\": 0.898, \"Velimir Pileti\\u0107\": 0.896}",
+        "rank": 1327,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.944,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.904, \"Joseph Estrada\": 0.87}",
+        "rank": 753,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'President'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'becomes'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Resignation'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'President'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 24,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'family'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 34,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'leaves'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'ouster'. ",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "Gloria Macapagal Arroyo .",
+        "pred_score": 0.9053,
+        "topk_score_info": "{\"Gloria Macapagal Arroyo .\": 0.905, \"of President Joseph Estrada .\": 0.884}",
+        "rank": 319,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "type",
+        "tail": "Becoming",
+        "pred_tail": "Event triggered from lemma 'becomes'. ",
+        "pred_score": 0.8725,
+        "topk_score_info": "{\"Event triggered from lemma 'becomes'. \": 0.873, \"Gloria Macapagal Arroyo .\": 0.872}",
+        "rank": 372,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "type",
+        "tail": "Quitting",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9036,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.904, \"Joseph Estrada .\": 0.87}",
+        "rank": 585,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9091,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.909, \"Filipino .\": 0.875}",
+        "rank": 381,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'family'. ",
+        "relation": "type",
+        "tail": "Kinship",
+        "pred_tail": "Filipino .",
+        "pred_score": 0.8943,
+        "topk_score_info": "{\"Filipino .\": 0.894, \"Philippine Republic .\": 0.883, \"of President Joseph Estrada .\": 0.882}",
+        "rank": 51,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leaves'. ",
+        "relation": "type",
+        "tail": "Departing",
+        "pred_tail": "Filipino .",
+        "pred_score": 0.8898,
+        "topk_score_info": "{\"Filipino .\": 0.89, \"Philippine Republic .\": 0.88, \"Philippine .\": 0.878}",
+        "rank": 360,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'ouster'. ",
+        "relation": "type",
+        "tail": "Change of leadership",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.906, \"Joseph Estrada .\": 0.874}",
+        "rank": 372,
+        "correct": false
+    },
+    {
+        "head": "Gloria Macapagal Arroyo .",
+        "relation": "related",
+        "tail": "Diosdado Macapagal",
+        "pred_tail": "Gloria Macapagal Arroyo .",
+        "pred_score": 0.9097,
+        "topk_score_info": "{\"Gloria Macapagal Arroyo .\": 0.91, \"Gloria Macapagal Arroyo becomes President\": 0.906}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Gloria Macapagal Arroyo .",
+        "relation": "related",
+        "tail": "Diosdado Macapagal",
+        "pred_tail": "Gloria Macapagal Arroyo .",
+        "pred_score": 0.9097,
+        "topk_score_info": "{\"Gloria Macapagal Arroyo .\": 0.91, \"Gloria Macapagal Arroyo becomes President\": 0.906}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "of President Joseph Estrada .",
+        "relation": "related",
+        "tail": "Joseph Estrada",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.905,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.905, \"of the First Philippine Republic .\": 0.903}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Joseph Estrada .",
+        "relation": "related",
+        "tail": "Joseph Estrada",
+        "pred_tail": "of the First Philippine Republic .",
+        "pred_score": 0.9012,
+        "topk_score_info": "{\"of the First Philippine Republic .\": 0.901, \"Philippine Republic .\": 0.884, \"of President Joseph Estrada .\": 0.882}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "of President Joseph Estrada .",
+        "relation": "related",
+        "tail": "Joseph Estrada",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.905,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.905, \"of the First Philippine Republic .\": 0.903}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "has actor",
+        "tail": "Gloria Macapagal Arroyo .",
+        "pred_tail": "Gloria Macapagal Arroyo .",
+        "pred_score": 0.9252,
+        "topk_score_info": "{\"Gloria Macapagal Arroyo .\": 0.925, \"of President Joseph Estrada .\": 0.911}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "has actor",
+        "tail": "Gloria Macapagal Arroyo .",
+        "pred_tail": "Gloria Macapagal Arroyo .",
+        "pred_score": 0.9022,
+        "topk_score_info": "{\"Gloria Macapagal Arroyo .\": 0.902, \"of President Joseph Estrada .\": 0.89}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "has actor",
+        "tail": "President .",
+        "pred_tail": "Gloria Macapagal Arroyo .",
+        "pred_score": 0.9022,
+        "topk_score_info": "{\"Gloria Macapagal Arroyo .\": 0.902, \"of President Joseph Estrada .\": 0.89}",
+        "rank": 225,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "has actor",
+        "tail": "of President Joseph Estrada .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9275,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.927, \"Joseph Estrada .\": 0.905}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'President'. ",
+        "relation": "has actor",
+        "tail": "Joseph Estrada .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9322,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.932, \"Joseph Estrada .\": 0.908}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'family'. ",
+        "relation": "has actor",
+        "tail": "his .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9098,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.91, \"Filipino .\": 0.903}",
+        "rank": 624,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'family'. ",
+        "relation": "has actor",
+        "tail": "family .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9098,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.91, \"Filipino .\": 0.903}",
+        "rank": 890,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leaves'. ",
+        "relation": "has actor",
+        "tail": "Malacaang Palace .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.906, \"Filipino .\": 0.9}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leaves'. ",
+        "relation": "has actor",
+        "tail": "Estrada and his family .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9062,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.906, \"Filipino .\": 0.9}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'ouster'. ",
+        "relation": "has actor",
+        "tail": "of President Joseph Estrada .",
+        "pred_tail": "of President Joseph Estrada .",
+        "pred_score": 0.9291,
+        "topk_score_info": "{\"of President Joseph Estrada .\": 0.929, \"Joseph Estrada .\": 0.908}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Gloria Macapagal Arroyo becomes President",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 55,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Resignation and ouster of President Joseph Estrada",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Second EDSA Revolution",
+        "relation": "has outcome",
+        "tail": "Estrada and his family leaves Malaca\\u00F1ang Palace",
+        "pred_tail": "Second EDSA Revolution",
+        "pred_score": 0.9442,
+        "topk_score_info": "{\"Second EDSA Revolution\": 0.944, \"People Power Revolution\": 0.914, \"Philippine Republic .\": 0.875}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9352,
+        "topk_score_info": "{\"Rose Revolution\": 0.935, \"Mikheil Saakashvili\": 0.899, \"Adjara\": 0.898}",
+        "rank": 1070,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "has place",
+        "tail": "Georgia (country)",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9441,
+        "topk_score_info": "{\"Rose Revolution\": 0.944, \"Adjara\": 0.904, \"Georgia (country)\": 0.903}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'president'. ",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9424,
+        "topk_score_info": "{\"Rose Revolution\": 0.942, \"Georgia (country)\": 0.907, \"Adjara\": 0.902}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "Mikheil Saakashvili .",
+        "pred_score": 0.8881,
+        "topk_score_info": "{\"Mikheil Saakashvili .\": 0.888, \"Event triggered from lemma 'president'. \": 0.875, \"Mikheil Saakashvili sworn in as president\": 0.869}",
+        "rank": 313,
+        "correct": false
+    },
+    {
+        "head": "Mikheil Saakashvili .",
+        "relation": "related",
+        "tail": "Mikheil Saakashvili",
+        "pred_tail": "Mikheil Saakashvili sworn in as president",
+        "pred_score": 0.9143,
+        "topk_score_info": "{\"Mikheil Saakashvili sworn in as president\": 0.914, \"Event triggered from lemma 'president'. \": 0.894, \"Mikheil Saakashvili .\": 0.892}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "has actor",
+        "tail": "Mikheil Saakashvili .",
+        "pred_tail": "Mikheil Saakashvili .",
+        "pred_score": 0.9085,
+        "topk_score_info": "{\"Mikheil Saakashvili .\": 0.908, \"Mikheil Saakashvili\": 0.866, \"Aslan Abashidze .\": 0.859}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Rose Revolution",
+        "relation": "has outcome",
+        "tail": "Mikheil Saakashvili sworn in as president",
+        "pred_tail": "Rose Revolution",
+        "pred_score": 0.9424,
+        "topk_score_info": "{\"Rose Revolution\": 0.942, \"Georgia (country)\": 0.907, \"Adjara\": 0.902}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Aslan Abashidze",
+        "pred_score": 0.913,
+        "topk_score_info": "{\"Aslan Abashidze\": 0.913, \"2004 Adjara crisis\": 0.908, \"Adjara\": 0.891}",
+        "rank": 985,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has actor",
+        "tail": "Aslan Abashidze",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.919, \"Aslan Abashidze\": 0.911, \"Adjara\": 0.903}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has place",
+        "tail": "Adjara",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9241,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.924, \"Aslan Abashidze\": 0.908, \"Adjara\": 0.905}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has place",
+        "tail": "Georgia (country)",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9241,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.924, \"Aslan Abashidze\": 0.908, \"Rose Revolution\": 0.897}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has actor",
+        "tail": "Mikheil Saakashvili",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.919,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.919, \"Adjara\": 0.903, \"Rose Revolution\": 0.892}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'victory,'. ",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9319,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.932, \"Adjara\": 0.902, \"Rose Revolution\": 0.901}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'flees'. ",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9319,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.932, \"Adjara\": 0.902, \"Rose Revolution\": 0.901}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory,'. ",
+        "relation": "type",
+        "tail": "Finish competition",
+        "pred_tail": "Aslan Abashidze .",
+        "pred_score": 0.8786,
+        "topk_score_info": "{\"Aslan Abashidze .\": 0.879, \"Russian .\": 0.849, \"Revolution .\": 0.845}",
+        "rank": 228,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'flees'. ",
+        "relation": "type",
+        "tail": "Fleeing",
+        "pred_tail": "Aslan Abashidze .",
+        "pred_score": 0.8858,
+        "topk_score_info": "{\"Aslan Abashidze .\": 0.886, \"Russian .\": 0.846}",
+        "rank": 446,
+        "correct": false
+    },
+    {
+        "head": "Aslan Abashidze .",
+        "relation": "related",
+        "tail": "Aslan Abashidze",
+        "pred_tail": "Government forces victory, Aslan Abashidze flees to Russia",
+        "pred_score": 0.9109,
+        "topk_score_info": "{\"Government forces victory, Aslan Abashidze flees to Russia\": 0.911, \"Aslan Abashidze .\": 0.888, \"Event triggered from lemma 'victory,'. \": 0.884}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "to Russia .",
+        "relation": "related",
+        "tail": "Russia",
+        "pred_tail": "in Russia proper .",
+        "pred_score": 0.8891,
+        "topk_score_info": "{\"in Russia proper .\": 0.889, \"Russian Civil .\": 0.882}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'victory,'. ",
+        "relation": "has actor",
+        "tail": "Government forces .",
+        "pred_tail": "Aslan Abashidze .",
+        "pred_score": 0.8936,
+        "topk_score_info": "{\"Aslan Abashidze .\": 0.894, \"to Russia .\": 0.865, \"Mikheil Saakashvili .\": 0.849}",
+        "rank": 135,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'flees'. ",
+        "relation": "has actor",
+        "tail": "Aslan Abashidze .",
+        "pred_tail": "Aslan Abashidze .",
+        "pred_score": 0.9009,
+        "topk_score_info": "{\"Aslan Abashidze .\": 0.901, \"Mikheil Saakashvili .\": 0.855, \"Russian .\": 0.844}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'flees'. ",
+        "relation": "has actor",
+        "tail": "to Russia .",
+        "pred_tail": "to Russia .",
+        "pred_score": 0.8639,
+        "topk_score_info": "{\"to Russia .\": 0.864, \"Mikheil Saakashvili .\": 0.855, \"Russian .\": 0.844}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "2004 Adjara crisis",
+        "relation": "has outcome",
+        "tail": "Government forces victory, Aslan Abashidze flees to Russia",
+        "pred_tail": "2004 Adjara crisis",
+        "pred_score": 0.9319,
+        "topk_score_info": "{\"2004 Adjara crisis\": 0.932, \"Adjara\": 0.902, \"Rose Revolution\": 0.901}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9458,
+        "topk_score_info": "{\"Orange Revolution\": 0.946, \"Right-bank Ukraine\": 0.924, \"Euromaidan\": 0.92}",
+        "rank": 963,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'ordered'. ",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9416,
+        "topk_score_info": "{\"Orange Revolution\": 0.942, \"Euromaidan\": 0.914, \"Right-bank Ukraine\": 0.911}",
+        "rank": 14,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'declared'. ",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9416,
+        "topk_score_info": "{\"Orange Revolution\": 0.942, \"Euromaidan\": 0.914, \"Right-bank Ukraine\": 0.911}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'winner'. ",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9416,
+        "topk_score_info": "{\"Orange Revolution\": 0.942, \"Euromaidan\": 0.914, \"Right-bank Ukraine\": 0.911}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'ordered'. ",
+        "relation": "type",
+        "tail": "Sentencing",
+        "pred_tail": "by the Supreme Court of Ukraine .",
+        "pred_score": 0.8799,
+        "topk_score_info": "{\"by the Supreme Court of Ukraine .\": 0.88, \"of the Russian monarchy .\": 0.874, \"of the Soviet Union .\": 0.872}",
+        "rank": 584,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'declared'. ",
+        "relation": "type",
+        "tail": "Statement",
+        "pred_tail": "of the Soviet Union .",
+        "pred_score": 0.8629,
+        "topk_score_info": "{\"of the Soviet Union .\": 0.863, \"Viktor Yushchenko .\": 0.86}",
+        "rank": 763,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'winner'. ",
+        "relation": "type",
+        "tail": "Finish competition",
+        "pred_tail": "Viktor Yushchenko .",
+        "pred_score": 0.8682,
+        "topk_score_info": "{\"Viktor Yushchenko .\": 0.868, \"of the Soviet Union .\": 0.865}",
+        "rank": 728,
+        "correct": false
+    },
+    {
+        "head": "by the Supreme Court of Ukraine .",
+        "relation": "related",
+        "tail": "Ukraine",
+        "pred_tail": "by the Supreme Court of Ukraine .",
+        "pred_score": 0.933,
+        "topk_score_info": "{\"by the Supreme Court of Ukraine .\": 0.933, \"Revote ordered by the Supreme Court of Ukraine\": 0.908, \"Event triggered from lemma 'ordered'. \": 0.878}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "by the Supreme Court of Ukraine .",
+        "relation": "related",
+        "tail": "Supreme Court of the United States",
+        "pred_tail": "by the Supreme Court of Ukraine .",
+        "pred_score": 0.933,
+        "topk_score_info": "{\"by the Supreme Court of Ukraine .\": 0.933, \"Revote ordered by the Supreme Court of Ukraine\": 0.908, \"Event triggered from lemma 'ordered'. \": 0.878}",
+        "rank": 2120,
+        "correct": false
+    },
+    {
+        "head": "Viktor Yushchenko .",
+        "relation": "related",
+        "tail": "Viktor Yushchenko",
+        "pred_tail": "Viktor Yushchenko declared winner",
+        "pred_score": 0.8999,
+        "topk_score_info": "{\"Viktor Yushchenko declared winner\": 0.9, \"Viktor Yushchenko .\": 0.9}",
+        "rank": 117,
+        "correct": false
+    },
+    {
+        "head": "Viktor Yushchenko .",
+        "relation": "related",
+        "tail": "Viktor Yushchenko",
+        "pred_tail": "Viktor Yushchenko declared winner",
+        "pred_score": 0.8999,
+        "topk_score_info": "{\"Viktor Yushchenko declared winner\": 0.9, \"Viktor Yushchenko .\": 0.9}",
+        "rank": 117,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'ordered'. ",
+        "relation": "has actor",
+        "tail": "Revote .",
+        "pred_tail": "of the Russian monarchy .",
+        "pred_score": 0.8751,
+        "topk_score_info": "{\"of the Russian monarchy .\": 0.875, \"to Russia .\": 0.873, \"of the Soviet Union .\": 0.868}",
+        "rank": 458,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Sentence",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 1641,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'ordered'. ",
+        "relation": "has actor",
+        "tail": "by the Supreme Court of Ukraine .",
+        "pred_tail": "by the Supreme Court of Ukraine .",
+        "pred_score": 0.9039,
+        "topk_score_info": "{\"by the Supreme Court of Ukraine .\": 0.904, \"of the Russian monarchy .\": 0.875, \"to Russia .\": 0.873}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Court",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 318,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'declared'. ",
+        "relation": "has actor",
+        "tail": "Viktor Yushchenko .",
+        "pred_tail": "Viktor Yushchenko .",
+        "pred_score": 0.8906,
+        "topk_score_info": "{\"Viktor Yushchenko .\": 0.891, \"to Russia .\": 0.877}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'declared'. ",
+        "relation": "has actor",
+        "tail": "winner .",
+        "pred_tail": "Viktor Yushchenko .",
+        "pred_score": 0.8906,
+        "topk_score_info": "{\"Viktor Yushchenko .\": 0.891, \"to Russia .\": 0.877, \"of the Russian monarchy .\": 0.874}",
+        "rank": 489,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'winner'. ",
+        "relation": "has actor",
+        "tail": "Viktor Yushchenko .",
+        "pred_tail": "Viktor Yushchenko .",
+        "pred_score": 0.8949,
+        "topk_score_info": "{\"Viktor Yushchenko .\": 0.895, \"to Russia .\": 0.884}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "has outcome",
+        "tail": "Viktor Yushchenko declared winner",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9416,
+        "topk_score_info": "{\"Orange Revolution\": 0.942, \"Euromaidan\": 0.914, \"Right-bank Ukraine\": 0.911}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Orange Revolution",
+        "relation": "has outcome",
+        "tail": "Revote ordered by the Supreme Court of Ukraine",
+        "pred_tail": "Orange Revolution",
+        "pred_score": 0.9416,
+        "topk_score_info": "{\"Orange Revolution\": 0.942, \"Euromaidan\": 0.914, \"Right-bank Ukraine\": 0.911}",
+        "rank": 10,
+        "correct": false
+    },
+    {
+        "head": "Cedar Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Cedar Revolution",
+        "pred_score": 0.9277,
+        "topk_score_info": "{\"Cedar Revolution\": 0.928, \"Great Syrian Revolt\": 0.898, \"Muhammad al-Ashmar\": 0.894}",
+        "rank": 458,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has place",
+        "tail": "Kyrgyzstan",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9266,
+        "topk_score_info": "{\"Tulip Revolution\": 0.927, \"Kyrgyzstan\": 0.902, \"Kyrgyz Revolution of 2010\": 0.899}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9213,
+        "topk_score_info": "{\"Tulip Revolution\": 0.921, \"Kyrgyzstan\": 0.9, \"Andijan massacre\": 0.895}",
+        "rank": 480,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'becomes'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'opposition'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 206,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'government'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'president'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 8,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'power'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 216,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'president'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'minister'. ",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 5,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "type",
+        "tail": "Becoming",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.8917,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.892, \"Askar Akayev .\": 0.886, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.883}",
+        "rank": 283,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'opposition'. ",
+        "relation": "type",
+        "tail": "Taking sides",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8562,
+        "topk_score_info": "{\"of revolt .\": 0.856, \"The Revolutions .\": 0.852, \"policy .\": 0.85}",
+        "rank": 133,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.8951,
+        "topk_score_info": "{\"Askar Akayev .\": 0.895, \"Kurmanbek Bakiyev .\": 0.889, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.863}",
+        "rank": 226,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.8998,
+        "topk_score_info": "{\"Askar Akayev .\": 0.9, \"Kurmanbek Bakiyev .\": 0.892, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.867}",
+        "rank": 219,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'power'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "The Revolutions .",
+        "pred_score": 0.8549,
+        "topk_score_info": "{\"The Revolutions .\": 0.855, \"of revolt .\": 0.853, \"in power .\": 0.852}",
+        "rank": 306,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.8966,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.897, \"Askar Akayev .\": 0.889, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.885}",
+        "rank": 207,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'minister'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.8958,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.896, \"Askar Akayev .\": 0.889, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.886}",
+        "rank": 214,
+        "correct": false
+    },
+    {
+        "head": "Kurmanbek Bakiyev .",
+        "relation": "related",
+        "tail": "Kurmanbek Bakiyev",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.9292,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.929, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.928, \"Overthrow of president Askar Akayev and his government\": 0.92}",
+        "rank": 21,
+        "correct": false
+    },
+    {
+        "head": "Askar Akayev .",
+        "relation": "related",
+        "tail": "Askar Akayev",
+        "pred_tail": "Overthrow of president Askar Akayev and his government",
+        "pred_score": 0.9141,
+        "topk_score_info": "{\"Overthrow of president Askar Akayev and his government\": 0.914, \"Event triggered from lemma 'government'. \": 0.91, \"Event triggered from lemma 'president'. \": 0.908}",
+        "rank": 127,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "has actor",
+        "tail": "acting president and acting prime minister .",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.9,
+        "topk_score_info": "{\"Askar Akayev .\": 0.9, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.872, \"to Russia .\": 0.851}",
+        "rank": 170,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'becomes'. ",
+        "relation": "has actor",
+        "tail": "Kurmanbek Bakiyev .",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.9,
+        "topk_score_info": "{\"Askar Akayev .\": 0.9, \"Kurmanbek Bakiyev .\": 0.899, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.872}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'opposition'. ",
+        "relation": "has actor",
+        "tail": "opposition .",
+        "pred_tail": "opposition .",
+        "pred_score": 0.8925,
+        "topk_score_info": "{\"opposition .\": 0.893, \"Opposition .\": 0.893}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "has actor",
+        "tail": "government .",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.9035,
+        "topk_score_info": "{\"Askar Akayev .\": 0.903, \"Kurmanbek Bakiyev .\": 0.892, \"Aslan Abashidze .\": 0.852}",
+        "rank": 254,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "has actor",
+        "tail": "his .",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.9035,
+        "topk_score_info": "{\"Askar Akayev .\": 0.903, \"Kurmanbek Bakiyev .\": 0.892, \"Aslan Abashidze .\": 0.852}",
+        "rank": 441,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "has actor",
+        "tail": "Askar Akayev .",
+        "pred_tail": "Askar Akayev .",
+        "pred_score": 0.9079,
+        "topk_score_info": "{\"Askar Akayev .\": 0.908, \"Kurmanbek Bakiyev .\": 0.895, \"Aslan Abashidze .\": 0.853}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'power'. ",
+        "relation": "has actor",
+        "tail": "by the opposition .",
+        "pred_tail": "opposition .",
+        "pred_score": 0.888,
+        "topk_score_info": "{\"opposition .\": 0.888, \"Opposition .\": 0.888}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "has actor",
+        "tail": "acting .",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.9035,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.903, \"Askar Akayev .\": 0.901, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.874}",
+        "rank": 628,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'minister'. ",
+        "relation": "has actor",
+        "tail": "minister .",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.9028,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.903, \"Askar Akayev .\": 0.901, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.875}",
+        "rank": 186,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'minister'. ",
+        "relation": "has actor",
+        "tail": "acting prime .",
+        "pred_tail": "Kurmanbek Bakiyev .",
+        "pred_score": 0.9028,
+        "topk_score_info": "{\"Kurmanbek Bakiyev .\": 0.903, \"Askar Akayev .\": 0.901, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.875}",
+        "rank": 386,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Overthrow of president Askar Akayev and his government",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Overthrow of president Askar Akayev and his government\": 0.902, \"Kyrgyz Revolution of 2010\": 0.897}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Assumption of power by the opposition",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kyrgyz Revolution of 2010\": 0.897, \"Andijan massacre\": 0.893}",
+        "rank": 187,
+        "correct": false
+    },
+    {
+        "head": "Tulip Revolution",
+        "relation": "has outcome",
+        "tail": "Kurmanbek Bakiyev becomes acting president and acting prime minister",
+        "pred_tail": "Tulip Revolution",
+        "pred_score": 0.9339,
+        "topk_score_info": "{\"Tulip Revolution\": 0.934, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.897, \"Kyrgyz Revolution of 2010\": 0.897}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has place",
+        "tail": "Andijan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.948,
+        "topk_score_info": "{\"Andijan massacre\": 0.948, \"Kyrgyzstan\": 0.869, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.841}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has place",
+        "tail": "Uzbekistan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.948,
+        "topk_score_info": "{\"Andijan massacre\": 0.948, \"Kyrgyzstan\": 0.869, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.841}",
+        "rank": 53,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9483,
+        "topk_score_info": "{\"Andijan massacre\": 0.948, \"Kyrgyzstan\": 0.87, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.844}",
+        "rank": 479,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'arms'. ",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9516,
+        "topk_score_info": "{\"Andijan massacre\": 0.952, \"Kyrgyzstan\": 0.87, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.854}",
+        "rank": 19,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'arms'. ",
+        "relation": "type",
+        "tail": "Bearing arms",
+        "pred_tail": "policy .",
+        "pred_score": 0.8595,
+        "topk_score_info": "{\"policy .\": 0.86, \"Economic Policy .\": 0.857, \"diplomatic .\": 0.853}",
+        "rank": 521,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'arms'. ",
+        "relation": "has actor",
+        "tail": "arms .",
+        "pred_tail": "of protestors .",
+        "pred_score": 0.8566,
+        "topk_score_info": "{\"of protestors .\": 0.857, \"to Russia .\": 0.856, \"diplomatic .\": 0.847}",
+        "rank": 264,
+        "correct": false
+    },
+    {
+        "head": "Andijan massacre",
+        "relation": "has outcome",
+        "tail": "EU arms embargo on Uzbekistan",
+        "pred_tail": "Andijan massacre",
+        "pred_score": 0.9516,
+        "topk_score_info": "{\"Andijan massacre\": 0.952, \"Kyrgyzstan\": 0.87, \"Kurmanbek Bakiyev becomes acting president and acting prime minister\": 0.854}",
+        "rank": 39,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9063,
+        "topk_score_info": "{\"Saffron Revolution\": 0.906, \"8888 Uprising\": 0.878, \"Rite\": 0.832}",
+        "rank": 60,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has place",
+        "tail": "Myanmar",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.916,
+        "topk_score_info": "{\"Saffron Revolution\": 0.916, \"8888 Uprising\": 0.888, \"Myanmar\": 0.837}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'election'. ",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9273,
+        "topk_score_info": "{\"Saffron Revolution\": 0.927, \"8888 Uprising\": 0.9, \"Event triggered from lemma 'Entry'. \": 0.841}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'government'. ",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9273,
+        "topk_score_info": "{\"Saffron Revolution\": 0.927, \"8888 Uprising\": 0.9, \"Event triggered from lemma 'Entry'. \": 0.841}",
+        "rank": 28,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'new'. ",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9273,
+        "topk_score_info": "{\"Saffron Revolution\": 0.927, \"8888 Uprising\": 0.9, \"Event triggered from lemma 'Entry'. \": 0.841}",
+        "rank": 45,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'suppressed,'. ",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9273,
+        "topk_score_info": "{\"Saffron Revolution\": 0.927, \"8888 Uprising\": 0.9, \"Event triggered from lemma 'Entry'. \": 0.841}",
+        "rank": 27,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'election'. ",
+        "relation": "type",
+        "tail": "Change of leadership",
+        "pred_tail": "of a new government .",
+        "pred_score": 0.8691,
+        "topk_score_info": "{\"of a new government .\": 0.869, \"opposition .\": 0.864}",
+        "rank": 181,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "government .",
+        "pred_score": 0.8734,
+        "topk_score_info": "{\"government .\": 0.87}",
+        "rank": 139,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'new'. ",
+        "relation": "type",
+        "tail": "Age",
+        "pred_tail": "of Rebellion .",
+        "pred_score": 0.8697,
+        "topk_score_info": "{\"of Rebellion .\": 0.87, \"government .\": 0.862, \"of a new government .\": 0.86}",
+        "rank": 308,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'suppressed,'. ",
+        "relation": "type",
+        "tail": "Change position on a scale",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8672,
+        "topk_score_info": "{\"of revolt .\": 0.867, \"of Rebellion .\": 0.867, \"of the conspiracy .\": 0.86}",
+        "rank": 503,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'election'. ",
+        "relation": "has actor",
+        "tail": "of a new government .",
+        "pred_tail": "of a new government .",
+        "pred_score": 0.8916,
+        "topk_score_info": "{\"of a new government .\": 0.892, \"opposition .\": 0.89}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "has actor",
+        "tail": "government .",
+        "pred_tail": "of a new government .",
+        "pred_score": 0.8911,
+        "topk_score_info": "{\"of a new government .\": 0.891, \"opposition .\": 0.888}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "has actor",
+        "tail": "new .",
+        "pred_tail": "of a new government .",
+        "pred_score": 0.8911,
+        "topk_score_info": "{\"of a new government .\": 0.891, \"opposition .\": 0.888}",
+        "rank": 117,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'new'. ",
+        "relation": "has actor",
+        "tail": "new .",
+        "pred_tail": "of a new government .",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"of a new government .\": 0.89, \"opposition .\": 0.88}",
+        "rank": 84,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'new'. ",
+        "relation": "has actor",
+        "tail": "government .",
+        "pred_tail": "of a new government .",
+        "pred_score": 0.8896,
+        "topk_score_info": "{\"of a new government .\": 0.89, \"opposition .\": 0.88}",
+        "rank": 7,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'suppressed,'. ",
+        "relation": "has actor",
+        "tail": "Uprising .",
+        "pred_tail": "opposition .",
+        "pred_score": 0.884,
+        "topk_score_info": "{\"opposition .\": 0.884, \"Opposition .\": 0.884}",
+        "rank": 18,
+        "correct": false
+    },
+    {
+        "head": "Saffron Revolution",
+        "relation": "has outcome",
+        "tail": "Uprising suppressed, political reforms and election of a new government",
+        "pred_tail": "Saffron Revolution",
+        "pred_score": 0.9273,
+        "topk_score_info": "{\"Saffron Revolution\": 0.927, \"8888 Uprising\": 0.9, \"Event triggered from lemma 'Entry'. \": 0.841}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "2009 Icelandic financial crisis protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2009 Icelandic financial crisis protests",
+        "pred_score": 0.9305,
+        "topk_score_info": "{\"2009 Icelandic financial crisis protests\": 0.931, \"Danish .\": 0.811, \"Finnish Whites .\": 0.798}",
+        "rank": 87,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "has place",
+        "tail": "Kyrgyzstan",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9503,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.95, \"Tulip Revolution\": 0.907, \"Kyrgyzstan\": 0.891}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Kyrgyz Revolution of 2010",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Kyrgyz Revolution of 2010",
+        "pred_score": 0.9453,
+        "topk_score_info": "{\"Kyrgyz Revolution of 2010\": 0.945, \"Tulip Revolution\": 0.902, \"Kyrgyzstan\": 0.89}",
+        "rank": 653,
+        "correct": false
+    },
+    {
+        "head": "Arab Spring",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.9209,
+        "topk_score_info": "{\"Arab Spring\": 0.921, \"Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels\": 0.89, \"Muhammad al-Ashmar\": 0.884}",
+        "rank": 367,
+        "correct": false
+    },
+    {
+        "head": "Arab Spring",
+        "relation": "has outcome",
+        "tail": "http://dbpedia.org/resource/Arab_Winter",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.9394,
+        "topk_score_info": "{\"Arab Spring\": 0.939, \"Corrective Movement ( Syria)\": 0.886, \"Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels\": 0.884}",
+        "rank": 1561,
+        "correct": false
+    },
+    {
+        "head": "Tunisian Revolution",
+        "relation": "has place",
+        "tail": "Tunisia",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.9046,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.905, \"Tunisia\": 0.856, \"Algerian .\": 0.854}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Tunisian Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Tunisian Revolution",
+        "pred_score": 0.8894,
+        "topk_score_info": "{\"Tunisian Revolution\": 0.889, \"of Daoud's supporters .\": 0.852}",
+        "rank": 528,
+        "correct": false
+    },
+    {
+        "head": "November 2012 Jordanian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "November 2012 Jordanian protests",
+        "pred_score": 0.875,
+        "topk_score_info": "{\"November 2012 Jordanian protests\": 0.875, \"Egyptian crisis (2011\\u20132014)\": 0.794, \"Syrian .\": 0.778}",
+        "rank": 608,
+        "correct": false
+    },
+    {
+        "head": "2011 Lebanese protests",
+        "relation": "has place",
+        "tail": "Lebanon",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.8952,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.895, \"Mandate for Syria and the Lebanon\": 0.882, \"Arab Spring\": 0.88}",
+        "rank": 26,
+        "correct": false
+    },
+    {
+        "head": "2011 Lebanese protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "2011 Lebanese protests",
+        "pred_score": 0.8834,
+        "topk_score_info": "{\"2011 Lebanese protests\": 0.883, \"Salah Jadid\": 0.878, \"Ramadan al-Shallash\": 0.878}",
+        "rank": 343,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has place",
+        "tail": "Yemen",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.8982,
+        "topk_score_info": "{\"Arab Spring\": 0.898, \"Yemeni Revolution\": 0.891, \"of the Arab Federation .\": 0.886}",
+        "rank": 15,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Arab Spring",
+        "pred_score": 0.8829,
+        "topk_score_info": "{\"Arab Spring\": 0.883, \"as the new president of Yemen .\": 0.877, \"Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels\": 0.876}",
+        "rank": 400,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'several'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 427,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'leaders'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 477,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Prime'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 515,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'elected'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'elected'. \": 0.896}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'cities'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'cities'. \": 0.894}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'government'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 155,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Resignation'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 533,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'replace'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'replace'. \": 0.893}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'One'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'One'. \": 0.894}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'sacking'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 427,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'forces'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 455,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'regions'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'regions'. \": 0.895}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'president'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'president'. \": 0.895}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'election'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'election'. \": 0.896}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'military'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 466,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Overthrow'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 148,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Minister'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 542,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'new'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Event triggered from lemma 'new'. \": 0.892}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Event triggered from lemma 'Resignation'. ",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 443,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'several'. ",
+        "relation": "type",
+        "tail": "Quantified mass",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8751,
+        "topk_score_info": "{\"of revolt .\": 0.875, \"of Rebellion .\": 0.871, \"of the conspiracy .\": 0.867}",
+        "rank": 200,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leaders'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "of Rebellion .",
+        "pred_score": 0.8695,
+        "topk_score_info": "{\"of Rebellion .\": 0.87, \"of the conspiracy .\": 0.869, \"of revolt .\": 0.863}",
+        "rank": 134,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Prime'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "government .",
+        "pred_score": 0.8784,
+        "topk_score_info": "{\"government .\": 0.878}",
+        "rank": 159,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'elected'. ",
+        "relation": "type",
+        "tail": "Change of leadership",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9216,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.922, \"president of Yemen .\": 0.908, \"in Yemen .\": 0.894}",
+        "rank": 269,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'cities'. ",
+        "relation": "type",
+        "tail": "Political locales",
+        "pred_tail": "Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels",
+        "pred_score": 0.9086,
+        "topk_score_info": "{\"Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels\": 0.909, \"as the new president of Yemen .\": 0.896, \"in Yemen .\": 0.896}",
+        "rank": 360,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "of Saleh government .",
+        "pred_score": 0.8981,
+        "topk_score_info": "{\"of Saleh government .\": 0.898, \"Saleh .\": 0.849}",
+        "rank": 115,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "type",
+        "tail": "Quitting",
+        "pred_tail": "government .",
+        "pred_score": 0.8616,
+        "topk_score_info": "{\"government .\": 0.862, \"provisional .\": 0.861, \"Provisional .\": 0.861}",
+        "rank": 434,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'replace'. ",
+        "relation": "type",
+        "tail": "Take place of",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9214,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.921, \"president of Yemen .\": 0.909, \"in Yemen .\": 0.895}",
+        "rank": 470,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'One'. ",
+        "relation": "type",
+        "tail": "Cardinal numbers",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9232,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.923, \"president of Yemen .\": 0.911, \"in Yemen .\": 0.898}",
+        "rank": 612,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'sacking'. ",
+        "relation": "type",
+        "tail": "Firing",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8668,
+        "topk_score_info": "{\"of revolt .\": 0.867, \"of Rebellion .\": 0.864, \"in the campaigns .\": 0.862}",
+        "rank": 313,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'forces'. ",
+        "relation": "type",
+        "tail": "Military",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8705,
+        "topk_score_info": "{\"of revolt .\": 0.871, \"of Rebellion .\": 0.869, \"of the conspiracy .\": 0.866}",
+        "rank": 210,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'regions'. ",
+        "relation": "type",
+        "tail": "Locale",
+        "pred_tail": "Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels",
+        "pred_score": 0.911,
+        "topk_score_info": "{\"Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels\": 0.911, \"as the new president of Yemen .\": 0.895, \"in Yemen .\": 0.894}",
+        "rank": 752,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9245,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.925, \"president of Yemen .\": 0.913, \"in Yemen .\": 0.898}",
+        "rank": 272,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'election'. ",
+        "relation": "type",
+        "tail": "Change of leadership",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9242,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.924, \"president of Yemen .\": 0.912, \"in Yemen .\": 0.898}",
+        "rank": 272,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'military'. ",
+        "relation": "type",
+        "tail": "Military",
+        "pred_tail": "of revolt .",
+        "pred_score": 0.8735,
+        "topk_score_info": "{\"of revolt .\": 0.873, \"of Rebellion .\": 0.871, \"of the conspiracy .\": 0.867}",
+        "rank": 218,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Overthrow'. ",
+        "relation": "type",
+        "tail": "Change of leadership",
+        "pred_tail": "of Saleh government .",
+        "pred_score": 0.899,
+        "topk_score_info": "{\"of Saleh government .\": 0.899, \"of Prince 'Abd al-Ilah .\": 0.848, \"Saleh .\": 0.848}",
+        "rank": 253,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Minister'. ",
+        "relation": "type",
+        "tail": "Leadership",
+        "pred_tail": "government .",
+        "pred_score": 0.8778,
+        "topk_score_info": "{\"government .\": 0.878}",
+        "rank": 162,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'new'. ",
+        "relation": "type",
+        "tail": "Age",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9239,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.924, \"president of Yemen .\": 0.911, \"in Yemen .\": 0.898}",
+        "rank": 586,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "type",
+        "tail": "Quitting",
+        "pred_tail": "government .",
+        "pred_score": 0.8659,
+        "topk_score_info": "{\"government .\": 0.866}",
+        "rank": 433,
+        "correct": false
+    },
+    {
+        "head": "Abdrabbuh Mansur Hadi .",
+        "relation": "related",
+        "tail": "Abdrabbuh Mansur Hadi",
+        "pred_tail": "Abdrabbuh Mansur Hadi .",
+        "pred_score": 0.9161,
+        "topk_score_info": "{\"Abdrabbuh Mansur Hadi .\": 0.916, \"Nuri al-Said .\": 0.9}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "in Yemen .",
+        "relation": "related",
+        "tail": "Yemen",
+        "pred_tail": "Event triggered from lemma 'new'. ",
+        "pred_score": 0.8969,
+        "topk_score_info": "{\"Event triggered from lemma 'new'. \": 0.897, \"Event triggered from lemma 'One'. \": 0.897, \"Event triggered from lemma 'election'. \": 0.897}",
+        "rank": 12,
+        "correct": false
+    },
+    {
+        "head": "as the new president of Yemen .",
+        "relation": "related",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Event triggered from lemma 'election'. ",
+        "pred_score": 0.9068,
+        "topk_score_info": "{\"Event triggered from lemma 'election'. \": 0.907, \"Event triggered from lemma 'elected'. \": 0.906, \"Event triggered from lemma 'president'. \": 0.905}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "of Yemen .",
+        "relation": "related",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Event triggered from lemma 'new'. ",
+        "pred_score": 0.8955,
+        "topk_score_info": "{\"Event triggered from lemma 'new'. \": 0.895, \"Event triggered from lemma 'One'. \": 0.895, \"Event triggered from lemma 'president'. \": 0.895}",
+        "rank": 13,
+        "correct": false
+    },
+    {
+        "head": "president of Yemen .",
+        "relation": "related",
+        "tail": "Yemeni Revolution",
+        "pred_tail": "Event triggered from lemma 'election'. ",
+        "pred_score": 0.9042,
+        "topk_score_info": "{\"Event triggered from lemma 'election'. \": 0.904, \"Event triggered from lemma 'president'. \": 0.904, \"Event triggered from lemma 'elected'. \": 0.902}",
+        "rank": 23,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'several'. ",
+        "relation": "has actor",
+        "tail": "several .",
+        "pred_tail": "of the conspiracy .",
+        "pred_score": 0.8761,
+        "topk_score_info": "{\"of the conspiracy .\": 0.876, \"of Rebellion .\": 0.872, \"for the Free Officers .\": 0.871}",
+        "rank": 140,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Quantity",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 888,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'several'. ",
+        "relation": "has actor",
+        "tail": "of its leaders .",
+        "pred_tail": "of the conspiracy .",
+        "pred_score": 0.8761,
+        "topk_score_info": "{\"of the conspiracy .\": 0.876, \"of Rebellion .\": 0.872, \"for the Free Officers .\": 0.871}",
+        "rank": 16,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'leaders'. ",
+        "relation": "has actor",
+        "tail": "its .",
+        "pred_tail": "of its leaders .",
+        "pred_score": 0.8753,
+        "topk_score_info": "{\"of its leaders .\": 0.875, \"opposition .\": 0.873}",
+        "rank": 153,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Prime'. ",
+        "relation": "has actor",
+        "tail": "Mujawar .",
+        "pred_tail": "government .",
+        "pred_score": 0.8637,
+        "topk_score_info": "{\"government .\": 0.864}",
+        "rank": 22,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'elected'. ",
+        "relation": "has actor",
+        "tail": "Abdrabbuh Mansur Hadi .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9356,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.936, \"president of Yemen .\": 0.924, \"in Yemen .\": 0.912}",
+        "rank": 17,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'cities'. ",
+        "relation": "has actor",
+        "tail": "several .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9127,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.913, \"president of Yemen .\": 0.911, \"of Yemen .\": 0.909}",
+        "rank": 813,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'cities'. ",
+        "relation": "has actor",
+        "tail": "cities .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9127,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.913, \"president of Yemen .\": 0.911, \"of Yemen .\": 0.909}",
+        "rank": 892,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'cities'. ",
+        "relation": "has actor",
+        "tail": "in Yemen .",
+        "pred_tail": "in Yemen .",
+        "pred_score": 0.9202,
+        "topk_score_info": "{\"in Yemen .\": 0.92, \"as the new president of Yemen .\": 0.913, \"president of Yemen .\": 0.911}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "has actor",
+        "relation": "rdf-schema",
+        "tail": "has actor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8845,
+        "topk_score_info": "{\"has actor\": 0.878}",
+        "rank": 136,
+        "correct": false
+    },
+    {
+        "head": "has actor",
+        "relation": "has role",
+        "tail": "Container possessor",
+        "pred_tail": "has actor",
+        "pred_score": 0.8419,
+        "topk_score_info": "{\"has actor\": 0.842}",
+        "rank": 726,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'government'. ",
+        "relation": "has actor",
+        "tail": "Saleh .",
+        "pred_tail": "of Saleh government .",
+        "pred_score": 0.9275,
+        "topk_score_info": "{\"of Saleh government .\": 0.928, \"Saleh .\": 0.892}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "has actor",
+        "tail": "of MPs .",
+        "pred_tail": "opposition .",
+        "pred_score": 0.8725,
+        "topk_score_info": "{\"opposition .\": 0.872, \"Opposition .\": 0.872}",
+        "rank": 85,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "has actor",
+        "tail": "from the ruling party .",
+        "pred_tail": "from the ruling party .",
+        "pred_score": 0.8769,
+        "topk_score_info": "{\"from the ruling party .\": 0.877, \"opposition .\": 0.872}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'replace'. ",
+        "relation": "has actor",
+        "tail": "One candidate Presidential election .",
+        "pred_tail": "president of Yemen .",
+        "pred_score": 0.9247,
+        "topk_score_info": "{\"president of Yemen .\": 0.925, \"in Yemen .\": 0.913, \"of Yemen .\": 0.91}",
+        "rank": 268,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'replace'. ",
+        "relation": "has actor",
+        "tail": "as the new president of Yemen .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9359,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.936, \"president of Yemen .\": 0.925, \"in Yemen .\": 0.913}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'replace'. ",
+        "relation": "has actor",
+        "tail": "Saleh .",
+        "pred_tail": "president of Yemen .",
+        "pred_score": 0.9247,
+        "topk_score_info": "{\"president of Yemen .\": 0.925, \"in Yemen .\": 0.913, \"of Yemen .\": 0.91}",
+        "rank": 11,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'One'. ",
+        "relation": "has actor",
+        "tail": "One .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9377,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"president of Yemen .\": 0.927, \"in Yemen .\": 0.917}",
+        "rank": 789,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'One'. ",
+        "relation": "has actor",
+        "tail": "candidate .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9377,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"president of Yemen .\": 0.927, \"in Yemen .\": 0.917}",
+        "rank": 645,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'sacking'. ",
+        "relation": "has actor",
+        "tail": "several of its leaders .",
+        "pred_tail": "for the Free Officers .",
+        "pred_score": 0.8671,
+        "topk_score_info": "{\"for the Free Officers .\": 0.867, \"of the conspiracy .\": 0.866, \"of Rebellion .\": 0.863}",
+        "rank": 36,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'forces'. ",
+        "relation": "has actor",
+        "tail": "military .",
+        "pred_tail": "of the conspiracy .",
+        "pred_score": 0.8723,
+        "topk_score_info": "{\"of the conspiracy .\": 0.872, \"for the Free Officers .\": 0.87, \"of the command economy .\": 0.87}",
+        "rank": 68,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'forces'. ",
+        "relation": "has actor",
+        "tail": "forces .",
+        "pred_tail": "of the conspiracy .",
+        "pred_score": 0.8723,
+        "topk_score_info": "{\"of the conspiracy .\": 0.872, \"for the Free Officers .\": 0.87, \"of the command economy .\": 0.87}",
+        "rank": 125,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'regions'. ",
+        "relation": "has actor",
+        "tail": "regions .",
+        "pred_tail": "in Yemen .",
+        "pred_score": 0.9188,
+        "topk_score_info": "{\"in Yemen .\": 0.919, \"as the new president of Yemen .\": 0.913, \"president of Yemen .\": 0.912}",
+        "rank": 1146,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "has actor",
+        "tail": "president .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9378,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"president of Yemen .\": 0.927, \"in Yemen .\": 0.915}",
+        "rank": 529,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "has actor",
+        "tail": "of Yemen .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9378,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"president of Yemen .\": 0.927, \"in Yemen .\": 0.915}",
+        "rank": 4,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'president'. ",
+        "relation": "has actor",
+        "tail": "new .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9378,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"president of Yemen .\": 0.927, \"in Yemen .\": 0.915}",
+        "rank": 1092,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'election'. ",
+        "relation": "has actor",
+        "tail": "Presidential .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.937,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.937, \"president of Yemen .\": 0.926, \"in Yemen .\": 0.915}",
+        "rank": 540,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'military'. ",
+        "relation": "has actor",
+        "tail": "military .",
+        "pred_tail": "of the conspiracy .",
+        "pred_score": 0.8743,
+        "topk_score_info": "{\"of the conspiracy .\": 0.874, \"for the Free Officers .\": 0.871, \"of Rebellion .\": 0.871}",
+        "rank": 75,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Overthrow'. ",
+        "relation": "has actor",
+        "tail": "of Saleh government .",
+        "pred_tail": "of Saleh government .",
+        "pred_score": 0.9297,
+        "topk_score_info": "{\"of Saleh government .\": 0.93, \"Saleh .\": 0.891}",
+        "rank": 1,
+        "correct": true
+    },
+    {
+        "head": "Event triggered from lemma 'Minister'. ",
+        "relation": "has actor",
+        "tail": "Mujawar .",
+        "pred_tail": "government .",
+        "pred_score": 0.8639,
+        "topk_score_info": "{\"government .\": 0.864}",
+        "rank": 25,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'new'. ",
+        "relation": "has actor",
+        "tail": "new .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9377,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"in Yemen .\": 0.916, \"of Yemen .\": 0.913}",
+        "rank": 1062,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'new'. ",
+        "relation": "has actor",
+        "tail": "president of Yemen .",
+        "pred_tail": "as the new president of Yemen .",
+        "pred_score": 0.9377,
+        "topk_score_info": "{\"as the new president of Yemen .\": 0.938, \"president of Yemen .\": 0.926, \"in Yemen .\": 0.916}",
+        "rank": 2,
+        "correct": false
+    },
+    {
+        "head": "Event triggered from lemma 'Resignation'. ",
+        "relation": "has actor",
+        "tail": "of Prime Minister Mujawar .",
+        "pred_tail": "Mujawar .",
+        "pred_score": 0.8626,
+        "topk_score_info": "{\"Mujawar .\": 0.863, \"of Prime Minister Mujawar .\": 0.857}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "One candidate Presidential election held to replace Saleh as the new president of Yemen; Abdrabbuh Mansur Hadi elected and inaugurated",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"One candidate Presidential election held to replace Saleh as the new president of Yemen; Abdrabbuh Mansur Hadi elected and inaugurated\": 0.892}",
+        "rank": 3,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Occupation of several regions and cities in Yemen by Al-Qaeda and Houthi rebels",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Restructure of the military forces by sacking several of its leaders",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 402,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Approval of President's immunity from prosecution by Yemeni legislators",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 9,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Overthrow of Saleh government",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 129,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Resignation of MPs from the ruling party",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 854,
+        "correct": false
+    },
+    {
+        "head": "Yemeni Revolution",
+        "relation": "has outcome",
+        "tail": "Resignation of Prime Minister Mujawar",
+        "pred_tail": "Yemeni Revolution",
+        "pred_score": 0.9169,
+        "topk_score_info": "{\"Yemeni Revolution\": 0.917, \"Arab Spring\": 0.908, \"Tunisian Revolution\": 0.889}",
+        "rank": 665,
+        "correct": false
+    },
+    {
+        "head": "June 2013 Egyptian protests",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.9247,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.925, \"of Egyptian independence .\": 0.869, \"Sultanate of Egypt\": 0.861}",
+        "rank": 414,
+        "correct": false
+    },
+    {
+        "head": "June 2013 Egyptian protests",
+        "relation": "sub event of",
+        "tail": "Egyptian crisis (2011–2014)",
+        "pred_tail": "June 2013 Egyptian protests",
+        "pred_score": 0.9332,
+        "topk_score_info": "{\"June 2013 Egyptian protests\": 0.933, \"of Egyptian independence .\": 0.873, \"Establishment of the Kingdom of Egypt\": 0.869}",
+        "rank": 6,
+        "correct": false
+    },
+    {
+        "head": "Euromaidan",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Euromaidan",
+        "pred_score": 0.9499,
+        "topk_score_info": "{\"Euromaidan\": 0.95, \"Right-bank Ukraine\": 0.913, \"Orange Revolution\": 0.91}",
+        "rank": 881,
+        "correct": false
+    },
+    {
+        "head": "Neolithic Revolution",
+        "relation": "type",
+        "tail": "event",
+        "pred_tail": "Neolithic Revolution",
+        "pred_score": 0.9015,
+        "topk_score_info": "{\"Neolithic Revolution\": 0.902, \"Industrious Revolution\": 0.828, \"British Agricultural Revolution\": 0.803}",
+        "rank": 47,
+        "correct": false
+    }
+]
