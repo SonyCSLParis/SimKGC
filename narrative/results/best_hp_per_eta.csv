@@ -1,0 +1,9 @@
+,prop,subevent,role,causation,lr,epoch,batch_size,exp_count,syntax,method,td
+10,0,1,0,0,1e-05,10,256,6,simple_rdf_prop,SimKGC,simple-triple+text
+14,1,0,0,1,5e-05,1,512,12,simple_rdf_reification,SimKGC,simple-triple+text
+16,1,0,0,0,5e-05,1,512,4,simple_rdf_prop,SimKGC,simple-triple+text
+23,0,0,0,1,1e-05,10,256,24,simple_rdf_prop,SimKGC,simple-triple+text
+36,1,1,0,0,1e-05,1,256,1,simple_rdf_prop,SimKGC,simple-triple+text
+43,0,0,0,0,1e-05,10,256,10,simple_rdf_prop,SimKGC,simple-triple+text
+56,1,1,0,1,1e-05,1,256,3,simple_rdf_prop,SimKGC,simple-triple+text
+61,0,1,0,1,1e-05,10,256,18,simple_rdf_prop,SimKGC,simple-triple+text
